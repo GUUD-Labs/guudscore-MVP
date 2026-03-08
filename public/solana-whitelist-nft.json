@@ -1,0 +1,1602 @@
+{
+  "network": "solana",
+  "total_collections": 199,
+  "fetched_at": "2025-12-23T23:39:47.260256",
+  "data_source": "Magic Eden API",
+  "sort_by": "volume_all (all-time volume)",
+  "note": "Top 200 Solana NFT collections sorted by all-time trading volume",
+  "collections": [
+    {
+      "collection_mint": "8y29xCC4Q4Fa1TZwsG2fixCx4uq1GhpdhLoK32tu8nxt",
+      "name": "SMB Gen2",
+      "symbol": "solana_monkey_business",
+      "standard": "metaplex",
+      "marketplace_slug": "solana_monkey_business",
+      "collection_image": "https://i.imgur.com/bMH6qNc.png"
+    },
+    {
+      "collection_mint": "4ZLoYnEGHTmfassz799x3D8pcGooP9qGvAA4WQzoSxop",
+      "name": "Mad Lads",
+      "symbol": "mad_lads",
+      "standard": "metaplex",
+      "marketplace_slug": "mad_lads",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/mad_lads_pfp_1682211343777.png"
+    },
+    {
+      "collection_mint": "8ap8ora58wE24K59TGUv6D9mNkPATqDvRpYAzCNCKJ24",
+      "name": "Okay Bears",
+      "symbol": "okay_bears",
+      "standard": "metaplex",
+      "marketplace_slug": "okay_bears",
+      "collection_image": "https://bafkreidgfsdjx4nt4vctch73hcchb3pkiwic2onfw5yr4756adchogk5de.ipfs.nftstorage.link/"
+    },
+    {
+      "collection_mint": "8oTtsg3KShD6c8WRGhjJa5h5k9otM27CjhDKsF11YHic",
+      "name": "Degenerate Ape Academy",
+      "symbol": "degenerate_ape_academy",
+      "standard": "metaplex",
+      "marketplace_slug": "degenerate_ape_academy",
+      "collection_image": "https://bafkreie44hlb5xve225n6p2siebaevxiwha37aefyvs2ul2kx2akalnree.ipfs.nftstorage.link/"
+    },
+    {
+      "collection_mint": "98ziHTgXMyDiUvDV71n9GuUEsYZJSPCUnciYxMf97TkN",
+      "name": "Frogana",
+      "symbol": "froganas",
+      "standard": "metaplex",
+      "marketplace_slug": "froganas",
+      "collection_image": "https://nftstorage.link/ipfs/bafkreicloy7xn3h2gxr3rj5aditynulgi2lsebnufchddp7agzjeu3mmiu"
+    },
+    {
+      "collection_mint": "6JHqefHAuGW73eiFQziPKkk2cmSK5kHypw151BacGUW3",
+      "name": "Claynosaurz",
+      "symbol": "claynosaurz",
+      "standard": "metaplex",
+      "marketplace_slug": "claynosaurz",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/claynosaurz_pfp_1679930706147.jpeg"
+    },
+    {
+      "collection_mint": "9huSU75qWNnKfkRAhMJUsg8f4sjLhdV3Rwv3TyzdUZs1",
+      "name": "Famous Fox Federation",
+      "symbol": "famous_fox_federation",
+      "standard": "metaplex",
+      "marketplace_slug": "famous_fox_federation",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/famous_fox_federation_pfp_1679672949828.gif"
+    },
+    {
+      "collection_mint": "CyCjtcbAX7DqqRJ8ULnoHXYM4xcNw82bTKVQKybCRjjU",
+      "name": "Transdimensional Fox Federation",
+      "symbol": "transdimensional_fox_federation",
+      "standard": "metaplex",
+      "marketplace_slug": "transdimensional_fox_federation",
+      "collection_image": "https://bafkreiatsxp4ygj4muopasqisvjpvuhuvdk734zldbhvkx74hfnhik6mja.ipfs.nftstorage.link"
+    },
+    {
+      "collection_mint": "2Me5AWMKXu3jkoUgrVr1WoVhzfDktKJFEEmBvymsbrwy",
+      "name": "TENSORIANS",
+      "symbol": "tensorians",
+      "standard": "metaplex",
+      "marketplace_slug": "tensorians",
+      "collection_image": "https://bafkreictk4t6dafy4p7bgpbvgrop76aajnlzllpue6wr4ynkyj3xxsejte.ipfs.nftstorage.link/"
+    },
+    {
+      "collection_mint": "ArFDnEHXx3HjQsrhGDhFSPEm9X2jqsnhWg8hEZzoueMV",
+      "name": "sharx by sharky.fi",
+      "symbol": "sharx",
+      "standard": "metaplex",
+      "marketplace_slug": "sharx",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/sharx_pfp_1664561059322.png"
+    },
+    {
+      "collection_mint": "EJcydxDHzmXEcxorDxhKFbN4GW2Vdj9hdoWG3Wcvopxw",
+      "name": "Ovols",
+      "symbol": "elixir_ovols",
+      "standard": "metaplex",
+      "marketplace_slug": "elixir_ovols",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/elixir_ovols_pfp_1700592508163.png"
+    },
+    {
+      "collection_mint": "2aygMkWLXLaJkX21A3Jhb4pZU26uWFcY8VarftunSvvy",
+      "name": "The Heist",
+      "symbol": "theheist",
+      "standard": "metaplex",
+      "marketplace_slug": "theheist",
+      "collection_image": "https://bafybeigch4m7rbec2l255powwbjmacnyj5n5o54qcboiwfgs2nnw6thimq.ipfs.nftstorage.link/"
+    },
+    {
+      "collection_mint": "6PWNRpfUaRWRH1TDamMKRbRPdVJYTSC57T3FhdxroahF",
+      "name": "Open Solmap",
+      "symbol": "open_solmap",
+      "standard": "metaplex",
+      "marketplace_slug": "open_solmap",
+      "collection_image": "https://bafkreibc3eszdgcdd7hltsdheqxyjkpzxipu7e235tjf22rjnl3ncl5m3m.ipfs.nftstorage.link/"
+    },
+    {
+      "collection_mint": "EKqxM5gxjCWUBnkA9YJxL4QtomjAKNz5USv9nYtEyjCg",
+      "name": "Solcasino.io",
+      "symbol": "solcasino",
+      "standard": "metaplex",
+      "marketplace_slug": "solcasino",
+      "collection_image": "https://bafybeidd6mu775yyagyr4vgo6y2ayb5dc7vylv5arnd3mupbscek5zveya.ipfs.nftstorage.link/"
+    },
+    {
+      "collection_mint": "39UjoJUozyF17MLi8JjNtJWUVwby73Dn9jJxFfPvK9aM",
+      "name": "Taiyo Robotics",
+      "symbol": "taiyo_robotics",
+      "standard": "metaplex",
+      "marketplace_slug": "taiyo_robotics",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/collection_images/taiyo_robotics.jpg"
+    },
+    {
+      "collection_mint": "H1MAJVWYjfSPBYXiRM6hWzwU6noPEGdQQqaNBfXSf6JU",
+      "name": "Portals",
+      "symbol": "portals",
+      "standard": "metaplex",
+      "marketplace_slug": "portals",
+      "collection_image": "https://bafkreifyjr527nl5mwttblf2os6um7lze3nmqki5iqoa4eow7cifrhl3ge.ipfs.nftstorage.link/"
+    },
+    {
+      "collection_mint": "2ETVJEUHnfn5rHCvRTFXPUXH9W8UvixAtcMEJseeoY7w",
+      "name": "Homeowners Association (Parcl)",
+      "symbol": "parcl",
+      "standard": "metaplex",
+      "marketplace_slug": "parcl",
+      "collection_image": "https://bafybeiaaku476rhseb7pz7zcesevpz7ljm3gyvmc52yqpo2zpchsqlkr7i.ipfs.nftstorage.link/4367.png?ext=png"
+    },
+    {
+      "collection_mint": "2ETVJEUHnfn5rHCvRTFXPUXH9W8UvixAtcMEJseeoY7w",
+      "name": "Homeowners Association (Parcl)",
+      "symbol": "parcl",
+      "standard": "metaplex",
+      "marketplace_slug": "parcl",
+      "collection_image": "https://bafybeiaaku476rhseb7pz7zcesevpz7ljm3gyvmc52yqpo2zpchsqlkr7i.ipfs.nftstorage.link/4367.png?ext=png"
+    },
+    {
+      "collection_mint": "2LrcqfP2aWRfFUEtwavx7aGz8uKPx2kAFTswnswxNWnt",
+      "name": "Magic Ticket",
+      "symbol": "magicticket",
+      "standard": "metaplex",
+      "marketplace_slug": "magicticket",
+      "collection_image": "https://ipfs.io/ipfs/bafybeibimlad5fzgsvo2hzvtb6h2ayqi6kncr665mddylf6crvjpc2l7s4"
+    },
+    {
+      "collection_mint": "5HpgsJBsRXmkoKc5TG5GxZNov8YWcD6vuzjGnG3vuFPe",
+      "name": "CryptoUndeads",
+      "symbol": "cryptoundeads",
+      "standard": "metaplex",
+      "marketplace_slug": "cryptoundeads",
+      "collection_image": "https://nftstorage.link/ipfs/bafkreida62zfbzsucw5tu3gqzyb6lzjhxa64xkxmwimbiigtvqlmypuvta"
+    },
+    {
+      "collection_mint": "28XHfShEUTj5ya1vvLsxhv1Vrko199qoaE85mfWqpdxK",
+      "name": "BoDoggos",
+      "symbol": "bodoggos",
+      "standard": "metaplex",
+      "marketplace_slug": "bodoggos",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/bodoggos_pfp_1687370020180.jpeg"
+    },
+    {
+      "collection_mint": "B5r9YB8Q7EM4eEzaNUxAaSWjyfqBHNA6cxhH5ecek7st",
+      "name": "SMB Gen3",
+      "symbol": "smb_gen3",
+      "standard": "metaplex",
+      "marketplace_slug": "smb_gen3",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/smb_gen3_pfp_1688353503184.png"
+    },
+    {
+      "collection_mint": "ADcRRBCMiJ2A45bCDxFFucGpj9iDAidJSnQQzKo6oQqP",
+      "name": "Zero Monke Biz",
+      "symbol": "zmb_0735",
+      "standard": "metaplex",
+      "marketplace_slug": "zmb_0735",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/zmb_0735_pfp_1675737312377.jpeg"
+    },
+    {
+      "collection_mint": "AoXF635irEPHegWqUmCg9mTPQ1smM1oG3iCpUigRcUyN",
+      "name": "Photo Finish PFP Collection",
+      "symbol": "stylish_studs",
+      "standard": "metaplex",
+      "marketplace_slug": "stylish_studs",
+      "collection_image": "https://www.arweave.net/7dntcPrPZeee702M5FBVCAOdnKVS5pGGQJVUsHKGCWI?ext=png"
+    },
+    {
+      "collection_mint": "13otXPN8bhx5jEUp696u2QJqQboHg4KdvdUkASNXmW8s",
+      "name": "Quekz",
+      "symbol": "duckpunkzuniverse",
+      "standard": "metaplex",
+      "marketplace_slug": "duckpunkzuniverse",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/duckpunkzuniverse_pfp_1650542071140.gif"
+    },
+    {
+      "collection_mint": "EqkKD6JwiKCif4Ad1Ef5rsPRekpkdKgugk6xoJtbEVkA",
+      "name": "Lifinity Flares",
+      "symbol": "lifinity_flares",
+      "standard": "metaplex",
+      "marketplace_slug": "lifinity_flares",
+      "collection_image": "https://bafkreiec2rotips5txqx3u5wto4bqyumckv25kkspgmvl27ms3ilzam2he.ipfs.nftstorage.link/"
+    },
+    {
+      "collection_mint": "8vN3ke2Q7dbv8hpEsvcbR7jDmPp85sK6qagd77aR73jx",
+      "name": "Saga Monkes",
+      "symbol": "sagamonkes",
+      "standard": "metaplex",
+      "marketplace_slug": "sagamonkes",
+      "collection_image": "https://nftstorage.link/ipfs/bafybeicp5tw4w3i55ffkjyxjnlmg6rlbsi4n3ly3mcviipqlgtg7art4lq"
+    },
+    {
+      "collection_mint": "7XktYsjGw3yxPpbGbqHnAXgMcgPupJrcwxzity6qgfYy",
+      "name": "Flash Trade ",
+      "symbol": "flashtrade",
+      "standard": "metaplex",
+      "marketplace_slug": "flashtrade",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/flashtrade_pfp_1703005567663.png"
+    },
+    {
+      "collection_mint": "HRN7UCfuZ4hfagZRYYZv4VomLa4WFbmScyToTShd8WUb",
+      "name": "CHADS",
+      "symbol": "chadswtf",
+      "standard": "metaplex",
+      "marketplace_slug": "chadswtf",
+      "collection_image": "https://shdw-drive.genesysgo.net/DULc8DgYywybLKKosZXbT5HBYHZiUbkkwNYy7QbirUc2/chads.png"
+    },
+    {
+      "collection_mint": "BD3QNig4RTUQbAcUVqLJYaeohRfPk7bsY9YzLYpcgFfS",
+      "name": "Index ONE",
+      "symbol": "index_one",
+      "standard": "metaplex",
+      "marketplace_slug": "index_one",
+      "collection_image": "https://arweave.net/kqeYcmk7M3GpvplsgpoOK8_NrybBV95-t6JmyXqRH4c?ext=png"
+    },
+    {
+      "collection_mint": "DG2hDbKp8KbivhcQgtUj4ura8vDzQZQvrrE3efkkV1uE",
+      "name": "Udder Chaos",
+      "symbol": "udder_chaos",
+      "standard": "metaplex",
+      "marketplace_slug": "udder_chaos",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/udder_chaos_pfp_1673380028324.png"
+    },
+    {
+      "collection_mint": "5JM85ExUn9M2SEiwDqhEyUKJk2dcD6DxNRmiJLuR2Mfn",
+      "name": "Nyan Heroes",
+      "symbol": "nyan_heroes",
+      "standard": "metaplex",
+      "marketplace_slug": "nyan_heroes",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/nyan_heroes_pfp_1690807406006.png"
+    },
+    {
+      "collection_mint": "7aNTd9KiKN97T8AZdMnKPst9hxDc3hiq1nfqC65tPTLq",
+      "name": "Kanpai Pandas",
+      "symbol": "kanpaipandas",
+      "standard": "metaplex",
+      "marketplace_slug": "kanpaipandas",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/kanpaipandas_pfp_1691632699556.gif"
+    },
+    {
+      "collection_mint": "2pfeWKh6EysGqpAf3KMrGyJswA9RtfwbSNwehWLpzEpU",
+      "name": "Bozo Collective",
+      "symbol": "bozo_collective",
+      "standard": "metaplex",
+      "marketplace_slug": "bozo_collective",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/bozo_collective_pfp_1696263152018.png"
+    },
+    {
+      "collection_mint": "3FSVTDoU2Rw8CiByETeYqQ9XuioeKuBw3jzzwqE2GyYh",
+      "name": "Gaimin Gladiators",
+      "symbol": "gaimin_gladiators",
+      "standard": "metaplex",
+      "marketplace_slug": "gaimin_gladiators",
+      "collection_image": "https://bafybeiesw5b4wqkhi73wk4i4tetwanixyazqsbogrvvpneqyaqgygzyowy.ipfs.nftstorage.link/"
+    },
+    {
+      "collection_mint": "AdVhmVQsUVsNreh63ZH5rnoaeJu99rYYhtag9QbjanhP",
+      "name": "TED",
+      "symbol": "ted_",
+      "standard": "metaplex",
+      "marketplace_slug": "ted_",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ted__pfp_1686851872504.png"
+    },
+    {
+      "collection_mint": "7Dw5LYEZu9YCXMC6FLwEv3NhJL1gTg5ai7Bmksv6s1JQ",
+      "name": "DeezNode",
+      "symbol": "deeznode",
+      "standard": "metaplex",
+      "marketplace_slug": "deeznode",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/deeznode_pfp_1674530718861.jpeg"
+    },
+    {
+      "collection_mint": "2iNhPfzkVLqeJ6X9YaNN95HocnMtENoK9s1J8vBrsQRm",
+      "name": "Cats on Jupiter",
+      "symbol": "jcats",
+      "standard": "metaplex",
+      "marketplace_slug": "jcats",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/jcats_pfp_1706170893180.png"
+    },
+    {
+      "collection_mint": "G7Wa4X6dbroUgAxYjyUP9JaVBjH954gYdoZpJMkRWk1B",
+      "name": "Pikenians",
+      "symbol": "pikenians",
+      "standard": "metaplex",
+      "marketplace_slug": "pikenians",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/pikenians_pfp_1706815483352.jpeg"
+    },
+    {
+      "collection_mint": "46EhPbVeUmuDAWs9AucrJzLdMayFmPMLsWedDKHaknxk",
+      "name": "MARMS",
+      "symbol": "marms",
+      "standard": "metaplex",
+      "marketplace_slug": "marms",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/marms_pfp_1707952077505.png"
+    },
+    {
+      "collection_mint": "7MeuN7b67HXyTEtEocQWvA7m1dry1ckAiK8WFmHd7gE3",
+      "name": "ZETA CARDS - S2",
+      "symbol": "zetacards_s2",
+      "standard": "metaplex",
+      "marketplace_slug": "zetacards_s2",
+      "collection_image": "https://bafkreihtg7spdwkxdvm443jnzigsawiwnjadgncotjetketqgezfkag3r4.ipfs.nftstorage.link/"
+    },
+    {
+      "collection_mint": "2rQpaU4GF5TRLQTXmemfdya4imk4NJodpQbbgd8mov8W",
+      "name": "Pioneer Pass",
+      "symbol": "starpower_pioneer_card",
+      "standard": "metaplex",
+      "marketplace_slug": "starpower_pioneer_card",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/starpower_pioneer_card_pfp_1708710059147.png"
+    },
+    {
+      "collection_mint": "6KXgPU2vneJDRZZf5VmXypbgf58WCsbWyfgaCavS5w3o",
+      "name": "Goons: 3D",
+      "symbol": "goons3d",
+      "standard": "metaplex",
+      "marketplace_slug": "goons3d",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/goons3d_pfp_1709281145901.jpeg"
+    },
+    {
+      "collection_mint": "54oWRhSwq3BrpuNuUoxxAhyeb5BehmcyMSXPmaGXJyUW",
+      "name": "epoch.001",
+      "symbol": "epoch",
+      "standard": "metaplex",
+      "marketplace_slug": "epoch",
+      "collection_image": "https://nftstorage.link/ipfs/bafybeiapyn3hksvo6lgkmgsgmy6mt2ncoh4fj3u3t7p4l2pbantsblfgrm/2486.png"
+    },
+    {
+      "collection_mint": "BoGf6utpQ5gJ3BKw5CbZ686qGMtaAvhAUSy8wxyW65aB",
+      "name": "Amber Key",
+      "symbol": "amberkey",
+      "standard": "metaplex",
+      "marketplace_slug": "amberkey",
+      "collection_image": "https://ap-assets.pinit.io/HHMfeDVBYGW4AfNN4x7W2v18Jy6dNfEGce92eeyzEha4/b06cd15e-1ea1-416f-a89e-696981661f0c/0"
+    },
+    {
+      "collection_mint": "E1JFcDh1K3cr779tvM1UDDhdsRnQMS97PyC45cEYSPHq",
+      "name": "pooks",
+      "symbol": "pooks",
+      "standard": "metaplex",
+      "marketplace_slug": "pooks",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/pooks_pfp_1706852303902.png"
+    },
+    {
+      "collection_mint": "7WB8Y6BsH4nB9YHtM4UZ9K59hn7QswNGfWXKa5MZSmUH",
+      "name": "Doopies",
+      "symbol": "doopies",
+      "standard": "metaplex",
+      "marketplace_slug": "doopies",
+      "collection_image": "https://media.cdn.magiceden.dev/launchpad//6b4e6e38-b84d-4293-a8a9-38a1b96ba51e"
+    },
+    {
+      "collection_mint": "BDxAxWWeyt7wMfMHHAjZVwuEFNxZ8ac9wAyKAxxoue4X",
+      "name": "Animation Richiest",
+      "symbol": "animated_richiest",
+      "standard": "metaplex",
+      "marketplace_slug": "animated_richiest",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/animated_richiest_pfp_1650385257167.gif"
+    },
+    {
+      "collection_mint": "5Xhpb8xed7TvKcCts8Bxgq1nwh2ZfcWYncQVSZ31Z1Qb",
+      "name": "The Inner Circle",
+      "symbol": "the_inner_circle",
+      "standard": "metaplex",
+      "marketplace_slug": "the_inner_circle",
+      "collection_image": "https://arweave.net/dnRo_4le3E3KLY-e4EW5TQaqhqA9RwT1RO6Wyf1qtw0?ext=gif"
+    },
+    {
+      "collection_mint": "DjMQwfMNjsctpYYxBXXvjMw7ExbmcxfteGjZRVE8QAYX",
+      "name": "SolForge Saga",
+      "symbol": "solforge_saga",
+      "standard": "metaplex",
+      "marketplace_slug": "solforge_saga",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/solforge_saga_pfp_1709224027714.png"
+    },
+    {
+      "collection_mint": "2EAYGuH6HeSHr1zN3ovtJff57w3DFr97gfwhT6DrkJFz",
+      "name": "Myros",
+      "symbol": "myros",
+      "standard": "metaplex",
+      "marketplace_slug": "myros",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/myros_pfp_1709003196883.jpeg"
+    },
+    {
+      "collection_mint": "FR5jHpmX15aRhxgtBzxuHjPQrYqjHTpE9D6cq5g5rbaR",
+      "name": "NFTickets",
+      "symbol": "nftickets",
+      "standard": "metaplex",
+      "marketplace_slug": "nftickets",
+      "collection_image": "https://d2nci21ylekf89.cloudfront.net/tix6yByxeq29mBN5yhF2qN1gK7TrpF89wQfPyRWmZ2G/collection.png"
+    },
+    {
+      "collection_mint": "66H8DbMrJJsaJzqkEo7cD5k1RpSCEWyf2JH5iVxsQRTi",
+      "name": "$Whale NFT",
+      "symbol": "whalenft",
+      "standard": "metaplex",
+      "marketplace_slug": "whalenft",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/whalenft_pfp_1765785378408.png"
+    },
+    {
+      "collection_mint": "3GbcCvg4FBpwSZ2Wr4y49h2XmSkVjDBW2eesXdEUXy5H",
+      "name": "Caroots",
+      "symbol": "caroots",
+      "standard": "metaplex",
+      "marketplace_slug": "caroots",
+      "collection_image": "https://media.cdn.magiceden.dev/launchpad//10a4d6ff-8930-41c0-ad7b-be98fd2663c5"
+    },
+    {
+      "collection_mint": "4fX1JTGawUeQ495zkP4W7u7ECSHYejwNq6qmhsuWAjyW",
+      "name": "D1srupt0rs",
+      "symbol": "d1srupt0rs",
+      "standard": "metaplex",
+      "marketplace_slug": "d1srupt0rs",
+      "collection_image": "https://media.cdn.magiceden.dev/launchpad//633140ec-bde2-43cc-9468-49a998a4a9b7"
+    },
+    {
+      "collection_mint": "1P5ui83Qbh36Jj2N3BWg39ujw3GfNhpjwzdA5fzwEGt",
+      "name": "N.A.N.A",
+      "symbol": "nana_",
+      "standard": "metaplex",
+      "marketplace_slug": "nana_",
+      "collection_image": "https://gateway.pinit.io/ipfs/QmcCGfmcXu6gqVpc3j2UFwQFs6HxrHo9gfaezpBk6JqfSS/0"
+    },
+    {
+      "collection_mint": "52gysga5ws7A6JgUGy6a2a8Garj5T8RLQPzt6Mhajy7X",
+      "name": "TOGA NFT",
+      "symbol": "toga_nft",
+      "standard": "metaplex",
+      "marketplace_slug": "toga_nft",
+      "collection_image": "https://na-assets.pinit.io/6gvNeesWuvFU8nkD1FFfU5ZZTCUEY1DvNjFr7qxf8AeQ/2942c9cf-79be-4410-8acb-217ab4bfd2ac/0"
+    },
+    {
+      "collection_mint": "4PXT5kFDxwwjvmDC7hE4eJq3fMbv8MZb4hsSDmFv37YX",
+      "name": "Infinite",
+      "symbol": "infinite",
+      "standard": "metaplex",
+      "marketplace_slug": "infinite",
+      "collection_image": "https://media.cdn.magiceden.dev/launchpad//8e0d61bf-e714-4743-b021-b51b5b22883e"
+    },
+    {
+      "collection_mint": "95cMLo7mum1uHEMboerrCoLXQKFq7ABSMFTcy6TxRKB3",
+      "name": "TRILLIONBEARS",
+      "symbol": "trillionbears",
+      "standard": "metaplex",
+      "marketplace_slug": "trillionbears",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/trillionbears_pfp_1765652155556.png"
+    },
+    {
+      "collection_mint": "ANhY1WqMGz5xjPcGP3RUZ1f2marUAV3ofp3YjroEmsxW",
+      "name": "Project Yurei",
+      "symbol": "project_yurei",
+      "standard": "metaplex",
+      "marketplace_slug": "project_yurei",
+      "collection_image": "https://ap-assets.pinit.io/88XyfAFs21EC1foePTPUZcFW8Tp58ZrM26A3YNtqPAGD/ae69b195-b8c5-42df-906c-bc30d9158240/0"
+    },
+    {
+      "collection_mint": "F6ZZwCJxpTbqpv3hDxshPLo3j6ofLZQfcACAiw1eRUyj",
+      "name": "Calvin Genesis Collection",
+      "symbol": "calvin_genesis_collection",
+      "standard": "metaplex",
+      "marketplace_slug": "calvin_genesis_collection",
+      "collection_image": "https://gateway.pinit.io/ipfs/QmcCg79M8yhf38ysor4neB8GibQZwY94tzjgFoiPRYkYcJ/0"
+    },
+    {
+      "collection_mint": "FbpEZh59HssMJzwqmhoWbhgTp33Xg8mogmYKAsdmj1gS",
+      "name": "The Monke, Return To Origin",
+      "symbol": "themonke",
+      "standard": "metaplex",
+      "marketplace_slug": "themonke",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/themonke_pfp_1766274058942.png"
+    },
+    {
+      "collection_mint": "AJrvyqwcomXSAugfMzSkgPjnqRpnqeWQg2Xmm2Cstcvv",
+      "name": "Ourbie",
+      "symbol": "ourbie",
+      "standard": "metaplex",
+      "marketplace_slug": "ourbie",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ourbie_pfp_1765873773932.png"
+    },
+    {
+      "collection_mint": "3H6W2SfwTJfiqs1EHnVoWXHLEnPUf2vGTrcDWiqq5eXr",
+      "name": "Golden Sea Cucumber Society",
+      "symbol": "golden_sea_cucumber_society",
+      "standard": "metaplex",
+      "marketplace_slug": "golden_sea_cucumber_society",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/golden_sea_cucumber_society_pfp_1766402386951.png"
+    },
+    {
+      "collection_mint": "21uZZGxUYcLZSJXvwWTwrzk194SzgcuWBp2DY4HA2Fbr",
+      "name": "IMPLS GENESIS ERA",
+      "symbol": "impls_genesis_era",
+      "standard": "metaplex",
+      "marketplace_slug": "impls_genesis_era",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/impls_genesis_era_pfp_1765692511729.png"
+    },
+    {
+      "collection_mint": "An3Txg7t5cvXVMzrLArkmmMhEVafv6mhGmtiZWSxNFR8",
+      "name": "The Queen by Ourbit",
+      "symbol": "the_queen_by_ourbit",
+      "standard": "metaplex",
+      "marketplace_slug": "the_queen_by_ourbit",
+      "collection_image": "https://static.willbebest.com/prod-nft/unlimited/images/unlimited.jpeg"
+    },
+    {
+      "collection_mint": "7pn8p2tws54qua1T7bhJ8yr2eT3JUR98dPVLNTjLnPBa",
+      "name": "Pepe Gods V2",
+      "symbol": "pepe_gods_v2",
+      "standard": "metaplex",
+      "marketplace_slug": "pepe_gods_v2",
+      "collection_image": "https://gateway.irys.xyz/13Tompka8WUuwMKQPaEgpjYAJQWM46fBryrXZC25jck4"
+    },
+    {
+      "collection_mint": "AYRrJMV6Dja6tKM2t38BZSYSFUdVQVWNSU2HfVsmFvfW",
+      "name": "Makers by Kapital",
+      "symbol": "makers_by_kapital",
+      "standard": "metaplex",
+      "marketplace_slug": "makers_by_kapital",
+      "collection_image": "https://ap-assets.pinit.io/9D8CE4yg17EtMHFNJMJJMUHeCxJHnVc1fkzUuqeCisNm/81406136-5255-4af4-9286-43eef1626825/0"
+    },
+    {
+      "collection_mint": "tksvNnBAvjKFSRCfyFoFSzgxbimB64maubQdeRyRinP",
+      "name": "Royal Solana Platinum Bars",
+      "symbol": "royal_solana_platinum_bars",
+      "standard": "metaplex",
+      "marketplace_slug": "royal_solana_platinum_bars",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/royal_solana_platinum_bars_pfp_1765233927244.png"
+    },
+    {
+      "collection_mint": "6Yyhm7sk7us2w9xE4iDmn2G6kfYnj6KCbhJtZ4bS9Qoh",
+      "name": "Frugs",
+      "symbol": "frugs",
+      "standard": "metaplex",
+      "marketplace_slug": "frugs",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/frugs_pfp_1765329684738.png"
+    },
+    {
+      "collection_mint": "9Eh9TR5VjxGNozipEic6orHpVcEQ9FrPtQmwhRhXHPZ4",
+      "name": "THEGAQFELLAS",
+      "symbol": "thegaqfellas",
+      "standard": "metaplex",
+      "marketplace_slug": "thegaqfellas",
+      "collection_image": "https://we-assets.pinit.io/EJXTV87mv34BAAqATW3NgrFXEpEjPbMsCw27bf5oaLtZ/b8fb4a93-dafa-42d1-a61c-dd7e72deb565/0"
+    },
+    {
+      "collection_mint": "8aCmtxUSax38eJnrMKsB2fWERNE1sXRbkB6WjNe8k7vb",
+      "name": "TETSUO ARENA",
+      "symbol": "tetsuoarena_nft_collection",
+      "standard": "metaplex",
+      "marketplace_slug": "tetsuoarena_nft_collection",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/tetsuo_nft_collection_pfp_1765294592589.jpeg"
+    },
+    {
+      "collection_mint": "4qoywVnPbxwGEsQMKUdpmh3E33oR5SsFAYwtSxmZbVAL",
+      "name": "Perfume Sprite",
+      "symbol": "perfume_sprite",
+      "standard": "metaplex",
+      "marketplace_slug": "perfume_sprite",
+      "collection_image": "https://gateway.lighthouse.storage/ipfs/bafybeic5zx4ccuru3pa2ejd335bo6bn2tdk6ailthcjcoc7avl4w4luyeu/30.png"
+    },
+    {
+      "collection_mint": "2zU9PNzg4EoGhVXqrUNpqpPA4N5q7q4kKgxRivikKLgu",
+      "name": "FLÆME",
+      "symbol": "flme",
+      "standard": "metaplex",
+      "marketplace_slug": "flme",
+      "collection_image": "https://ap-assets.pinit.io/DoZoLXkPmGZG6g7Cyqe2un5BtNzuYqFdYsuyTWyr8HDG/e3a2afd3-d6e8-4e02-a93e-f136f78de70f/0"
+    },
+    {
+      "collection_mint": "2thwhtGm8zopz1noeNvBWAVhETaRfQ236drQNVq9AGeK",
+      "name": "Geckura Elixir",
+      "symbol": "geckura_elixir",
+      "standard": "metaplex",
+      "marketplace_slug": "geckura_elixir",
+      "collection_image": "https://ap-assets.pinit.io/HPmB42TnfczNGwXFfKnvM8tcEpyKA25daEu1QiXgqxuz/e62c3dc5-9f89-40c4-92d3-e2fd91f97cef/0"
+    },
+    {
+      "collection_mint": "3AY2RmtcisCtbjibUrzN25pSgYQix3suhq3LaXiFGVya",
+      "name": "Average Joe",
+      "symbol": "average_joe_",
+      "standard": "metaplex",
+      "marketplace_slug": "average_joe_",
+      "collection_image": "https://na-assets.pinit.io/14Nd5oVpiDZfeRFxN5qa151CGgTjnBCpQdsuSPvuNtfk/210e9a8d-6675-44e1-9ca2-90f76ed1a8fd/0"
+    },
+    {
+      "collection_mint": "DejzmVV6t5dhyEK6NfyYtzDZtd6kR5vyXJkMdeFNisoF",
+      "name": "The Quiet City",
+      "symbol": "the_quiet_city",
+      "standard": "metaplex",
+      "marketplace_slug": "the_quiet_city",
+      "collection_image": "https://arweave.net/Q0cS8o07Rj6w1Bg4bDt9DCOKN6pToV81kfXEnno3x3U?ext=jpg"
+    },
+    {
+      "collection_mint": "5QpavYLc74VoDUgYSx3Hhf8KHquGGLpdM1ov7rTBuarY",
+      "name": "Kynolith Foundry",
+      "symbol": "kynolith_foundry",
+      "standard": "metaplex",
+      "marketplace_slug": "kynolith_foundry",
+      "collection_image": "https://na-assets.pinit.io/Ba3cSSAajoZ538Y6msdUYTc8tE4YCHaoTWms9fiPmgg6/76f1a028-43d3-4e52-b3c1-c39ee4b9c2ff/0"
+    },
+    {
+      "collection_mint": "5SE4rmjzp3ZvjRZWWEYugtNdahCien1jVnn78iytKzce",
+      "name": "X Banny NFT Collection",
+      "symbol": "x_banny_nft_collection",
+      "standard": "metaplex",
+      "marketplace_slug": "x_banny_nft_collection",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/xbanny_nft_collection_pfp_1765744103354.png"
+    },
+    {
+      "collection_mint": "4D1frmirNSkPguai77nSL7rZMam87nT9cr6Atvv14HHQ",
+      "name": "Rusty Rigs",
+      "symbol": "rusty_rigs",
+      "standard": "metaplex",
+      "marketplace_slug": "rusty_rigs",
+      "collection_image": "https://na-assets.pinit.io/BZ1NQ34DFznEvysrcR8CU8phN5bJcRD43dk5QHfjWa3Q/5729b703-d442-45bc-8f85-2eaaff4f2afb/0"
+    },
+    {
+      "collection_mint": "FDLr4VT3VkrdKHKqVrxReqcw6M4ACniSppN1Yx1kNEBP",
+      "name": "The Wraithwardens of Vireth ",
+      "symbol": "the_wraithwardens_of_vireth",
+      "standard": "metaplex",
+      "marketplace_slug": "the_wraithwardens_of_vireth",
+      "collection_image": "https://gateway.irys.xyz/hvshEWCX0ZuJByyxDzUjxgwpRagOnoR0293UUeZ0XVI?ext=jpg"
+    },
+    {
+      "collection_mint": "262xs9FzoFeitndKdtGLarCwohGAgMhkU8MMJWc5DE9q",
+      "name": "Zenjaku",
+      "symbol": "zenjaku_0",
+      "standard": "metaplex",
+      "marketplace_slug": "zenjaku_0",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/zenjaku_0_pfp_1765933907285.png"
+    },
+    {
+      "collection_mint": "CV9SBseKom9teD9R2iZApWnTAy3Z3ez4U8fNFmXbwFM6",
+      "name": "Portal Nomads - Small Town Gates",
+      "symbol": "portal_nomads_small_town_gates",
+      "standard": "metaplex",
+      "marketplace_slug": "portal_nomads_small_town_gates",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/portal_nomads_small_town_gates_pfp_1765389278091.png"
+    },
+    {
+      "collection_mint": "2PdReBuRi3s16EanZ35ewGVVyhXrDNm77yjbphQ2JwQm",
+      "name": "Mintland coupons",
+      "symbol": "mintland_coupons",
+      "standard": "metaplex",
+      "marketplace_slug": "mintland_coupons",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/mintland_coupons_pfp_1765221285530.png"
+    },
+    {
+      "collection_mint": "5Bu97TtG2HL1WiWbEtzp2kCmyFNvhiQUjL5FwU7uZtM",
+      "name": "Web3 ohne Bullsh*t – Limited Edition",
+      "symbol": "web3_ohne_bullsht_limited_edition",
+      "standard": "metaplex",
+      "marketplace_slug": "web3_ohne_bullsht_limited_edition",
+      "collection_image": "https://gateway.pinit.io/ipfs/QmbT9CCVGVxEqvdn8U7dihcEZxCRubcUYq1CMrhcXrxSwH/0"
+    },
+    {
+      "collection_mint": "BzusGdGVZhoPYQpSj64gAJGncDddb2JzgXDZQkaY8CS5",
+      "name": "StrayKidsOnSolana",
+      "symbol": "straykidsonsolana",
+      "standard": "metaplex",
+      "marketplace_slug": "straykidsonsolana",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/straykidsonsolana_pfp_1766438120752.png"
+    },
+    {
+      "collection_mint": "",
+      "name": "Grass Genesis #1",
+      "symbol": "grass_genesis_1",
+      "standard": "metaplex",
+      "marketplace_slug": "grass_genesis_1",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "3U2MFwN9mBGh5zBuGNRaFN4Wqci1HxBvNrSRbxqxhwRt",
+      "name": "Ether Seal Collection",
+      "symbol": "ether_seal_collection",
+      "standard": "metaplex",
+      "marketplace_slug": "ether_seal_collection",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ether_seal_collection_pfp_1766123819421.png"
+    },
+    {
+      "collection_mint": "2me6YCYzkX2fdvzZ1zif7ekfFauQAa9yqGgK49L2FLie",
+      "name": "abcGYANNFT",
+      "symbol": "abcgyannft",
+      "standard": "metaplex",
+      "marketplace_slug": "abcgyannft",
+      "collection_image": "https://gateway.irys.xyz/qBcRfpixJ4lgsbJ4yT66zejHf0Jnxvt7yd_GLonxoPE?ext=png"
+    },
+    {
+      "collection_mint": "2RrfNWAjPB7akzBUS8TmqC9jY43zgYaNpkDTpnb8uNwC",
+      "name": "The Skrinch",
+      "symbol": "the_skrinch",
+      "standard": "metaplex",
+      "marketplace_slug": "the_skrinch",
+      "collection_image": "https://na-assets.pinit.io/BLtHbnqAb16AkK3gtGeWvxpwe7pPehVAdjm3foDwdD2U/ddae2974-968b-4023-a55b-710cfb7060f0/0"
+    },
+    {
+      "collection_mint": "",
+      "name": "Man & Machine Dialogues",
+      "symbol": "man_machine_dialogues",
+      "standard": "metaplex",
+      "marketplace_slug": "man_machine_dialogues",
+      "collection_image": "https://arweave.net/MP1guSrMi_J96HGpZOJdsiICE-Yw0X3MGR9wfgFjT60?ext=jpg"
+    },
+    {
+      "collection_mint": "5a6WS3MqZErDSf5WU428fS1HdPtPHWvH9fMhC86Jm4sy",
+      "name": "Yuletide Yowlers",
+      "symbol": "yuletide_yowlers",
+      "standard": "metaplex",
+      "marketplace_slug": "yuletide_yowlers",
+      "collection_image": "https://na-assets.pinit.io/Bi2fJ1iBqzjc6nSHqpQruY43KEEG1bBwGDLmazF6xMGQ/c160fae7-d340-41e9-9861-3b90e5efd716/0"
+    },
+    {
+      "collection_mint": "",
+      "name": "NFT Collection",
+      "symbol": "AizTQRNETimhUX7fwVKNN8E4HKegYhyfu9tfTvzgzZJc",
+      "standard": "metaplex",
+      "marketplace_slug": "AizTQRNETimhUX7fwVKNN8E4HKegYhyfu9tfTvzgzZJc",
+      "collection_image": "https://www.crossmint.com/assets/crossmint/logo.svg"
+    },
+    {
+      "collection_mint": "4hZLAu2CbdoX7H4aNCJfJJyobTRfikkEiJfvYAZqX6GC",
+      "name": "Rejected Charity 1 of 1s",
+      "symbol": "rejected_charity",
+      "standard": "metaplex",
+      "marketplace_slug": "rejected_charity",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/rejected_charity_pfp_1766257370666.png"
+    },
+    {
+      "collection_mint": "5fvqzNLzvWMJssSwnx54MZUMd9XxKW9jqiNjpw6vYN5C",
+      "name": "TideWalkerz",
+      "symbol": "tidewalkerz",
+      "standard": "metaplex",
+      "marketplace_slug": "tidewalkerz",
+      "collection_image": "https://gateway.pinit.io/ipfs/QmWKM8gM7MCkyNXWeQKjAJhvcckqEVAr9UMN2TfQEMN1TW/0"
+    },
+    {
+      "collection_mint": "D46Sg6567w5VEhRVZjiKkXAbbLtrowW7h276arGayRz8",
+      "name": "Ghiblification: Winter Season",
+      "symbol": "ghibli_winter_season_2025",
+      "standard": "metaplex",
+      "marketplace_slug": "ghibli_winter_season_2025",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ghibli_winter_season_2025_pfp_1766226674126.png"
+    },
+    {
+      "collection_mint": "",
+      "name": "GOD CARDS NFT COLLECTION ",
+      "symbol": "godcardsnft",
+      "standard": "metaplex",
+      "marketplace_slug": "godcardsnft",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/godcardsnft_pfp_1766181206387.jpeg"
+    },
+    {
+      "collection_mint": "GnErgiA4hUoELWze4kjEowMPrKZJQsaZHxiVDwZqtkV1",
+      "name": "Solstice Spirits",
+      "symbol": "solstice_spirits",
+      "standard": "metaplex",
+      "marketplace_slug": "solstice_spirits",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/solstice_spirits_pfp_1766177428045.png"
+    },
+    {
+      "collection_mint": "6jZV5J6GEzBSMQ91rjSkz3KhecmD4No4wvTt3TiwpBAs",
+      "name": "PLOWED: Earth",
+      "symbol": "plowed_earth",
+      "standard": "metaplex",
+      "marketplace_slug": "plowed_earth",
+      "collection_image": "https://we-assets.pinit.io/DFv3DxiM449RTNbL8N2WqosoEsa14zcppQg9wvkvTF92/4e9c131c-a57b-463d-8a07-dbbb00298f14/0"
+    },
+    {
+      "collection_mint": "",
+      "name": "New Institute",
+      "symbol": "new_institute_",
+      "standard": "metaplex",
+      "marketplace_slug": "new_institute_",
+      "collection_image": "https://cert-digital-stage-bucket.s3.amazonaws.com/6944f30302d0dae3113c0b4a_TRDCOin.png"
+    },
+    {
+      "collection_mint": "6teTwm2ALvndEKAjg8zLS8xzbJLJ7R7Cb5V5ZrUve8dC",
+      "name": "Hall of Junk - Season 5",
+      "symbol": "hall_of_junk_season_5",
+      "standard": "metaplex",
+      "marketplace_slug": "hall_of_junk_season_5",
+      "collection_image": "https://ipfs.io/ipfs/bafybeihm3ggj5zdsf3yak5sn44ofme443upwqcy6eeyz5df5dd5wz7kck4"
+    },
+    {
+      "collection_mint": "4mHcWaUM2tvMvGTefacxQHSVPBrSqYcz3KAB4R7E2Ddy",
+      "name": "LEGACY SPECIAL REWARDS",
+      "symbol": "legacy_special_rewards",
+      "standard": "metaplex",
+      "marketplace_slug": "legacy_special_rewards",
+      "collection_image": "https://na-assets.pinit.io/3iNwNzsnqokYjXQFm8gTvAeriGgbtw1KhTQ5DEtecQXw/d847a542-b10a-4dac-8f32-ebbbff9d88d2/0"
+    },
+    {
+      "collection_mint": "3Vov6gkKcdpePgFC3hJAy3SE8t9U5THeZUHeoVP8ttBU",
+      "name": "Robloxio",
+      "symbol": "robloxio",
+      "standard": "metaplex",
+      "marketplace_slug": "robloxio",
+      "collection_image": "https://lime-given-booby-462.mypinata.cloud/ipfs/bafybeih42dqwjyi2dnkieedxn5ftofgu43nkqx7kib7brwjsdyp2ypwg5a"
+    },
+    {
+      "collection_mint": "4LXLGE1JCpWS7ju4uvNPru4hGRDAYAFSTknaBh2yUkJk",
+      "name": "Yee",
+      "symbol": "yee_",
+      "standard": "metaplex",
+      "marketplace_slug": "yee_",
+      "collection_image": "https://na-assets.pinit.io/CSC9RcbRt8K9W18aE8jX2qGRWmMUVPKQmykkbcNwqgSt/be478f45-76d7-43f3-a852-404ed55f90a0/0"
+    },
+    {
+      "collection_mint": "",
+      "name": "Moonwalk Fitness",
+      "symbol": "moonwalk_fitness",
+      "standard": "metaplex",
+      "marketplace_slug": "moonwalk_fitness",
+      "collection_image": "https://arweave.net/kiQB04xvivFNFkbpUeeSSYUHWcI0hK9HNUZodNgG910"
+    },
+    {
+      "collection_mint": "EUt84SpVLW46QPhTPycvyRzjoM69RAZtdtEq3SCEQeCt",
+      "name": "Orbital",
+      "symbol": "orbital__",
+      "standard": "metaplex",
+      "marketplace_slug": "orbital__",
+      "collection_image": "https://cheerful-peony-7dba5a.netlify.app/box_hidden.png"
+    },
+    {
+      "collection_mint": "",
+      "name": "Pixel Girl",
+      "symbol": "pixgirl",
+      "standard": "metaplex",
+      "marketplace_slug": "pixgirl",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/pixgirl_pfp_1663536987341.png"
+    },
+    {
+      "collection_mint": "Gdg1T9938zApZWb5KYYqmAqPJSXUP7gxkAnZiwTcyfnQ",
+      "name": "Booster pack product",
+      "symbol": "booster_pack_product",
+      "standard": "metaplex",
+      "marketplace_slug": "booster_pack_product",
+      "collection_image": "https://ipfs.artrade.app/ipfs/QmSX6nxkHWu9paEtUYyiGaf4BPVBWqSY7U1sAxscF6ueRV"
+    },
+    {
+      "collection_mint": "5kkdeLJnu4UWqmLYRf7PkAAvhc8Ky5ErFQZL41WEKSAg",
+      "name": "Common Baby Hanz",
+      "symbol": "common_baby_hanz",
+      "standard": "metaplex",
+      "marketplace_slug": "common_baby_hanz",
+      "collection_image": "https://reddjoseph.github.io/hanzenko-nfts/images/Hanz-Common.png"
+    },
+    {
+      "collection_mint": "GRubZKbhRiJKSWTdRkEaYqKLHreVrJGYyy3Qx1nH2Spb",
+      "name": "Goob",
+      "symbol": "goob_",
+      "standard": "metaplex",
+      "marketplace_slug": "goob_",
+      "collection_image": "https://nfts-minted.print.world/2b520221-ca8b-4e69-be91-c4dd90717ebf/_collection.avif"
+    },
+    {
+      "collection_mint": "2HgYhAjeqS4yoa84p8fSXoL4cvB2Ry3bb59WJYcJv7WN",
+      "name": "Crash NFT",
+      "symbol": "crash_nft",
+      "standard": "metaplex",
+      "marketplace_slug": "crash_nft",
+      "collection_image": "https://bafybeiadhcjf24k2o3ofio73dtg7n6g46i73ltyvqyrs63t27js3o3aasy.ipfs.w3s.link/crashnft.png"
+    },
+    {
+      "collection_mint": "",
+      "name": "Art of Mojica",
+      "symbol": "art_of_mojica",
+      "standard": "metaplex",
+      "marketplace_slug": "art_of_mojica",
+      "collection_image": "https://arweave.net/nZ4UmtTXbDgH7UwDOKW_RX9zTvN6U5QDIJLkKXXrkpo?ext=jpg"
+    },
+    {
+      "collection_mint": "3T9Vj8W7T8sHBeMYYBmho8q5fYgDz4xjDb7rhxjLyYLh",
+      "name": "Humanz Pass",
+      "symbol": "humanz_pass",
+      "standard": "metaplex",
+      "marketplace_slug": "humanz_pass",
+      "collection_image": "https://na-assets.pinit.io/GSVPK9V9NFJeuCThYUzeaUVAe1PvJHHPe9uw1qPgD9t1/36431c9a-5412-4504-aed1-a0a4434e8fb2/0"
+    },
+    {
+      "collection_mint": "HKvGBJKJ52Tg8kvx47F7ofne4QRF7rPNbVKDBEKyqdck",
+      "name": "Moon or Dust",
+      "symbol": "moon_or_dust",
+      "standard": "metaplex",
+      "marketplace_slug": "moon_or_dust",
+      "collection_image": "https://gateway.irys.xyz/dHJQyA89b9GQ9mrnH0s5PeGzl1pjC9VWMw54_sXg-_Q?ext=png"
+    },
+    {
+      "collection_mint": "5dcrtt9hHy99nwUKzvSFvuCyMHgX9nUsuSzghfxJHTmc",
+      "name": "Ricochet Rabbit",
+      "symbol": "ricochet_rabbit",
+      "standard": "metaplex",
+      "marketplace_slug": "ricochet_rabbit",
+      "collection_image": "https://arweave.net/4baxD_37l7jptLha4OUhfU2eVoKn1MnbaTsQnICi1Es"
+    },
+    {
+      "collection_mint": "",
+      "name": "Snowtardz",
+      "symbol": "snowtardz",
+      "standard": "metaplex",
+      "marketplace_slug": "snowtardz",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/snowtardz_pfp_1765823825065.png"
+    },
+    {
+      "collection_mint": "3MngzCtnbR19DLBGgTid8pDZcL5yrv2kJNb2QyHqcq6h",
+      "name": "Protect the Skull Planet",
+      "symbol": "protect_the_skull_planet",
+      "standard": "metaplex",
+      "marketplace_slug": "protect_the_skull_planet",
+      "collection_image": "https://ipfs.io/ipfs/QmQAmQZ7wL8WUXwVy9Xjqb5KeGuHdssh6w4AThyMx8FbyD"
+    },
+    {
+      "collection_mint": "9Xpek7RKao4kPBznry36doxvM4VrzZg4CSK27YKdedkt",
+      "name": "Pickles",
+      "symbol": "pickles_",
+      "standard": "metaplex",
+      "marketplace_slug": "pickles_",
+      "collection_image": "https://gateway.irys.xyz/CCUKPr72LZbhg15sJiFxCos4VJmauBmrwD1aPyGN6TjR"
+    },
+    {
+      "collection_mint": "HBe7XgEhdCBYBetoecgTbmms5rve7Zf7jMzH6eXErtz9",
+      "name": "THE WORLD OF NEO SPIKE",
+      "symbol": "worldneo",
+      "standard": "metaplex",
+      "marketplace_slug": "worldneo",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/worldneo_pfp_1765766810015.png"
+    },
+    {
+      "collection_mint": "Adq5jsj5Ls248kqKNv2ZhLV8svkDZ1EMXTzuKMsbqAWe",
+      "name": "long form christmas",
+      "symbol": "long_form_christmas",
+      "standard": "metaplex",
+      "marketplace_slug": "long_form_christmas",
+      "collection_image": "https://lime-given-booby-462.mypinata.cloud/ipfs/bafybeifpxhyz2w3l7t5bio6zdklfk6bkicdbkpsg3hmvpc3un4cfw4jrkq"
+    },
+    {
+      "collection_mint": "",
+      "name": "Pick-3",
+      "symbol": "9VeuRzWDdR2BKDLdXrPqWrMbrD4T6UMSChsZFv5vHByp",
+      "standard": "metaplex",
+      "marketplace_slug": "9VeuRzWDdR2BKDLdXrPqWrMbrD4T6UMSChsZFv5vHByp",
+      "collection_image": "https://ewr1.vultrobjects.com/lineone/0c89755e-1b5e-4b1c-bff3-35e2a06dc563.png"
+    },
+    {
+      "collection_mint": "3fSmHUcGhwcNqoiL8CQeiHVvCGwybqFjsMTTs6Aei7oM",
+      "name": "Terry – Watcher of the Sands",
+      "symbol": "terry_watcher_of_the_sands",
+      "standard": "metaplex",
+      "marketplace_slug": "terry_watcher_of_the_sands",
+      "collection_image": "https://storage.googleapis.com/breakpoint2025-airdrop-nfts/weRatexSolflare-BP2025-AbuDhabi.png"
+    },
+    {
+      "collection_mint": "5dyxjSoSm6xCABWhbbaM9ddsn2CVRqY5hoDJo2gNcZdj",
+      "name": "Lenny",
+      "symbol": "lenny_",
+      "standard": "metaplex",
+      "marketplace_slug": "lenny_",
+      "collection_image": "https://nfts-minted.print.world/a976370e-13f5-4feb-b153-b4ba78a13ffc/_collection.avif"
+    },
+    {
+      "collection_mint": "3sWAGEkGbyH9eWtK43TNufMw8uMm5H6MqU79vC7Gc1gY",
+      "name": "_NoEvil",
+      "symbol": "noevil",
+      "standard": "metaplex",
+      "marketplace_slug": "noevil",
+      "collection_image": "https://ipfs.io/ipfs/QmUEYuVHipoEZzaAUwcNMo1T3j7MzxKj5mDuvXiHkpxeeF"
+    },
+    {
+      "collection_mint": "zQxD6AP3Rr2eaPTQdQJRwDce4EopRuYxLKai7dkBWa2",
+      "name": "FoxByte",
+      "symbol": "foxbyte_",
+      "standard": "metaplex",
+      "marketplace_slug": "foxbyte_",
+      "collection_image": "https://we-assets.pinit.io/FbD5WCSS7u3Ncn1UJLYkhmQY1CEbCbFDRS2vD6rCSp4B/7ae0a56b-9ba3-45ac-b542-55c05c5f3448/0"
+    },
+    {
+      "collection_mint": "",
+      "name": "Bulk Test",
+      "symbol": "bulk_test",
+      "standard": "metaplex",
+      "marketplace_slug": "bulk_test",
+      "collection_image": "https://media.istockphoto.com/id/1154935375/photo/peeled-banana-on-white-background-photo-with-clipping-path.jpg?s=612x612&w=0&k=20&c=1k2Vczv77F2k6FhlFwL1xrtvQ1lq6_1aaO8Eo4rHKQ8="
+    },
+    {
+      "collection_mint": "FcNoFZvW4g8J2Qit11uM9cYBr9Pbf9umNQNVVUpWr5NY",
+      "name": "Valkyrie Order - Final Act",
+      "symbol": "valkyrie_order_final_act",
+      "standard": "metaplex",
+      "marketplace_slug": "valkyrie_order_final_act",
+      "collection_image": "https://we-assets.pinit.io/vTS5wMvsu72Uj5Rxdab5YXVxmFSv3cyytC1jR666EQb/a0a7c2d9-545c-49ae-b814-b7edece65128/0"
+    },
+    {
+      "collection_mint": "38iYgQXYd9irc6j4wN9cV6CmTKRQXKh59eUaAdVjLvav",
+      "name": "Bloc Badges • Bloc",
+      "symbol": "bloc_badges_bloc",
+      "standard": "metaplex",
+      "marketplace_slug": "bloc_badges_bloc",
+      "collection_image": "https://gray-patient-duck-402.mypinata.cloud/ipfs/bafybeiffsnymrmqst43tp6douqq2f43asn372jbeodf27xsjcyd5d2a3yu"
+    },
+    {
+      "collection_mint": "7pBXsrGHT16H3gXnX4LTC2CnzWCxbMhG7BnsouPat8V1",
+      "name": "NOOTTOOLS",
+      "symbol": "noottoolsnft",
+      "standard": "metaplex",
+      "marketplace_slug": "noottoolsnft",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/noottoolsnft_pfp_1765563826938.jpeg"
+    },
+    {
+      "collection_mint": "GeNyMHRmGWyTWvHHGqiCpoKQUWJX7W26fBuJq1iXi6yy",
+      "name": "thats all folks",
+      "symbol": "thats_all_folks",
+      "standard": "metaplex",
+      "marketplace_slug": "thats_all_folks",
+      "collection_image": "https://gateway.irys.xyz/vyNTKH0zreYFViR6oYXxuthMDGtkAY2oEVblaRk74Sg/1.jpg"
+    },
+    {
+      "collection_mint": "2MBCdkedRAW6idK6AEGavyAhe6Zapk9cSgCb5McKdGhc",
+      "name": "CrazyLive Genesis 100",
+      "symbol": "crazylive_genesis_100",
+      "standard": "metaplex",
+      "marketplace_slug": "crazylive_genesis_100",
+      "collection_image": "https://gateway.irys.xyz/yiDSpsNbCw88Mmge9sG7UhdauIckDUbBUfs1YUAXvOg?ext=png"
+    },
+    {
+      "collection_mint": "",
+      "name": "Krishna Institute",
+      "symbol": "krishna_institute",
+      "standard": "metaplex",
+      "marketplace_slug": "krishna_institute",
+      "collection_image": "https://cert-digital-stage-bucket.s3.amazonaws.com/693bcc886f041fbea8eae6be_TRDCOin.png"
+    },
+    {
+      "collection_mint": "",
+      "name": "Sarthak Institute",
+      "symbol": "sarthak_institute",
+      "standard": "metaplex",
+      "marketplace_slug": "sarthak_institute",
+      "collection_image": "https://cert-digital-stage-bucket.s3.amazonaws.com/693bcc526f041fbea8eae67a_TRDCOin.png"
+    },
+    {
+      "collection_mint": "",
+      "name": "Rahul Institute",
+      "symbol": "rahul_institute",
+      "standard": "metaplex",
+      "marketplace_slug": "rahul_institute",
+      "collection_image": "https://cert-digital-stage-bucket.s3.amazonaws.com/693bcc386f041fbea8eae652_node.png"
+    },
+    {
+      "collection_mint": "EBy3AG4Qyhy9yonBcqeW2k4ESK6JeB8DcCLzdqjoi4oc",
+      "name": "Testing Reveal Ghozt",
+      "symbol": "testing_reveal_ghozt",
+      "standard": "metaplex",
+      "marketplace_slug": "testing_reveal_ghozt",
+      "collection_image": "https://nfts-minted-stage.printlol.xyz/2cb7a202-3202-446e-9fd0-c316fe6d3b4c/_collection.avif"
+    },
+    {
+      "collection_mint": "Do1eM2eYT7nnMRbrXeB4HzDRFNK5AQ1rcvgY8xwhA4Jq",
+      "name": "YUMI",
+      "symbol": "yumi",
+      "standard": "metaplex",
+      "marketplace_slug": "yumi",
+      "collection_image": "https://we-assets.pinit.io/55b6iehazTf3FCjRFcwyKXTAUtDpC58KnkYRej1YmSYo/70bd6419-3671-4821-91bc-432a38d91ad0/0"
+    },
+    {
+      "collection_mint": "",
+      "name": "Funks",
+      "symbol": "funks",
+      "standard": "metaplex",
+      "marketplace_slug": "funks",
+      "collection_image": "https://nfts-minted-stage.printlol.xyz/01a19ddc-1025-4f41-89dc-6a7e3701e966/_collection.jpg"
+    },
+    {
+      "collection_mint": "2H6WweLi9gp65EgLEaKjNmoB8bnHZN7XhqZ5agpstpeL",
+      "name": "OddKey Cover POAPs",
+      "symbol": "2uPycZxc83BebReMcymexgv9D6gCgF964MZQCnm1s5kc",
+      "standard": "metaplex",
+      "marketplace_slug": "2uPycZxc83BebReMcymexgv9D6gCgF964MZQCnm1s5kc",
+      "collection_image": "https://na-assets.pinit.io/4uvRrABRwaYPGkgXPoWLsQkwBYbHew28uoy5qwLSrusJ/4d0a1e8e-cecf-4377-878c-c154737db6ed/0"
+    },
+    {
+      "collection_mint": "2mB1hwxPwHZm1rsrz5MYmK4ZX2a5C5NQ5B9Mb28dXCuF",
+      "name": "Neuro Vinyl",
+      "symbol": "neuro_vinyl",
+      "standard": "metaplex",
+      "marketplace_slug": "neuro_vinyl",
+      "collection_image": "ipfs://bafybeiggfxjjdgzpfep4hu533mylaf4y4ujzs4fnvrd3thf6xcqgi3lts4"
+    },
+    {
+      "collection_mint": "YWJPhoeS8U7HKz2WHogk6fdwvyT7wATQ8JDKy75dX26",
+      "name": "Solana CardVerse",
+      "symbol": "solana_cardverse_",
+      "standard": "metaplex",
+      "marketplace_slug": "solana_cardverse_",
+      "collection_image": "https://devnet.irys.xyz/K94jb8FTEYsLpN1wM97SWWgWeP84DyjEJyHMnww9Km1"
+    },
+    {
+      "collection_mint": "",
+      "name": "EVENT",
+      "symbol": "75oRsSBZ6RV2Tunnh6vT9zdzqUW5ocSen1ZXGN1UyhFp",
+      "standard": "metaplex",
+      "marketplace_slug": "75oRsSBZ6RV2Tunnh6vT9zdzqUW5ocSen1ZXGN1UyhFp",
+      "collection_image": "https://nfts.kydlabs.com/s/EV4e8384bb-862a-4c31-97b1-0ab31914cec4/image.png"
+    },
+    {
+      "collection_mint": "",
+      "name": "EVENT",
+      "symbol": "CJgEzWvCiL6ehP4Vfxt7oNvjEtxLXNv4UBcjaY8hmqZr",
+      "standard": "metaplex",
+      "marketplace_slug": "CJgEzWvCiL6ehP4Vfxt7oNvjEtxLXNv4UBcjaY8hmqZr",
+      "collection_image": "https://nfts.kydlabs.com/s/EV80f7bc47-c7f3-4882-bc93-2224bbc38f8d/image.png"
+    },
+    {
+      "collection_mint": "",
+      "name": "Ledger Flex™ Solana Collection",
+      "symbol": "lfsc",
+      "standard": "metaplex",
+      "marketplace_slug": "lfsc",
+      "collection_image": "https://crossmint.myfilebase.com/ipfs/QmeUSn47a1oiRS2M3THFDzLwxvRiDX6zfeD9R5unLxUeu2"
+    },
+    {
+      "collection_mint": "",
+      "name": "EVENT",
+      "symbol": "EiHPPBnw5zNXdPFZtAX8SGYbyM4sSbua2RdNPbvdke1q",
+      "standard": "metaplex",
+      "marketplace_slug": "EiHPPBnw5zNXdPFZtAX8SGYbyM4sSbua2RdNPbvdke1q",
+      "collection_image": "https://nfts.kydlabs.com/s/EVafb318df-e09d-46c9-9352-6186ecb5abca/f5b1a3c5-6f12-470f-9bca-30ebb43ca54e.jpeg"
+    },
+    {
+      "collection_mint": "boUdAtwj4pWbmms448RsdZh8bR6ySJs1X4TxttnWLeL",
+      "name": "Rilegato Family DAO",
+      "symbol": "rilegato_family_dao",
+      "standard": "metaplex",
+      "marketplace_slug": "rilegato_family_dao",
+      "collection_image": "https://gateway.irys.xyz/4HA9QwgmZaSqhSu7SByUdD8ULZtLrck7cqTzASXWfdH1"
+    },
+    {
+      "collection_mint": "",
+      "name": "SOON PILLED",
+      "symbol": "soon_pilled_nft",
+      "standard": "metaplex",
+      "marketplace_slug": "soon_pilled_nft",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/soon_pilled_nft_pfp_1765336657883.png"
+    },
+    {
+      "collection_mint": "9o67QrK8u3pHJXNbHSyhTTRhbesSz3ktbj93Mu4TBGV4",
+      "name": "Rave Gods",
+      "symbol": "rave_gods",
+      "standard": "metaplex",
+      "marketplace_slug": "rave_gods",
+      "collection_image": "https://na-assets.pinit.io/ELdjUdNVSNFGDrw5SK6DDaMry1bkGnRqpVwRyUiVbm6k/878b4e49-64fb-4cb4-b20f-41a0bb7b816d/0"
+    },
+    {
+      "collection_mint": "",
+      "name": "EVENT",
+      "symbol": "Cxg25YzxQwvhdzAAAvC9PDPgNn1ikJGnYo6XWSV8EaYB",
+      "standard": "metaplex",
+      "marketplace_slug": "Cxg25YzxQwvhdzAAAvC9PDPgNn1ikJGnYo6XWSV8EaYB",
+      "collection_image": "https://nfts.kydlabs.com/s/EVf8692c4c-c8f8-4b76-9118-1e4d1b8fdf1a/image.png"
+    },
+    {
+      "collection_mint": "4MTS4u8KYgEMgvxdV8mQzKiQkq918cmZaB1GdQd9CUmm",
+      "name": "UNX",
+      "symbol": "unx",
+      "standard": "metaplex",
+      "marketplace_slug": "unx",
+      "collection_image": "https://lime-given-booby-462.mypinata.cloud/ipfs/bafybeia4fp2p7pfpnx6fbdpxv3xiza7ntutkjllfssxxivh2ndzhqzqdsq"
+    },
+    {
+      "collection_mint": "",
+      "name": "EVENT",
+      "symbol": "9RMZ9Vuu6wdDjTr3GpnGeBsELcNgAzTCsfyuaottJzVH",
+      "standard": "metaplex",
+      "marketplace_slug": "9RMZ9Vuu6wdDjTr3GpnGeBsELcNgAzTCsfyuaottJzVH",
+      "collection_image": "https://nfts.kydlabs.com/s/EVbd5e7955-b817-45ad-891a-c0a283db7baa/image.png"
+    },
+    {
+      "collection_mint": "33WmbwAHwJ4AofkithQnLYQTKGZucDsYyc2USw8xjbS7",
+      "name": "RealNads",
+      "symbol": "realnads",
+      "standard": "metaplex",
+      "marketplace_slug": "realnads",
+      "collection_image": "https://we-assets.pinit.io/EybFXqrMW2Hmcev96MXAoct4FidWtQt41VQ8kZZNt33s/54a5ad63-5210-4fc6-a80c-e03b0f7abcb7/0"
+    },
+    {
+      "collection_mint": "",
+      "name": "Flush Knights",
+      "symbol": "flush_knights",
+      "standard": "metaplex",
+      "marketplace_slug": "flush_knights",
+      "collection_image": "https://gateway.pinit.io/ipfs/QmWMVWG1iKrT44geqF3rRM9xo7N7RHDbCenUiWTS51NcAw/0"
+    },
+    {
+      "collection_mint": "u46pMo81rd9gMXTscAd7ZayaJFEFjDyxRfzePTerk61",
+      "name": "CHILL CROC",
+      "symbol": "chill_croc",
+      "standard": "metaplex",
+      "marketplace_slug": "chill_croc",
+      "collection_image": "https://arweave.net/5qwErJEyhgB_udeptnud57NLs8Vl6atKHZU7wglOiKo/1.png"
+    },
+    {
+      "collection_mint": "78BVy2Y67d7eKHvnT4K6JTpPjfisxHzEWbhkZHKGNTwC",
+      "name": "Hall of Junk - Season 4",
+      "symbol": "hall_of_junk_season_4",
+      "standard": "metaplex",
+      "marketplace_slug": "hall_of_junk_season_4",
+      "collection_image": "https://ipfs.io/ipfs/bafybeiexqezlbmdh5xnrqrxvxys34czlio23ilfkwuop52hnlwthjahzee"
+    },
+    {
+      "collection_mint": "",
+      "name": "SOLYD Breakpoint Quest Case",
+      "symbol": "solyd_breakpoint_quest_case",
+      "standard": "metaplex",
+      "marketplace_slug": "solyd_breakpoint_quest_case",
+      "collection_image": "https://storage.googleapis.com/breakpoint2025-airdrop-nfts/solflare-case-render.gif"
+    },
+    {
+      "collection_mint": "",
+      "name": "Free CUDIS 002 Breakpoint",
+      "symbol": "free_cudis_002_breakpoint",
+      "standard": "metaplex",
+      "marketplace_slug": "free_cudis_002_breakpoint",
+      "collection_image": "https://storage.googleapis.com/breakpoint2025-airdrop-nfts/cudis.jpg"
+    },
+    {
+      "collection_mint": "2nryqTZE8u2VbyoL9M9RZYTwU76VbiZZjbY3yZbXqkvg",
+      "name": "santaGODS",
+      "symbol": "santagods",
+      "standard": "metaplex",
+      "marketplace_slug": "santagods",
+      "collection_image": "https://lime-given-booby-462.mypinata.cloud/ipfs/bafybeiejplivjdraz3uyflsbyxsot4bnw5kqr6sojwuoec3lmdtxigtkku"
+    },
+    {
+      "collection_mint": "7Rh2gaCPvqT5GvTc5o5YSesRXGaSY9sUyTHS9ZPUoLqT",
+      "name": "$wifmas collection 1",
+      "symbol": "wifmas_collection_1",
+      "standard": "metaplex",
+      "marketplace_slug": "wifmas_collection_1",
+      "collection_image": "https://na-assets.pinit.io/EyDiCSYUXaV7zvb8M2Z8pATe8eRjAfEh33b1ABNcGDNf/d944bf2f-37e4-48f6-b86f-b85aa6f56510/0"
+    },
+    {
+      "collection_mint": "4EZeijddCojDG2oXJs3oeGjAX3DAW1v6ZoVWPmsyD5aJ",
+      "name": "Dpino Collection_ BLACKPEARL EDITION",
+      "symbol": "dpino_collection",
+      "standard": "metaplex",
+      "marketplace_slug": "dpino_collection",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/dpino_collection_pfp_1764845936309.jpeg"
+    },
+    {
+      "collection_mint": "",
+      "name": "New Institute",
+      "symbol": "new_institute",
+      "standard": "metaplex",
+      "marketplace_slug": "new_institute",
+      "collection_image": "https://cert-digital-stage-bucket.s3.amazonaws.com/69367fdd7f28ba3736d260fd_TRDCOin.png"
+    },
+    {
+      "collection_mint": "GGSZCybtkgfeuRsDWeaUBGckB57aMvurA7h7uQZUofxG",
+      "name": "Dragon Yokai Scrolls I",
+      "symbol": "drys",
+      "standard": "metaplex",
+      "marketplace_slug": "drys",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/drys_pfp_1765172841593.png"
+    },
+    {
+      "collection_mint": "",
+      "name": "Chessalienz: Pawnz",
+      "symbol": "pwnz",
+      "standard": "metaplex",
+      "marketplace_slug": "pwnz",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/pwnz_pfp_1765174305773.png"
+    },
+    {
+      "collection_mint": "",
+      "name": "Ryuko Origin Scrolls",
+      "symbol": "ryos",
+      "standard": "metaplex",
+      "marketplace_slug": "ryos",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ryos_pfp_1765173511268.jpeg"
+    },
+    {
+      "collection_mint": "",
+      "name": "Legendary Solana Passport",
+      "symbol": "lsp",
+      "standard": "metaplex",
+      "marketplace_slug": "lsp",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/lsp_pfp_1765169855955.png"
+    },
+    {
+      "collection_mint": "",
+      "name": "Madzuki",
+      "symbol": "madzuki",
+      "standard": "metaplex",
+      "marketplace_slug": "madzuki",
+      "collection_image": "https://we-assets.pinit.io/4h2k6BFhsuKaMKo2aVkMFq3E5a7Ejpv6M93AR9avp3VK/cee8d54d-682f-4fee-9b71-2236e0293fd6/0"
+    },
+    {
+      "collection_mint": "2SJyD6qfzEPGDLKwfbuKUPT2qefFdcN9Pcv44sAbNEdE",
+      "name": "NASIR NFTS",
+      "symbol": "nasir_nfts",
+      "standard": "metaplex",
+      "marketplace_slug": "nasir_nfts",
+      "collection_image": "https://na-assets.pinit.io/4N4ekrHQEy8qgt8vmpHjQLXpAm1Wtb8RL7ghYBBxfq8E/a87e1193-a513-43d3-9750-04c3819d73a8/0"
+    },
+    {
+      "collection_mint": "",
+      "name": "Solar Flare",
+      "symbol": "solar_flare",
+      "standard": "metaplex",
+      "marketplace_slug": "solar_flare",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "Digital Dreamer Key",
+      "symbol": "digital_dreamer_key",
+      "standard": "metaplex",
+      "marketplace_slug": "digital_dreamer_key",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "C2MrXdbkDmPSV18nAU3fjV977KgXYg1mdXqEFQFs2ho1",
+      "name": "Burn Reactor",
+      "symbol": "burn_reactor",
+      "standard": "metaplex",
+      "marketplace_slug": "burn_reactor",
+      "collection_image": "https://we-assets.pinit.io/eH1EFUyHu7BTuWywXC5K8EzgePtFhU67arJSi5trkdB/a99ab2ad-34e4-45f8-ac17-c0f5e21e1e52/0"
+    },
+    {
+      "collection_mint": "",
+      "name": "Cosmic NFT Saga",
+      "symbol": "cosmic_nft_saga",
+      "standard": "metaplex",
+      "marketplace_slug": "cosmic_nft_saga",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "Cosmic Test Case",
+      "symbol": "cosmic_test_case",
+      "standard": "metaplex",
+      "marketplace_slug": "cosmic_test_case",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "Solana Starlight",
+      "symbol": "solana_starlight",
+      "standard": "metaplex",
+      "marketplace_slug": "solana_starlight",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "Galactic Crypto Star",
+      "symbol": "galactic_crypto_star",
+      "standard": "metaplex",
+      "marketplace_slug": "galactic_crypto_star",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "Sol NFT Star",
+      "symbol": "sol_nft_star_",
+      "standard": "metaplex",
+      "marketplace_slug": "sol_nft_star_",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "Solara Token 1",
+      "symbol": "solara_token_1",
+      "standard": "metaplex",
+      "marketplace_slug": "solara_token_1",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "Solana Nova Star",
+      "symbol": "solana_nova_star",
+      "standard": "metaplex",
+      "marketplace_slug": "solana_nova_star",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "Solana Star Rising",
+      "symbol": "solana_star_rising",
+      "standard": "metaplex",
+      "marketplace_slug": "solana_star_rising",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "Sol NFT Star",
+      "symbol": "sol_nft_star",
+      "standard": "metaplex",
+      "marketplace_slug": "sol_nft_star",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "NFT Cosmo Bolt",
+      "symbol": "nft_cosmo_bolt",
+      "standard": "metaplex",
+      "marketplace_slug": "nft_cosmo_bolt",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "Galactic Dreamer",
+      "symbol": "galactic_dreamer",
+      "standard": "metaplex",
+      "marketplace_slug": "galactic_dreamer",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "Galactic Token",
+      "symbol": "galactic_token",
+      "standard": "metaplex",
+      "marketplace_slug": "galactic_token",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "Digital Test Token",
+      "symbol": "digital_test_token",
+      "standard": "metaplex",
+      "marketplace_slug": "digital_test_token",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "Solar Forge Token",
+      "symbol": "solar_forge_token",
+      "standard": "metaplex",
+      "marketplace_slug": "solar_forge_token",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "Solana Hero Rising Collection",
+      "symbol": "solana_hero_rising_collection",
+      "standard": "metaplex",
+      "marketplace_slug": "solana_hero_rising_collection",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "Galactic Token 1 Collection",
+      "symbol": "galactic_token_1_collection",
+      "standard": "metaplex",
+      "marketplace_slug": "galactic_token_1_collection",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "Galactic Token 943 Collection",
+      "symbol": "galactic_token_943_collection",
+      "standard": "metaplex",
+      "marketplace_slug": "galactic_token_943_collection",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "E7L5T9pPRpWThYXmUvvFkBBSLvARkVWDGCu9k3pKnbHm",
+      "name": "OLGA — ICONS OF DESIRE",
+      "symbol": "olga_desire_icons",
+      "standard": "metaplex",
+      "marketplace_slug": "olga_desire_icons",
+      "collection_image": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/olga_gaze_pfp_1764444724853.png"
+    },
+    {
+      "collection_mint": "",
+      "name": "Solana Space Gem Collection",
+      "symbol": "solana_space_gem_collection",
+      "standard": "metaplex",
+      "marketplace_slug": "solana_space_gem_collection",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "YUS NFT #3521 .",
+      "symbol": "yus_nft_3521____",
+      "standard": "metaplex",
+      "marketplace_slug": "yus_nft_3521____",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "  YUS NFT #3521 ",
+      "symbol": "Hh58kWsoCgS4Yjjfrv12DZpwCYN1CciZd1STaUuvCnPG",
+      "standard": "metaplex",
+      "marketplace_slug": "Hh58kWsoCgS4Yjjfrv12DZpwCYN1CciZd1STaUuvCnPG",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "YUS NFT #3521",
+      "symbol": "5X59mbR1qR5CXhGj5hXCXZoUeUzCqr4DRaH7Bsjoj5X",
+      "standard": "metaplex",
+      "marketplace_slug": "5X59mbR1qR5CXhGj5hXCXZoUeUzCqr4DRaH7Bsjoj5X",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "YUS NFT #3521",
+      "symbol": "DXkXk9eCZkSRFWAEMwgdK9zeiDF1LhLFdrx3PA2m1Eci",
+      "standard": "metaplex",
+      "marketplace_slug": "DXkXk9eCZkSRFWAEMwgdK9zeiDF1LhLFdrx3PA2m1Eci",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "YUS NFT #3521",
+      "symbol": "3RnSt7WpW44Ad4en93v8cfmDRXfP9e4cEkhgKqqTJV34",
+      "standard": "metaplex",
+      "marketplace_slug": "3RnSt7WpW44Ad4en93v8cfmDRXfP9e4cEkhgKqqTJV34",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "YUS NFT #3521",
+      "symbol": "GVyZkKVqebmK9SDdmLneAaSVASyPxmiyQmz858oapnfi",
+      "standard": "metaplex",
+      "marketplace_slug": "GVyZkKVqebmK9SDdmLneAaSVASyPxmiyQmz858oapnfi",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "YUS NFT #3521",
+      "symbol": "3L4r5vRp8qffsnvU6Y32hATA7j57FrexcC2tiUcDfLWw",
+      "standard": "metaplex",
+      "marketplace_slug": "3L4r5vRp8qffsnvU6Y32hATA7j57FrexcC2tiUcDfLWw",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "YUS NFT #3521",
+      "symbol": "9WACmjB2kw2yiCemTJwhreFSjahycGfuWuJaMnUyTpRD",
+      "standard": "metaplex",
+      "marketplace_slug": "9WACmjB2kw2yiCemTJwhreFSjahycGfuWuJaMnUyTpRD",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "YUS NFT #3521",
+      "symbol": "ADFFwNGxNqo9qSMJhtJXgFCAUzHEngttsozfujT5W6vp",
+      "standard": "metaplex",
+      "marketplace_slug": "ADFFwNGxNqo9qSMJhtJXgFCAUzHEngttsozfujT5W6vp",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "YUS NFT #3521",
+      "symbol": "E3Hb2ur66gtpGzKTcDRRuE7Y2DqCWozwSbYNW5MXGtnZ",
+      "standard": "metaplex",
+      "marketplace_slug": "E3Hb2ur66gtpGzKTcDRRuE7Y2DqCWozwSbYNW5MXGtnZ",
+      "collection_image": ""
+    },
+    {
+      "collection_mint": "",
+      "name": "YUS NFT #3521",
+      "symbol": "86E2BCFNVUJ7E96P631g153PM6C8Ud4PLVQvrzwY1j3a",
+      "standard": "metaplex",
+      "marketplace_slug": "86E2BCFNVUJ7E96P631g153PM6C8Ud4PLVQvrzwY1j3a",
+      "collection_image": ""
+    }
+  ]
+}

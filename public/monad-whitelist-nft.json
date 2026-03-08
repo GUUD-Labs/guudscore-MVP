@@ -1,0 +1,290 @@
+{
+  "chain": "monad",
+  "chain_id": 143,
+  "total_collections": 31,
+  "fetched_at": "2026-01-08T15:13:30.662494+00:00",
+  "collections": [
+    {
+      "contract_address": "0xb0dad798c80e40dd6b8e8545074c6a5b7b97d2c0",
+      "name": "skrumpeys",
+      "symbol": "SKRUMP",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:17.562189+00:00",
+      "collection_logo": "https://i2c.seadn.io/collection/skrumpeys/image_type_logo/ed10ab77791ae72271cb0a68e6465b/a5ed10ab77791ae72271cb0a68e6465b.png",
+      "description": "A collection of 3,333 pixel art pfpNFTs capturing Monad's spirit. Created by melo.",
+      "twitter_username": "skrumpeys",
+      "collection_banner_image": "https://i2c.seadn.io/collection/skrumpeys-662291467/image_type_hero_desktop/7796ab4f730461ca0481c80cb66789/6a7796ab4f730461ca0481c80cb66789.png?fit=inside",
+      "discord_url": "https://discord.gg/skrumpeys"
+    },
+    {
+      "contract_address": "0x7044485649a0867929b93d66f53e8ca95f7d7df9",
+      "name": "Mortals",
+      "symbol": "mortal",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:17.996929+00:00",
+      "collection_logo": "https://i2c.seadn.io/collection/mortals-197667158/image_type_logo/198f0c845daa1f3238d18f4f2f665d/dd198f0c845daa1f3238d18f4f2f665d.jpeg",
+      "description": "Mortal is a Web3 hub for art, vibes, memes and alpha. \n\nOur NFTs will be the face/PFP of the Monad ecosystem.",
+      "twitter_username": "MortalCK",
+      "collection_banner_image": "https://i2c.seadn.io/collection/mortals-197667158/image_type_hero_desktop/759b8101fb1ff3a3a4e29dc134dd5d/f8759b8101fb1ff3a3a4e29dc134dd5d.png?fit=inside",
+      "discord_url": "https://discord.gg/mortals"
+    },
+    {
+      "contract_address": "0xa3522ea57c0bc48e602e2fe9f3929309d9618d96",
+      "name": "LootGO COMPASS Genesis",
+      "symbol": "COMPASS",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:18.386190+00:00",
+      "collection_logo": "https://i2c.seadn.io/collection/lootgo-compass-genesis/image_type_logo/9e04ce614409c846786ebf49b4b84e/e49e04ce614409c846786ebf49b4b84e.png",
+      "description": "In a world of hidden treasures, some walk aimlessly. Others carry a compass. This Genesis artifact marks you as one of the first adventurers - a pioneer in the greatest treasure hunt ever created. Where it points, fortune follows. The compass knows the way! Do you have the courage to follow??",
+      "twitter_username": "lootgo_official",
+      "collection_banner_image": "https://raw2.seadn.io/collection/lootgo-compass-genesis/image_type_hero_desktop/b08124724fb5a255800348325b87e8/74b08124724fb5a255800348325b87e8.mp4"
+    },
+    {
+      "contract_address": "0x818030837e8350ba63e64d7dc01a547fa73c8279",
+      "name": "The 10k Squad",
+      "symbol": "the_10k_squad",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:19.040073+00:00",
+      "collection_logo": "https://i2c.seadn.io/monad/0x818030837e8350ba63e64d7dc01a547fa73c8279/4e14587ea80bf59938bf0c2a6f8374/844e14587ea80bf59938bf0c2a6f8374.gif"
+    },
+    {
+      "contract_address": "0x1d28a769ac1a3a931c749f0edff0c350dbcd6872",
+      "name": "Blocknads",
+      "symbol": "Blocknads",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:19.470090+00:00",
+      "collection_logo": "https://i2c.seadn.io/monad/0x1d28a769ac1a3a931c749f0edff0c350dbcd6872/60d30a02796d0ce4bd00a369a57d31/e860d30a02796d0ce4bd00a369a57d31.png"
+    },
+    {
+      "contract_address": "0x22c1fddc908005b6e3cc563a2afba8578221030a",
+      "name": "Wassie",
+      "symbol": "wassie",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:19.895504+00:00",
+      "collection_logo": "https://i2c.seadn.io/monad/0x22c1fddc908005b6e3cc563a2afba8578221030a/04714a5bfaf51478e0b22cc7296a60/1104714a5bfaf51478e0b22cc7296a60.gif"
+    },
+    {
+      "contract_address": "0x36982448e77658b8f58f4665696e3173d1e696c2",
+      "name": "Molandaks",
+      "symbol": "MOLAN",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:20.556517+00:00",
+      "collection_logo": "https://i2c.seadn.io/admin-uploads/c47375b43f75b96fb851fca36bce61/66c47375b43f75b96fb851fca36bce61.jpeg",
+      "twitter_username": "molandaks_xyz",
+      "collection_banner_image": "https://i2c.seadn.io/admin-uploads/86bb69078f06934ac620cbb510e748/ee86bb69078f06934ac620cbb510e748.jpeg?fit=inside"
+    },
+    {
+      "contract_address": "0x458e467f911b3b99f24ec8b5a85e68745c83155e",
+      "name": "Monadverse",
+      "symbol": "verse",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:20.995813+00:00",
+      "collection_logo": "https://i2c.seadn.io/collection/monadverse-monad/image_type_logo/14b6b604ceaabbe4bfab387a00e34e/3d14b6b604ceaabbe4bfab387a00e34e.png",
+      "twitter_username": "monadverse",
+      "collection_banner_image": "https://i2c.seadn.io/collection/monadverse-monad/image_type_hero_desktop/f6c447116d5d58ea3819faafd762ef/eef6c447116d5d58ea3819faafd762ef.jpeg?fit=inside",
+      "discord_url": "https://discord.gg/monadverse"
+    },
+    {
+      "contract_address": "0xe217a5517105a97616b09c05c685a7e125e6e753",
+      "name": "Chads",
+      "symbol": "chads",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:21.560195+00:00",
+      "collection_logo": "https://i2c.seadn.io/monad/0xe217a5517105a97616b09c05c685a7e125e6e753/592424a52885556881a2b8e8c81831/e4592424a52885556881a2b8e8c81831.png"
+    },
+    {
+      "contract_address": "0xfb5ba4061f5c50b1daa6c067bb2dfb0a8ebf6a8d",
+      "name": "Overnads",
+      "symbol": "overnads",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:21.919532+00:00",
+      "collection_logo": "https://i2c.seadn.io/monad/0xfb5ba4061f5c50b1daa6c067bb2dfb0a8ebf6a8d/33873c06027b050abbb4186186fda7/ee33873c06027b050abbb4186186fda7.gif"
+    },
+    {
+      "contract_address": "0xb6f9ba0511edced7491b06f33201b494575017eb",
+      "name": "Monafuku Cafe",
+      "symbol": "MONAFUKU",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:22.370992+00:00",
+      "collection_logo": "https://i2c.seadn.io/admin-uploads/59cf06e4fbc741ba447cfaaf3f933e/f659cf06e4fbc741ba447cfaaf3f933e.jpeg",
+      "description": "Monad's first and cutest NFT collection!! ‧ 🍰 ₊ ᵎᵎ 🍒 ⋅ ˚✮ ",
+      "twitter_username": "MonafukuCafe",
+      "collection_banner_image": "https://i2c.seadn.io/admin-uploads/7c5c286df1da318dec98f7e4741b3e/ce7c5c286df1da318dec98f7e4741b3e.jpeg?fit=inside"
+    },
+    {
+      "contract_address": "0x05795eaa0ae13207b36f2598d37c6af149700fc1",
+      "name": "FUZZMO by Lootify.xyz",
+      "symbol": "FUZZ",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:22.803250+00:00",
+      "collection_logo": "https://i2c.seadn.io/monad/1933fc43059b493e90753513df7aa948/8e0b10e63948188519597f60b71e85/7a8e0b10e63948188519597f60b71e85.png",
+      "description": "Spin FAST. Chase grails. 🎲 FUZZMO brings high-stakes chaos and mad utilities to Lootify.xyz."
+    },
+    {
+      "contract_address": "0xa325c59ce335bee4966eece221c849c7e17ba3d8",
+      "name": "Monad Nomads",
+      "symbol": "nomad",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:23.415367+00:00",
+      "collection_logo": "https://i2c.seadn.io/monad/0xa325c59ce335bee4966eece221c849c7e17ba3d8/4f52ffc552bedcb68410085d9f954a/d24f52ffc552bedcb68410085d9f954a.png"
+    },
+    {
+      "contract_address": "0xe20c4f8cacdb1854151f3e12144bdc919e608b9b",
+      "name": "RealNads",
+      "symbol": "realnads",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:23.806242+00:00",
+      "collection_logo": "https://i2c.seadn.io/monad/0xe20c4f8cacdb1854151f3e12144bdc919e608b9b/7be8214d65af8dd296171622070630/937be8214d65af8dd296171622070630.png"
+    },
+    {
+      "contract_address": "0x5050e5ca4116b8e87b4df58baebf972d73f1eb96",
+      "name": "Turbo",
+      "symbol": "turbo",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:24.231562+00:00",
+      "collection_logo": "https://i2c.seadn.io/collection/turbo-170149016/image_type_logo/69fc8a8bc0d627a03cee0d30e62f54/da69fc8a8bc0d627a03cee0d30e62f54.png",
+      "description": "Turbo NFTs are a collection of 3,333 unique racing cats on Monad, created to supercharge the gaming experience on Talentum.",
+      "twitter_username": "https://x.com/TalentumID"
+    },
+    {
+      "contract_address": "0xaeaa920165fd7ce58a0e0772ffc97f06626572cd",
+      "name": "Sealuminati",
+      "symbol": "seal",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:24.623519+00:00",
+      "collection_logo": "https://i2c.seadn.io/monad/0xaeaa920165fd7ce58a0e0772ffc97f06626572cd/64482b73e2fee2a52f4e6066dd21e1/3e64482b73e2fee2a52f4e6066dd21e1.gif"
+    },
+    {
+      "contract_address": "0x9f8514cebee138b61806d4651f51d26c8098b463",
+      "name": "The Daks",
+      "symbol": "daks",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:24.997296+00:00",
+      "collection_logo": "https://i2c.seadn.io/monad/0x9f8514cebee138b61806d4651f51d26c8098b463/21e53d00a51a955182c3309a86e48f/d421e53d00a51a955182c3309a86e48f.png"
+    },
+    {
+      "contract_address": "0x427d16455784e2587088fe333024b870126a0c72",
+      "name": "SCALE",
+      "symbol": "scale",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:25.404183+00:00",
+      "collection_logo": "https://i2c.seadn.io/monad/0x427d16455784e2587088fe333024b870126a0c72/8c8a41b9e85a69597ad0da10c464c7/f18c8a41b9e85a69597ad0da10c464c7.png"
+    },
+    {
+      "contract_address": "0x43577cc08c03d4017177eb1e43f5f8077c41c765",
+      "name": "Spiky",
+      "symbol": "spiky",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:25.795960+00:00",
+      "collection_logo": "https://i2c.seadn.io/monad/0x43577cc08c03d4017177eb1e43f5f8077c41c765/d23a7cf82cc1e14bb1766d468d811f/31d23a7cf82cc1e14bb1766d468d811f.gif",
+      "twitter_username": "spiky_xyz"
+    },
+    {
+      "contract_address": "0x7cc9ebaabd29cd36c1b2c0765307df6374016e78",
+      "name": "Monaliens",
+      "symbol": "MONALIEN",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:26.268343+00:00",
+      "collection_logo": "https://i2c.seadn.io/monad/0x7cc9ebaabd29cd36c1b2c0765307df6374016e78/739a1a1acb8b6799a76c59ff83a838/fd739a1a1acb8b6799a76c59ff83a838.png"
+    },
+    {
+      "contract_address": "0x54b8048a30919e64c678d5decef5fd8c20f836ff",
+      "name": "Mouch",
+      "symbol": "MOUCH",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:26.649608+00:00",
+      "collection_logo": "https://i2c.seadn.io/monad/0x54b8048a30919e64c678d5decef5fd8c20f836ff/1d87d6d7018a906980fcd3dd23ae2f/3f1d87d6d7018a906980fcd3dd23ae2f.png"
+    },
+    {
+      "contract_address": "0xced5974aa8a367aaec782a58ac52099a1c4348e9",
+      "name": "Meowwnads",
+      "symbol": "meowwnads",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:27.037032+00:00",
+      "collection_logo": "https://i2c.seadn.io/monad/0xced5974aa8a367aaec782a58ac52099a1c4348e9/3cb3d80d9e746dbc1a0e0f5f1c58c4/ee3cb3d80d9e746dbc1a0e0f5f1c58c4.png"
+    },
+    {
+      "contract_address": "0x21d95addcebe87bea4e49534595f242af002d068",
+      "name": "Llamao",
+      "symbol": "LLAMAO",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:27.402899+00:00",
+      "collection_logo": "https://i2c.seadn.io/collection/llamao/image_type_logo/ab9a2c4c592080fd1e3c5dfe810718/6fab9a2c4c592080fd1e3c5dfe810718.png",
+      "collection_banner_image": "https://i2c.seadn.io/collection/llamao/image_type_hero_desktop/f25393e11db622372903bccac40b00/a7f25393e11db622372903bccac40b00.png?fit=inside",
+      "discord_url": "https://discord.gg/RKZwNNsA5u"
+    },
+    {
+      "contract_address": "0xec7bf726c8011048e3c14c88fae1a788d22c220f",
+      "name": "Mongang",
+      "symbol": "MONGANG",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:27.769487+00:00",
+      "collection_logo": "https://i2c.seadn.io/collection/mongang-xyz/image_type_logo/5c1589e6a0a84af2f6f7714288f756/325c1589e6a0a84af2f6f7714288f756.png",
+      "collection_banner_image": "https://i2c.seadn.io/collection/mongang-xyz/image_type_hero_desktop/6788bf13793e70dfda1723f78837c3/496788bf13793e70dfda1723f78837c3.jpeg?fit=inside"
+    },
+    {
+      "contract_address": "0xcbdfad1bfb6a4414dd4d84b7a6420dc43683deb0",
+      "name": "ROARRR",
+      "symbol": "roarrr",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:28.118667+00:00",
+      "collection_logo": "https://i2c.seadn.io/monad/0xcbdfad1bfb6a4414dd4d84b7a6420dc43683deb0/aef3d9ad12300929d653f6d51683ce/e1aef3d9ad12300929d653f6d51683ce.png"
+    },
+    {
+      "contract_address": "0x9a5499868758f62ca54cfd2bce8fdcd9f5f774ea",
+      "name": "Wonad",
+      "symbol": "wonad",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:28.605804+00:00",
+      "collection_logo": "https://i2c.seadn.io/monad/0x9a5499868758f62ca54cfd2bce8fdcd9f5f774ea/7a3bb930337571057408477d586cf7/337a3bb930337571057408477d586cf7.png"
+    },
+    {
+      "contract_address": "0x51840af9f4b780556dede2c7ada0d4344034a65f",
+      "name": "OCTONADS GENESIS",
+      "symbol": "GOCTO",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:29.003979+00:00",
+      "collection_logo": "https://i2c.seadn.io/monad/0x51840af9f4b780556dede2c7ada0d4344034a65f/f2f369e547ad77edab2219173d880f/0af2f369e547ad77edab2219173d880f.png"
+    },
+    {
+      "contract_address": "0x84d274f27f45f4d2f02d9df809252f2623ab592e",
+      "name": "Monalotls",
+      "symbol": "LOTL",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:29.399558+00:00",
+      "collection_logo": "https://i2c.seadn.io/collection/monalotls-417140474/image_type_logo/5b0afd0d8825b5068ba7fdc6a3c28d/685b0afd0d8825b5068ba7fdc6a3c28d.jpeg",
+      "description": "Your little Axolotls :)",
+      "twitter_username": "Monalotls",
+      "collection_banner_image": "https://i2c.seadn.io/collection/monalotls-417140474/image_type_hero_desktop/db0a77856ce15c4225a8fc5c350761/9cdb0a77856ce15c4225a8fc5c350761.png?fit=inside",
+      "discord_url": "https://discord.gg/8HUgmgUBG8"
+    },
+    {
+      "contract_address": "0xccccb19a6dc7277e8489f1db9846a2327caacccc",
+      "name": "C Family",
+      "symbol": "CFAM",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:29.831699+00:00",
+      "collection_logo": "https://i2c.seadn.io/monad/26982002b63c4a219f071e3b63026ff8/df121fc3ccc33bb2b19a9c48df9a4d/22df121fc3ccc33bb2b19a9c48df9a4d.png",
+      "description": "We are C",
+      "collection_banner_image": "https://i2c.seadn.io/monad/26982002b63c4a219f071e3b63026ff8/bfc91da08d875b8e3e9cf9dd723cfa/3dbfc91da08d875b8e3e9cf9dd723cfa.png?fit=inside"
+    },
+    {
+      "contract_address": "0xe1ddf619bb352e6eb25367be99606be02836cbbc",
+      "name": "Chewy",
+      "symbol": "chewy",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:30.229880+00:00",
+      "collection_logo": "https://i2c.seadn.io/admin-uploads/a7a2d974abcbd53df7ef8bdcec9401/95a7a2d974abcbd53df7ef8bdcec9401.jpeg",
+      "twitter_username": "Chewy_xyz",
+      "collection_banner_image": "https://i2c.seadn.io/admin-uploads/212554f03bb17df8f9386ca8793782/a5212554f03bb17df8f9386ca8793782.png?fit=inside"
+    },
+    {
+      "contract_address": "0xef3c52c7d07974215218aa4dd55b86bcd026bf73",
+      "name": "Monochams",
+      "symbol": "monochams",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-08T15:13:30.662444+00:00",
+      "collection_logo": "https://i2c.seadn.io/monad/0xef3c52c7d07974215218aa4dd55b86bcd026bf73/5c0d72cea337308eabc2ffaa34042b/6d5c0d72cea337308eabc2ffaa34042b.png"
+    }
+  ]
+}

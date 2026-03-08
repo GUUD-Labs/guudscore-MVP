@@ -1,0 +1,1280 @@
+{
+  "totalProtocols": 214,
+  "categories": {
+    "DEX": 73,
+    "YIELD": 56,
+    "LENDING": 30,
+    "BRIDGE": 1,
+    "GambleFi": 1,
+    "SocialFi": 8,
+    "YieldAggregator": 35,
+    "NFT-MarketPlace": 5,
+    "ACCELERATOR": 3,
+    "DAO": 2
+  },
+  "protocols": [
+    {
+      "name": "JoeToken Avalanche C-Chain",
+      "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "JoeToken Arbitrum One",
+      "address": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "JoeToken BNB Chain",
+      "address": "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "JoeToken Mantle",
+      "address": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "JoeBar (xJoe)",
+      "address": "0x57319d41F71E81F3c65F2a47CA4e001EbAFd4F33",
+      "category": "YIELD",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "sJOE Staking",
+      "address": "0x1a731B2299E22FbAC282E7094EdA41046343Cb51",
+      "category": "YIELD",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "veJOE Staking",
+      "address": "0x25D85E17dD9e544F6E9F8D44F99602dbF5a97341",
+      "category": "YIELD",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "veJOE Token",
+      "address": "0x3cabf341943Bc8466245e4d6F1ae0f8D071a1456",
+      "category": "YIELD",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "JoeFactory",
+      "address": "0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "JoeRouter",
+      "address": "0x60aE616a2155Ee3d9A68541Ba4544862310933d4",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "MasterChefJoeV2",
+      "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052",
+      "category": "YIELD",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "MasterChefJoeV3",
+      "address": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
+      "category": "YIELD",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "Timelock (for MCJV2)",
+      "address": "0xAdaF18d79f316005542da4eCb1624B59c4e6e398",
+      "category": "YIELD",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "BoostedMasterChefJoe",
+      "address": "0x4483f0b6e2F5486D06958C20f8C39A7aBe87bf8F",
+      "category": "YIELD",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "JoeHatToken",
+      "address": "0x82FE038Ea4b50f9C957da326C412ebd73462077C",
+      "category": "YIELD",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "Cliff (Team)",
+      "address": "0xaFF90532E2937fF290009521e7e120ed062d4F34",
+      "category": "YIELD",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "Cliff (Investor)",
+      "address": "0xc13B1C927565C5AF8fcaF9eF7387172c447f6796",
+      "category": "YIELD",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "2nd Team Vesting",
+      "address": "0xFea7879Bf27B4461De9a9b8A03dBcc7f49C52bEa",
+      "category": "YIELD",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "Multi-sig Wallet 1",
+      "address": "0xD858eBAa943b4C2fb06BA0Ba8920A132fd2410eE",
+      "category": "YIELD",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "Multi-sig Wallet 2",
+      "address": "0x799d4C5E577cF80221A076064a2054430D2af5cD",
+      "category": "YIELD",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "Multi-sig Wallet 3",
+      "address": "0x8F38558188FAe593E8E6347F124351CF4fDd032D",
+      "category": "YIELD",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "Multi-sig Wallet 4",
+      "address": "0xf1ec4E41B49582aF7E00D6525AF78111F37b94a8",
+      "category": "YIELD",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "Router V2.2: Avalanche",
+      "address": "0x18556DA13313f3532c54711497A8FedAC273220E",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "Factory V2.2: Avalanche",
+      "address": "0xb43120c4745967fa9b93E79C149E66B0f2D6Fe0c",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "Limit Order V3",
+      "address": "0x03Cf7a8238dA2239BDDE9349f41fa14A81d3Af3d",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "Fee Receiver",
+      "address": "0xDA7305883a97a97F4d4851f7F0e6fB041da65e54",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "V1 Router: Arbitrum",
+      "address": "0xbeE5c10Cf6E4F68f831E11C1D9E59B43560B3642",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "V2 Router: Arbitrum",
+      "address": "0x7BFd7192E76D950832c77BB412aaE841049D8D9B",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "Router V2.2: Arbitrum",
+      "address": "0x18556da13313f3532c54711497a8fedac273220e",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "Factory V2.2: Arbitrum",
+      "address": "0xb43120c4745967fa9b93e79c149e66b0f2d6fe0c",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "JoeAggregator Router",
+      "address": "0x45A62B090DF48243F12A21897e7ed91863E2c86b",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "Router logic address",
+      "address": "0xF8155BcA49576B54018311C6129bdA088605B88b",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "Forwarder logic address",
+      "address": "0xF780668669C193B5D2Cf22B8420473fA1E3Ee3D1",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "Timelock (Lending)",
+      "address": "0x243cc1760F0b96c533C11656491e7EBB9663Bf33",
+      "category": "LENDING",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "Joetroller",
+      "address": "0xdc13687554205E5b89Ac783db14bb5bba4A1eDaC",
+      "category": "LENDING",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "PriceOracle",
+      "address": "0xd7Ae651985a871C1BC254748c40Ecc733110BC2E",
+      "category": "LENDING",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "RewardDistributor",
+      "address": "0x45B2C4139d96F44667577C0D7F7a7D170B420324",
+      "category": "LENDING",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "TripleSlopeRateModel (Majors)",
+      "address": "0xe6FfD92B9F77FBF5BfEc0F3D9c9d027C4CF3bA6e",
+      "category": "LENDING",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "TripleSlopeRateModel (Stablecoins)",
+      "address": "0x3C5486b85fAAE29B071F2a616a59cA7bF8F73682",
+      "category": "LENDING",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "TripleSlopeRateModel (Governance/Seed)",
+      "address": "0x82Ea6f7bf853A199AB921137B119B6D41F08038e",
+      "category": "LENDING",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "JoeLens",
+      "address": "0xFDF50FEa3527FaD31Fa840B748FD3694aE8a47cc",
+      "category": "LENDING",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "Maximillion",
+      "address": "0xe5cDdAFd0f7Af3DEAf4bd213bBaee7A5927AB7E7",
+      "category": "LENDING",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "jAVAX",
+      "address": "0xC22F01ddc8010Ee05574028528614634684EC29e",
+      "category": "LENDING",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "jWETH",
+      "address": "0x929f5caB61DFEc79a5431a7734a68D714C4633fa",
+      "category": "LENDING",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "jWBTC",
+      "address": "0x3fE38b7b610C0ACD10296fEf69d9b18eB7a9eB1F",
+      "category": "LENDING",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "jUSDC",
+      "address": "0xEd6AaF91a2B084bd594DBd1245be3691F9f637aC",
+      "category": "LENDING",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "jUSDT",
+      "address": "0x8b650e26404AC6837539ca96812f0123601E4448",
+      "category": "LENDING",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "jDAI",
+      "address": "0xc988c170d0E38197DC634A45bF00169C7Aa7CA19",
+      "category": "LENDING",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "jLINK",
+      "address": "0x585E7bC75089eD111b656faA7aeb1104F5b96c15",
+      "category": "LENDING",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "jMIM",
+      "address": "0xcE095A9657A02025081E0607c8D8b081c76A75ea",
+      "category": "LENDING",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "jXJOE",
+      "address": "0xC146783a59807154F92084f9243eb139D58Da696",
+      "category": "LENDING",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "jUSDCNative",
+      "address": "0x29472D511808Ce925F501D25F9Ee9efFd2328db2",
+      "category": "LENDING",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "RocketJoeToken",
+      "address": "0x5483ce08659fABF0277f9314868Cc4f78687BD08",
+      "category": "YIELD",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "RocketJoeStaking",
+      "address": "0x102D195C3eE8BF8A9A89d63FB3659432d3174d81",
+      "category": "YIELD",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "RocketJoeFactory",
+      "address": "0x37551bc793175DA03012bFD10b285A033b62247E",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "LaunchEvent (clone)",
+      "address": "0x8E8C6bD1Ce1A77885325aa69F3736ED41d66532e",
+      "category": "YIELD",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "LaunchEventLens",
+      "address": "0x039AA5d3FC07f6f265656793A8c437055b653d68",
+      "category": "YIELD",
+      "ecosystem": "LFJ",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifxkaueoh5vrd3qluyuy7xyp7boh43oj6amwwsebflnumphebk754?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "PHAR LGE Contract",
+      "address": "0xAAA4fa8e8d7FCB4653831A9E5999aBCf1FC2be52",
+      "category": "DEX",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "PHAR Token",
+      "address": "0xAAAB9D12A30504559b0C5a9A5977fEE4A6081c6b",
+      "category": "DEX",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "xPHAR Token (Deprecated)",
+      "address": "0xAAAE58986b24e422740C8F22B3efB80BCbD68159",
+      "category": "YIELD",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "ProxyAdmin",
+      "address": "0x8e01fc0d89b93a6447D6c6Eca6fBd30e6E4a1ce3",
+      "category": "DEX",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "PharaohDeployer",
+      "address": "0x95120704f4E2D545Aea8b6B3c16d9Da1fa32E30F",
+      "category": "DEX",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "GaugeFactory",
+      "address": "0xAAA932839641c037452f826BB9d7B2057129833b",
+      "category": "YIELD",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "FeeDistributorFactory",
+      "address": "0xAAA1c31Cc1d1C2da7e634130DeD0ea2043271744",
+      "category": "YIELD",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "PairFactory",
+      "address": "0xAAA16c016BF556fcD620328f0759252E29b1AB57",
+      "category": "DEX",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "Router (Legacy)",
+      "address": "0xAAA45c8F5ef92a000a121d102F4e89278a711Faa",
+      "category": "DEX",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "VeArtProxy",
+      "address": "0xAAACF9e4eBaa3f530161477cc49fE4be4Dfc4633",
+      "category": "DEX",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "VotingEscrow (vePHAR)",
+      "address": "0xAAAEa1fB9f3DE3F70E89f37B69Ab11B47eb9Ce6F",
+      "category": "YIELD",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "RewardsDistributor (veDist)",
+      "address": "0xAAA9Ea898ae0b7D3805aF555AF3a2e3BdF06D22C",
+      "category": "YIELD",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "Voter",
+      "address": "0xAAAf3D9CDD3602d117c67D80eEC37a160C8d9869",
+      "category": "YIELD",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "Minter",
+      "address": "0xAAA823aa799BDa3193D46476539bcb1da5B71330",
+      "category": "YIELD",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "Pharaoh Team Multisig",
+      "address": "0x244A4a90e148Ec318a85f8C138A274e16FFE3032",
+      "category": "YIELD",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "PharaohLens",
+      "address": "0xAAA75a605C2f245A30Fb4299E5CDfBF6B4FB30B6",
+      "category": "DEX",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "Timelock (Pharaoh)",
+      "address": "0x2fb612eD95Ea4173c29cc11eA0f0f026030D2C43",
+      "category": "YIELD",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "PharaohV2Factory (CL)",
+      "address": "0xAAA32926fcE6bE95ea2c51cB4Fcb60836D320C42",
+      "category": "DEX",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "FeeCollector",
+      "address": "0xAAA2A49958a443Dc9d19FdDEe873B5D1d6e84A2f",
+      "category": "YIELD",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "PharaohV2Deployer",
+      "address": "0x95120704f4E2D545Aea8b6B3c16d9Da1fa32E30F",
+      "category": "YIELD",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "PharaohV2GaugeFactory",
+      "address": "0xAAA2D4987EEd427Ba5E2c933EeFCD75C84b446B7",
+      "category": "YIELD",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "NonFungiblePositionManager",
+      "address": "0xAAA78E8C4241990B4ce159E105dA08129345946A",
+      "category": "DEX",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "UniversalRouter",
+      "address": "0x22c81c051a134c81ce370d82fa26975ae9d100b4",
+      "category": "DEX",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "SwapRouter",
+      "address": "0xAAAE99091Fbb28D400029052821653C1C752483B",
+      "category": "DEX",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "SwapRouter (immutable)",
+      "address": "0x062c62cA66E50Cfe277A95564Fe5bB504db1Fab8",
+      "category": "DEX",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "QuoterV2",
+      "address": "0xAAA91e283126774b3bb513fD5922976d5212dc49",
+      "category": "DEX",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "TickLens",
+      "address": "0xAAAD7F8b00B5ce6F8516AC595f0Bb175Ae755c63",
+      "category": "DEX",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "PairFlash",
+      "address": "0xAAAFC0791b0eF4D4225d1c1F57Dd6a41177F8562",
+      "category": "DEX",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "NFPDescriptor",
+      "address": "0xAAA04d7751adC79e1525B408Ba38344C5797322b",
+      "category": "DEX",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "QuoterV1",
+      "address": "0xAAAbFD1E45Cc93d16c2751645e50F2594bE12680",
+      "category": "DEX",
+      "ecosystem": "Pharaoh",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreielr6iejrngcztzlwqtvtndrjweoq5wcsym7vt3fiu6doahjnigaa?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/PharaohExchange"
+    },
+    {
+      "name": "PangolinV3Factory",
+      "address": "0x1128F23D0bc0A8396E9FBC3c0c68f5EA228B8256",
+      "category": "DEX",
+      "ecosystem": "Pangolin",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreihu42qchx3q7k2lqjuh6ot3ojj4r3yzd3afoef427zm4arvfqy4pq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/pangolindex"
+    },
+    {
+      "name": "NFTDescriptor",
+      "address": "0xB87a8aD1c1217EC587474b348b848dF564D505aa",
+      "category": "DEX",
+      "ecosystem": "Pangolin",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreihu42qchx3q7k2lqjuh6ot3ojj4r3yzd3afoef427zm4arvfqy4pq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/pangolindex"
+    },
+    {
+      "name": "NonfungibleTokenPositionDescriptor",
+      "address": "0x7528B8Ae60084577B0774A4e225BC4C3DeA7E315",
+      "category": "DEX",
+      "ecosystem": "Pangolin",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreihu42qchx3q7k2lqjuh6ot3ojj4r3yzd3afoef427zm4arvfqy4pq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/pangolindex"
+    },
+    {
+      "name": "NonfungiblePositionManager",
+      "address": "0xf40937279F38D0c1f97aFA5919F1cB3cB7f06A7F",
+      "category": "DEX",
+      "ecosystem": "Pangolin",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreihu42qchx3q7k2lqjuh6ot3ojj4r3yzd3afoef427zm4arvfqy4pq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/pangolindex"
+    },
+    {
+      "name": "SwapRouter",
+      "address": "0x5485A0751a249225D3bA2f6f296551507e22547f",
+      "category": "DEX",
+      "ecosystem": "Pangolin",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreihu42qchx3q7k2lqjuh6ot3ojj4r3yzd3afoef427zm4arvfqy4pq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/pangolindex"
+    },
+    {
+      "name": "PangolinV3Migrator",
+      "address": "0x27eCB0391ad611Bbd9dd5e7e8A19db3fCAe41ab8",
+      "category": "DEX",
+      "ecosystem": "Pangolin",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreihu42qchx3q7k2lqjuh6ot3ojj4r3yzd3afoef427zm4arvfqy4pq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/pangolindex"
+    },
+    {
+      "name": "MasterChef",
+      "address": "0x1f806f7C8dED893fd3caE279191ad7Aa3798E928",
+      "category": "DEX",
+      "ecosystem": "Pangolin",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreihu42qchx3q7k2lqjuh6ot3ojj4r3yzd3afoef427zm4arvfqy4pq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/pangolindex"
+    },
+    {
+      "name": "MasterChef v2",
+      "address": "0xE54Ca86531e17Ef3616d22Ca28b0D458b6C89106",
+      "category": "DEX",
+      "ecosystem": "Pangolin",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreihu42qchx3q7k2lqjuh6ot3ojj4r3yzd3afoef427zm4arvfqy4pq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/pangolindex"
+    },
+    {
+      "name": "PangolinV3InterfaceMulticall",
+      "address": "0x7d115C1fb6152C5Aed1750183Ae59107160694a2",
+      "category": "DEX",
+      "ecosystem": "Pangolin",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreihu42qchx3q7k2lqjuh6ot3ojj4r3yzd3afoef427zm4arvfqy4pq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/pangolindex"
+    },
+    {
+      "name": "PangolinV3Quoter",
+      "address": "0xA86522CCc412dBC4FA10991900FE46De95983822",
+      "category": "DEX",
+      "ecosystem": "Pangolin",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreihu42qchx3q7k2lqjuh6ot3ojj4r3yzd3afoef427zm4arvfqy4pq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/pangolindex"
+    },
+    {
+      "name": "TickLens (Pangolin)",
+      "address": "0x5DFe6DB0F904A27a52f543Afd6B690784a44CaC1",
+      "category": "DEX",
+      "ecosystem": "Pangolin",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreihu42qchx3q7k2lqjuh6ot3ojj4r3yzd3afoef427zm4arvfqy4pq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/pangolindex"
+    },
+    {
+      "name": "Goatsino",
+      "address": "0xe14eC1e15a9E4B2cb2ECEBCBA50C237698623139",
+      "category": "GambleFi",
+      "ecosystem": "Goatsino",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreien4aadz3asl5sxxagztxblnxibpu4cr2wmlcmpv763tksmlje46q?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/goatavax_xyz"
+    },
+    {
+      "name": "ArenaTrade",
+      "address": "0x03f1A18519aBeDbEf210FA44e13b71fec01b8dFa",
+      "category": "SocialFi",
+      "ecosystem": "ARENA",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiaeqmdo7v37yr7erzqrfgo32dabmr4z4edkqqudhgtadrenwz7xry?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/TheArena"
+    },
+    {
+      "name": "Arena/Avax",
+      "address": "0x3C5f68d2F72DEBBa4900c60f32EB8629876401f2",
+      "category": "SocialFi",
+      "ecosystem": "ARENA",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiaeqmdo7v37yr7erzqrfgo32dabmr4z4edkqqudhgtadrenwz7xry?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/TheArena"
+    },
+    {
+      "name": "ArenaRouter02",
+      "address": "0xF56D524D651B90E4B84dc2FffD83079698b9066E",
+      "category": "SocialFi",
+      "ecosystem": "ARENA",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiaeqmdo7v37yr7erzqrfgo32dabmr4z4edkqqudhgtadrenwz7xry?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/TheArena"
+    },
+    {
+      "name": "ArenaFactory",
+      "address": "0xF16784dcAf838a3e16bEF7711a62D12413c39BD1",
+      "category": "SocialFi",
+      "ecosystem": "ARENA",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiaeqmdo7v37yr7erzqrfgo32dabmr4z4edkqqudhgtadrenwz7xry?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/TheArena"
+    },
+    {
+      "name": "ArenaDeFi",
+      "address": "0xB8d7710f7d8349A506b75dD184F05777c82dAd0C",
+      "category": "SocialFi",
+      "ecosystem": "ARENA",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiaeqmdo7v37yr7erzqrfgo32dabmr4z4edkqqudhgtadrenwz7xry?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/TheArena"
+    },
+    {
+      "name": "ArenaLaunchContract",
+      "address": "0x8315f1eb449Dd4B779495C3A0b05e5d194446c6e",
+      "category": "SocialFi",
+      "ecosystem": "ARENA",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiaeqmdo7v37yr7erzqrfgo32dabmr4z4edkqqudhgtadrenwz7xry?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/TheArena"
+    },
+    {
+      "name": "ArenaLaunchArenaToken",
+      "address": "0x58e94b00cd4680C12d1B929e8cA88B595cDE491A",
+      "category": "SocialFi",
+      "ecosystem": "ARENA",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiaeqmdo7v37yr7erzqrfgo32dabmr4z4edkqqudhgtadrenwz7xry?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/TheArena"
+    },
+    {
+      "name": "Arenatoken",
+      "address": "0x2196E106Af476f57618373ec028924767c758464",
+      "category": "SocialFi",
+      "ecosystem": "ARENA",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiaeqmdo7v37yr7erzqrfgo32dabmr4z4edkqqudhgtadrenwz7xry?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/TheArena"
+    },
+    {
+      "name": "YieldYakRouter",
+      "address": "0xC4729E56b831d74bBc18797e0e17A295fA77488c",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake",
+      "address": "0x24dBAFb8611c6639316B17EDD2ecf3F91424B26b",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldOperator",
+      "address": "0xEA3e895b0696e161C68486Ee2F85e6Cc6ef962d0",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldFeeColelctor",
+      "address": "0x2D580F9CF2fB2D09BC411532988F2aFdA4E7BefF",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "MasterYak",
+      "address": "0x0cf605484A512d3F3435fed77AB5ddC0525Daf5f",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake2",
+      "address": "0xc8cEeA18c2E168C6e767422c8d144c55545D23e9",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake3",
+      "address": "0xb05Cd0881A34E1d4cbAAb067D197B763e69e1045",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldBenQAvax",
+      "address": "0x8B414448de8B609e96bd63Dcf2A8aDbd5ddf7fdd",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake4",
+      "address": "0xA369FA24C4fFF56b92d729Aa024D728F05Cf76a8",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake5",
+      "address": "0x8889Da43CeE581068C695A2c256Ba2D514608F4A",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake6",
+      "address": "0xc8cEeA18c2E168C6e767422c8d144c55545D23e9",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake7",
+      "address": "0x0C4684086914D5B1525bf16c62a0FF8010AB991A",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake8",
+      "address": "0xFB692D03BBEA21D8665035779dd3082c2B1622d0",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake9",
+      "address": "0x714e06410B4960D3C1FC033bCd53ad9EB2d1f874",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake10",
+      "address": "0xa27435171c3E097F9BbB9F5eB3e5E6Bc8f57E18E",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake11",
+      "address": "0xa45B0A446B91eBDBbB041f491e7244AAeB7f557A",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake12",
+      "address": "0x5FdAB5C59529A7fd091ECca3dC74A91aBC358Eec",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake13",
+      "address": "0x5f75b397C63EFA31302Aa7FA155dDEC4F1253437",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake14",
+      "address": "0x7Ff774AF8c9BF8CF43A0D92E6a052f17E5f604Db",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake15",
+      "address": "0x4677dBe8e5A4fD0Ce84387765dc4A5c3356a59B3",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake16",
+      "address": "0xA0b7996b22B37c5bBFFCAAf56e60Dc4e9dF2b7eb",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake17",
+      "address": "0xEa0CCD454D9bA29ACC7eCbec3459D1C366d11342",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake18",
+      "address": "0x7812FC3Dd616213D7F3Ec3c23Ab40D23166f3025",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake19",
+      "address": "0x0e4F9deef1C7bE37F425fcCDab9f6cb3A2bfA89A",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake20",
+      "address": "0x4662aF69CdEB4dF1A8d3370386224DAED1667a77",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake21",
+      "address": "0xe3C3D89B47F32C0C442cB3c8dae053ecEc484CDe",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake22",
+      "address": "0xedb267c865DcAf4c84dc9797D87841C7994c56c3",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake23",
+      "address": "0x474B5e10F5503DceF2f03913a0a8bb1f10F76FBF",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake24",
+      "address": "0xC528dbEA79034Cef63d5Ec55c62a190506050d29",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake25",
+      "address": "0xadA36cCCf48c0F3D3f0804E39b15eD221d8BACAD",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "YieldStake26",
+      "address": "0xA8d5000484F31e85735e9813712625D6b0CFd3C6",
+      "category": "YieldAggregator",
+      "ecosystem": "YieldYak",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreiawew5vnzq67bps2mjlklkczu76fyognf25ir45gg76fin75hmihq?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yieldyak_"
+    },
+    {
+      "name": "BlackholeRouter",
+      "address": "0x04E1dee021Cd12bBa022A72806441B43d8212Fec",
+      "category": "DEX",
+      "ecosystem": "Blackhole",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreigfybkfgkiblyzmky6a6sgetpgnf4nehmy2saw7y5bako4bd2dhtm?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/BlackholeDEX"
+    },
+    {
+      "name": "BenQistakedavax",
+      "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+      "category": "Lending Protocol",
+      "ecosystem": "BenQi",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreigod3bx2y2jm7sunmxs75njwhtvjsdl4e6r73kxswjdmyofopawdu?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/BenqiFinance"
+    },
+    {
+      "name": "BenQiStake",
+      "address": "0x784DA19e61cf348a8c54547531795ECfee2AfFd1",
+      "category": "Lending Protocol",
+      "ecosystem": "BenQi",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreigod3bx2y2jm7sunmxs75njwhtvjsdl4e6r73kxswjdmyofopawdu?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/BenqiFinance"
+    },
+    {
+      "name": "BenQiMultiReward",
+      "address": "0x9F21eB10b7Bc56a7d7879E67fB7BAC415EaFb973",
+      "category": "Lending Protocol",
+      "ecosystem": "BenQi",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreigod3bx2y2jm7sunmxs75njwhtvjsdl4e6r73kxswjdmyofopawdu?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/BenqiFinance"
+    },
+    {
+      "name": "BenQisavax",
+      "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+      "category": "Lending Protocol",
+      "ecosystem": "BenQi",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreigod3bx2y2jm7sunmxs75njwhtvjsdl4e6r73kxswjdmyofopawdu?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/BenqiFinance"
+    },
+    {
+      "name": "BenQiIgnite",
+      "address": "0xB71a820d80189073F69498010cb67bDDAe050633",
+      "category": "Lending Protocol",
+      "ecosystem": "BenQi",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreigod3bx2y2jm7sunmxs75njwhtvjsdl4e6r73kxswjdmyofopawdu?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/BenqiFinance"
+    },
+    {
+      "name": "SalvorTheSalvor",
+      "address": "0xce4fee23ab35d0d9a4b6b644881ddd8adebeb300",
+      "category": "NFT-MarketPlace",
+      "ecosystem": "Salvor",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreicro46n4qsqxrein2uo6zfz3tugwalb4pi7q2sl7uskcj4wvxlhay?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/salvor_io"
+    },
+    {
+      "name": "SalvorPool",
+      "address": "0xab4fe2D136Efd7f8dFce3259a5e3C5e4C0130c80",
+      "category": "NFT-MarketPlace",
+      "ecosystem": "Salvor",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreicro46n4qsqxrein2uo6zfz3tugwalb4pi7q2sl7uskcj4wvxlhay?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/salvor_io"
+    },
+    {
+      "name": "SalvorNFTlending",
+      "address": "0x05c1813EC7BEB8Bf744AC43feA25caFb650AC966",
+      "category": "NFT-MarketPlace",
+      "ecosystem": "Salvor",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreicro46n4qsqxrein2uo6zfz3tugwalb4pi7q2sl7uskcj4wvxlhay?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/salvor_io"
+    },
+    {
+      "name": "SalvorTokenLending",
+      "address": "0x22E229D14dc80A1eA7cA7637173E8C6C36D60Fe8",
+      "category": "NFT-MarketPlace",
+      "ecosystem": "Salvor",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreicro46n4qsqxrein2uo6zfz3tugwalb4pi7q2sl7uskcj4wvxlhay?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/salvor_io"
+    },
+    {
+      "name": "JoePegsExchangeProtocol",
+      "address": "0xaE079eDA901F7727D0715aff8f82BA8295719977",
+      "category": "NFT-MarketPlace",
+      "ecosystem": "JoePegs",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifedtx3jkeidbohpkql5r76uwxtwpeq3owr2ndlj67fbrdvod54ku?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/joepegsnft"
+    },
+    {
+      "name": "DexalotRouter",
+      "address": "0x3D3E4F0523500f95039D0Fe600ACf2ADE4b06eB9",
+      "category": "DEX",
+      "ecosystem": "Dexalot",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreidcnlxej7i64rzfcvfdjjtsix2lataous5uptskv5utza63h325nm?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/dexalot"
+    },
+    {
+      "name": "DexalotPortfolio",
+      "address": "0x1FD108cf42A59c635bD4703b8DbC8a741ff834Be",
+      "category": "DEX",
+      "ecosystem": "Dexalot",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreidcnlxej7i64rzfcvfdjjtsix2lataous5uptskv5utza63h325nm?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/dexalot"
+    },
+    {
+      "name": "ChainArq",
+      "address": "0x1E9ea992C4107727231f020340568c1814346D6e",
+      "category": "BRIDGE",
+      "ecosystem": "ChainArq",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreifepzh77mttgvq3gtqm6c4omcjicjl5agikwez7pma7czrq72adfi?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/chainarq"
+    },
+    {
+      "name": "Colony",
+      "address": "0x62685d3eaace96d6145d35f3b7540d35f482de5b",
+      "category": "ACCELERATOR",
+      "ecosystem": "Colony",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreigact5skdt2qhtbegrfagnj77wt7od4hxipdlqhufkktzuzxz7zq4?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/Colonylab"
+    },
+    {
+      "name": "ColonyStake",
+      "address": "0xEFAc81f709d314604a7DaEe9ca234dA978c2Be20",
+      "category": "ACCELERATOR",
+      "ecosystem": "Colony",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreigact5skdt2qhtbegrfagnj77wt7od4hxipdlqhufkktzuzxz7zq4?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/Colonylab"
+    },
+    {
+      "name": "ColonyStakev3",
+      "address": "0x62685d3EAacE96D6145D35f3B7540d35f482DE5b",
+      "category": "ACCELERATOR",
+      "ecosystem": "Colony",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreigact5skdt2qhtbegrfagnj77wt7od4hxipdlqhufkktzuzxz7zq4?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/Colonylab"
+    },
+    {
+      "name": "YAYToken",
+      "address": "0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa",
+      "category": "DAO",
+      "ecosystem": "YAY Network",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreicumhqyk2gkkusgsbbpmxslfmcaq75pxqpiknfe62run6bssgbnhy?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yaynetwork"
+    },
+    {
+      "name": "StakedYAY",
+      "address": "0xA433fDc7fa61836f2F4f6c049C9bB261a1619Fc7",
+      "category": "DAO",
+      "ecosystem": "YAY Network",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreicumhqyk2gkkusgsbbpmxslfmcaq75pxqpiknfe62run6bssgbnhy?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/yaynetwork"
+    },  {
+      "name": "Blaze",
+      "address": "",
+      "category": "StreamFi",
+      "ecosystem": "Blaze",
+      "logo": "https://ipfs.guudfun.space/ipfs/bafkreihbrjpfrozjuuxr7fqclpsrbhcdsz2cjyrjk2hbwv7f6f75crptqi?pinataGatewayToken=yXcN2ErEnKmyVvI28DRwjZF6tZP_KVybakIFFrBJQq4AZUmPu6jIv371ZuvhlWXC",
+      "twitter": "https://x.com/blaze_stream"
+    }
+  ]
+}

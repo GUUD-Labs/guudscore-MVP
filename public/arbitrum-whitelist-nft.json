@@ -1,0 +1,96 @@
+{
+  "chain": "arbitrum",
+  "total_collections": 8,
+  "fetched_at": "2026-01-06T16:54:31.886294Z",
+  "collections": [
+    {
+      "contract_address": "0x58318bceaa0d249b62fad57d134da7475e551b47",
+      "name": "Zeeverse: Items",
+      "symbol": null,
+      "contract_type": "ERC1155",
+      "synced_at": "2026-01-06T16:54:15.106311Z",
+      "collection_logo": "https://i2c.seadn.io/arbitrum/513b26b694654954b51fba7778172e75/96c10e594570edf77da5aeaa218c20/e096c10e594570edf77da5aeaa218c20.png",
+      "description": "Discover unique cosmetics, consumables and other useful items used across Zeeverse!  \r\n\r\n**ABOUT ZEEVERSE**  \r\nZeeverse is a F2P monster-tamer MMORPG set in an indigenous fantasy world.  \r\n\r\nExplore a mythical Spirit Realm as a young Shaman, train your collection of exotic battle companions called Zee, and take part in strategic turn-based battles to help protect Zeeverse from the looming corrupted forces\r\n\r\nPlay now: [https://zee-verse.com/](https://zee-verse.com/) (PC, Android, iOS)\r\n\r\n**OTHER COLLECTIONS**  \r\n[Genesis Masks](https://opensea.io/collection/zeeverse-masks) | [Curve Llama Zee](https://opensea.io/collection/curve-4th-dimension)",
+      "twitter_username": "ZeeverseGame",
+      "discord_url": "https://discord.gg/zeeverse",
+      "collection_banner_image": "https://i2c.seadn.io/arbitrum/513b26b694654954b51fba7778172e75/8991ac38b0aff345a1f1917db6fede/e88991ac38b0aff345a1f1917db6fede.png?fit=inside"
+    },
+    {
+      "contract_address": "0x35373efc2fd7d852729cae869cc32acc979100bd",
+      "name": "ZTX Genesis Homes",
+      "symbol": "ZTX",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-06T16:54:20.929684Z",
+      "collection_logo": "https://i2c.seadn.io/arbitrum/63ea03be95c5477fa7907e6c2ef1ed41/ef76d53302a5284efd5751e9fa8720/b9ef76d53302a5284efd5751e9fa8720.jpeg",
+      "description": "ZTX is a web3 virtual world empowering creators and communities. ZTX is building an immersive 3D open-world platform where users can enjoy social interactions, engage in games, and participate in governance and economics when creating and selling digital assets in the virtual realm. \r\n\r\nThe ZTX Genesis Home Mint is the first-ever NFT collection to be released by ZTX. Minting on Arbitrum, the collection consists of 4,000 bespoke 3D-rendered District Homes, immersive and multilayered in-game assets that will serve as your home in ZTX.",
+      "twitter_username": "ZTXofficial",
+      "discord_url": "https://discord.gg/ztx",
+      "collection_banner_image": "https://i2c.seadn.io/arbitrum/63ea03be95c5477fa7907e6c2ef1ed41/94f04eb127e091a0587265b715099b/b994f04eb127e091a0587265b715099b.jpeg?fit=inside"
+    },
+    {
+      "contract_address": "0x17f4baa9d35ee54ffbcb2608e20786473c7aa49f",
+      "name": "Blueberry Club",
+      "symbol": "GBC",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-06T16:54:22.438826Z",
+      "collection_logo": "https://i2c.seadn.io/arbitrum/a9beef770f69444b9bc5e4714d7fab59/2fcd44fe109b959d76acfca6625e2d/962fcd44fe109b959d76acfca6625e2d.jpeg",
+      "description": "Our dream is to make DeFi simple for everyone, connect communities. That's it.",
+      "twitter_username": "findGBC",
+      "discord_url": "https://discord.gg/findgbc",
+      "collection_banner_image": "https://i2c.seadn.io/arbitrum/a9beef770f69444b9bc5e4714d7fab59/84126a5d4434d52533547a4020b830/8084126a5d4434d52533547a4020b830.jpeg?fit=inside"
+    },
+    {
+      "contract_address": "0x48d2c1716dfdf8add5a5ea658c460e7257448660",
+      "name": "LARP Collective",
+      "symbol": "LARP",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-06T16:54:23.826525Z",
+      "collection_logo": "https://i2c.seadn.io/arbitrum/1886400f8c544f8894bdcfe7fd9f019e/fd2d9905c0061fb5902e89f0685115/6cfd2d9905c0061fb5902e89f0685115.webp",
+      "description": "The blocmates LARP Collective is a range of NFTs with five variations of primates, all representative of the core ethos and personality that underlines the blocmates brand. Ownership of a LARP NFT grants holders keys to \u2018The blocmates Pro Section\u2019 on blocmates.com, exclusive discord access, and a host of additional perks."
+    },
+    {
+      "contract_address": "0x1c7b75ffef2ffab57d4a9727003bcd602f978bce",
+      "name": "FootiumPlayer",
+      "symbol": "FFP",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-06T16:54:25.250447Z",
+      "collection_logo": "https://i2c.seadn.io/arbitrum/457174652ff54270b600515efa1f2e85/0ac18e56a993ffcff5e6f6f4c18a6e/db0ac18e56a993ffcff5e6f6f4c18a6e.png",
+      "description": "Footium is a live, immersive, strategic gaming experience where you own and manage your own digital football club. \n\nWARNING: In order to play Footium, you'll need a Footium Club + a squad of Footium Players.\n\nClub owners buy, sell, and sign unique players, craft tactical game plans, and compete in real-time leagues where the glory of promotion and prizes, and the risk of relegation and ruin, are just a corner away.",
+      "twitter_username": "Footium",
+      "discord_url": "https://discord.gg/footium",
+      "collection_banner_image": "https://i2c.seadn.io/arbitrum/457174652ff54270b600515efa1f2e85/1b448c762cf9520c587bfea48ec0d5/611b448c762cf9520c587bfea48ec0d5.png?fit=inside"
+    },
+    {
+      "contract_address": "0x986094d0b882005f9f58081b20c310772bf3688d",
+      "name": "The Knowers",
+      "symbol": "The Knowers",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-06T16:54:26.648983Z",
+      "collection_logo": "https://i2c.seadn.io/collection/theknowers/image_type_logo/f1b6b18235583abe055f61a7c125f0/6cf1b6b18235583abe055f61a7c125f0.jpeg",
+      "description": "If You Know You Know",
+      "twitter_username": "TheKnowersNFT",
+      "collection_banner_image": "https://i2.seadn.io/arbitrum/73eccda4ce414ed0844375f7ce0572a0/d499052175fc21277ba3826efef284/60d499052175fc21277ba3826efef284.png?fit=inside"
+    },
+    {
+      "contract_address": "0x094fa8ae08426ab180e71e60fa253b079e13b9fe",
+      "name": "Zeeverse: ZEE",
+      "symbol": "ZEE",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-06T16:54:28.126388Z",
+      "collection_logo": "https://i2c.seadn.io/arbitrum/abd5735e8a9142deb7e4ef50e777b9d3/d4d9657c7f817fbbcf1f4a0847945c/0cd4d9657c7f817fbbcf1f4a0847945c.png",
+      "description": "Collect, train, and trade to assemble your Zeeverse dream team!\n\n---\n\n**About Zeeverse**  \nZeeverse is a F2P monster-tamer MMORPG set in an indigenous fantasy world.  \n\nExplore a mythical Spirit Realm as a young Shaman, train your collection of exotic battle companions called Zee, and take part in strategic turn-based battles to help protect Zeeverse from the looming corrupted forces\n\nPlay now: [https://zee-verse.com/](https://zee-verse.com/) (PC, Android, iOS)",
+      "twitter_username": "ZeeverseGame",
+      "collection_banner_image": "https://i2c.seadn.io/arbitrum/abd5735e8a9142deb7e4ef50e777b9d3/ae395256645d1842e04abbdac3cfa3/f8ae395256645d1842e04abbdac3cfa3.png?fit=inside"
+    },
+    {
+      "contract_address": "0x071126cbec1c5562530ab85fd80dd3e3a42a70b8",
+      "name": "Arbzukiswap",
+      "symbol": "NFT",
+      "contract_type": "ERC721",
+      "synced_at": "2026-01-06T16:54:30.462539Z",
+      "collection_logo": "https://i2c.seadn.io/collection/arbzukiswap/image/613ad1b77cfc03281a8e96a3ab7b37/dd613ad1b77cfc03281a8e96a3ab7b37.png",
+      "description": "Arbzukiswap: A collaboration between Arbitrum, Azuki, and Uniswap Labs.",
+      "collection_banner_image": "https://i2c.seadn.io/collection/arbzukiswap/desktopHeroMedia/aa26987ef61e93988c41fabed49a06/fdaa26987ef61e93988c41fabed49a06.png?fit=inside"
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+import type {
+    ApiResponse,
+    AuthResponse,
+    AuthTokens,
+    SignInRequest,
+    SignUpRequest,
+    User,
+    ValidateResponse,
+    WalletLinkRequest,
+} from '@/types';
+
+import { API_CONFIG, ApiService } from './api';
+
+// Auth error types
+export interface AuthError {
+  message: string;
+  code: string;
+  field?: string;
+}
+
+class AuthService extends ApiService {
+  /**
+   * Sign in with email and password
+   */
+  async signIn(credentials: SignInRequest): Promise<AuthResponse> {
+    // Use raw fetch for this endpoint since it doesn't follow ApiResponse format
+    const url = `${API_CONFIG.baseURL}/auth/email/signin`;
+    const response = await fetch(url, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Accept: 'application/json',
+      },
+      body: JSON.stringify(credentials),
+    });
+
+    if (!response.ok) {
+      const errorData = await response.json().catch(() => ({}));
+      throw new Error(
+        errorData.message || `Login failed: ${response.status} ${response.statusText}`
+      );
+    }
+
+    const { accessToken } = await response.json();
+
+    // Set token for subsequent requests
+    this.setAuthToken(accessToken);
+
+    try {
+      // Get user data using the token
+      const userResponse = await this.validate();
+
+      if (!userResponse.valid || !userResponse.user) {
+        throw new Error('Failed to validate user after login');
+      }
+
+      return {
+        user: userResponse.user,
+        tokens: {
+          accessToken,
+          refreshToken: '', // If you don't have refresh token from API
+          expiresIn: 86400, // Default 24 hours, adjust as needed
+        },
+      };
+    } catch (error) {
+      // If validate fails, clear the token and re-throw
+      this.removeAuthToken();
+      throw error;
+    }
+  }
+
+  /**
+   * Sign up with email and password
+   */
+  async signUp(credentials: SignUpRequest): Promise<AuthResponse> {
+    // Use raw fetch for this endpoint since it doesn't follow ApiResponse format
+    const url = `${API_CONFIG.baseURL}/auth/email/signup`;
+    const response = await fetch(url, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Accept: 'application/json',
+      },
+      body: JSON.stringify(credentials),
+    });
+
+    if (!response.ok) {
+      const errorData = await response.json().catch(() => ({}));
+      throw new Error(
+        errorData.message || `Signup failed: ${response.status} ${response.statusText}`
+      );
+    }
+
+    const { accessToken } = await response.json();
+
+    // Set token for subsequent requests
+    this.setAuthToken(accessToken);
+
+    try {
+      // Get user data using the token
+      const userResponse = await this.validate();
+
+      if (!userResponse.valid || !userResponse.user) {
+        throw new Error('Failed to validate user after signup');
+      }
+
+      return {
+        user: userResponse.user,
+        tokens: {
+          accessToken,
+          refreshToken: '', // If you don't have refresh token from API
+          expiresIn: 86400, // Default 24 hours, adjust as needed
+        },
+      };
+    } catch (error) {
+      // If validate fails, clear the token and re-throw
+      this.removeAuthToken();
+      throw error;
+    }
+  }
+
+  /**
+   * Logout current user
+   */
+  async logout(): Promise<void> {
+    await this.post<ApiResponse<void>>('/auth/logout');
+  }
+
+  /**
+   * Refresh access token
+   */
+  async refresh(): Promise<AuthTokens> {
+    const response = await this.post<ApiResponse<AuthTokens>>('/auth/refresh');
+    return response.data.data;
+  }
+
+  /**
+   * Validate current session
+   */
+  async validate(): Promise<ValidateResponse> {
+    // Check if we have a token in the headers
+    const headers = this.getHeaders();
+    if (!headers.Authorization) {
+      return {
+        valid: false,
+      };
+    }
+
+    const response = await this.post<User>('/auth/validate');
+
+    if (response.success && response.data) {
+      return {
+        valid: true,
+        user: {
+          ...response.data,
+          // Map API fields to expected fields for backward compatibility
+          username: response.data.name,
+          isEmailVerified: response.data.emailVerified,
+        },
+      };
+    }
+
+    return {
+      valid: false,
+    };
+  }
+
+  /**
+   * Link wallet to account
+   */
+  async linkWallet(data: WalletLinkRequest): Promise<User> {
+    const response = await this.post<ApiResponse<User>>(
+      '/auth/wallet/link',
+      data
+    );
+    return response.data.data;
+  }
+
+  /**
+   * Unlink wallet from account
+   */
+  async unlinkWallet(walletId: string): Promise<User> {
+    const response = await this.delete<ApiResponse<User>>(
+      `/auth/wallet/${walletId}`
+    );
+    return response.data.data;
+  }
+
+  /**
+   * Get current user from token
+   */
+  async getCurrentUser(): Promise<User | null> {
+    try {
+      const validateResult = await this.validate();
+      return validateResult.valid ? validateResult.user || null : null;
+    } catch (error) {
+      console.error('Failed to get current user:', error);
+      return null;
+    }
+  }
+
+  /**
+   * Initiate Twitter OAuth flow
+   * Returns the backend endpoint URL that will redirect to Twitter OAuth
+   */
+  getTwitterLoginUrl(): string {
+    return `${API_CONFIG.baseURL}/auth/twitter`;
+  }
+
+  /**
+   * @deprecated This method is not needed anymore
+   * Backend now redirects directly to frontend with tokens in URL
+   * Use the callback route component instead
+   */
+  async completeTwitterLogin(
+    code: string,
+    state: string
+  ): Promise<AuthResponse> {
+    const url = `${API_CONFIG.baseURL}/auth/twitter/callback?code=${encodeURIComponent(code)}&state=${encodeURIComponent(state)}`;
+    const response = await fetch(url, {
+      method: 'GET',
+      headers: {
+        Accept: 'application/json',
+      },
+    });
+
+    if (!response.ok) {
+      throw new Error(
+        `Twitter login failed: ${response.status} ${response.statusText}`
+      );
+    }
+
+    const { accessToken } = await response.json();
+
+    // Set token for subsequent requests
+    this.setAuthToken(accessToken);
+
+    try {
+      // Get user data using the token
+      const userResponse = await this.validate();
+
+      if (!userResponse.valid || !userResponse.user) {
+        throw new Error('Failed to validate user after Twitter login');
+      }
+
+      return {
+        user: userResponse.user,
+        tokens: {
+          accessToken,
+          refreshToken: '',
+          expiresIn: 86400,
+        },
+      };
+    } catch (error) {
+      // If validate fails, clear the token and re-throw
+      this.removeAuthToken();
+      throw error;
+    }
+  }
+
+  /**
+   * Set authorization token for future requests
+   */
+  setAuthToken(token: string): void {
+    this.setHeader('Authorization', `Bearer ${token}`);
+  }
+
+  /**
+   * Remove authorization token
+   */
+  removeAuthToken(): void {
+    this.removeHeader('Authorization');
+  }
+}
+
+// Create and export the service instance
+export const authService = new AuthService();
+export default authService;

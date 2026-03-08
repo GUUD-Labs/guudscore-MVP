@@ -1,0 +1,1000 @@
+{
+  "chain": "avalanche",
+  "total_collections": 100,
+  "fetched_at": "2025-11-23T09:46:44.609Z",
+  "collections": [
+    {
+      "contract_address": "0x001e68282d52dcaba3749291bac33a9678073d01",
+      "name": "Pizza Game Chefs",
+      "symbol": "PIZZA-GAME-CHEF",
+      "contract_type": "ERC721",
+      "synced_at": "2022-02-04T20:07:25.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/af38b96075484882916c3d9eb623aaa3/9f69a5d609593a4e80e53ba9f8f441/f89f69a5d609593a4e80e53ba9f8f441.png"
+    },
+    {
+      "contract_address": "0x006d36dfb318ec1b3a87b2cad4210698090717dd",
+      "name": "Plague Game",
+      "symbol": "Plague Doctor",
+      "contract_type": "ERC721",
+      "synced_at": "2022-11-16T10:34:26.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/0bdf009a5d1f4a918fee42aa29d0eec1/a062a8610202b459fe749afb9535f8/b9a062a8610202b459fe749afb9535f8.gif"
+    },
+    {
+      "contract_address": "0x00bf1594507ccf60b41ad64524d4aba23b059f4b",
+      "name": "Ferdy Frens",
+      "symbol": "FREN",
+      "contract_type": "ERC721",
+      "synced_at": "2024-03-29T15:54:39.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/0x00bf1594507ccf60b41ad64524d4aba23b059f4b/c42e1783795531b0d8b253adc9c97e/bfc42e1783795531b0d8b253adc9c97e.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/6471def9a6d74bd580ea847193430ef8/cf4a6a117ab78b2270e9e54782739f/93cf4a6a117ab78b2270e9e54782739f.png?fit=inside",
+      "description": "We all have friends. But very few of us have Frens.\r\n\r\nFerdy Frens is a collection for those who don’t take themselves too seriously. Folks who understand, but want you to explain what you meant just in case. Folks who may or may not have missed the CAUTION: WET FLOOR sign once or twice and taken a spill. Folks who want to own something that other people think might be hideous even though those people are wrong because shut up I like it. I’m not crying, you’re crying.\r\n\r\nYou know why you’re here. And we’re happy to have you. Right this way, my fren."
+    },
+    {
+      "contract_address": "0x00f5d01d86008d14d04e29efe88dffc75a9cac47",
+      "name": "FarmLand",
+      "symbol": "FarmLand",
+      "contract_type": "ERC721",
+      "synced_at": "2022-02-14T20:52:49.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/04860b69d0ec43af9b305e42c8032451/bb130809c0b316defcb933406dbfdd/9fbb130809c0b316defcb933406dbfdd.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/04860b69d0ec43af9b305e42c8032451/c5b499a32927ffbaff7259bd372eb3/fcc5b499a32927ffbaff7259bd372eb3.png?fit=inside",
+      "description": "#Chikn -   \n\n\n  **Avalanche's Premier Upgradable NFT Gaming Ecosystem  **\n\n\n\n Home to **FarmLand** 🌳 - The world's first upgradable plot of Metaverse Land with gamified LP farming.",
+      "project_url": "http://chikn.farm",
+      "twitter_username": "chikn_nft",
+      "discord_url": "https://discord.gg/9znHkBYjra"
+    },
+    {
+      "contract_address": "0x0399c2b16761d39be15a4bc34b139c18f4af3e8a",
+      "name": "S.E.M. Capsules",
+      "symbol": "S.E.M.",
+      "contract_type": "ERC721",
+      "synced_at": "2024-01-22T15:56:15.000Z",
+      "collection_logo": "https://raw2.seadn.io/avalanche/0x0399c2b16761d39be15a4bc34b139c18f4af3e8a/203c70929c24360c5ec9ca8cc4f7ae/50203c70929c24360c5ec9ca8cc4f7ae.mp4",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/fad19eb464b94ef4a476d10c73d54707/7f3bb42c5c5cf5db4b9dcabb65279e/4c7f3bb42c5c5cf5db4b9dcabb65279e.jpeg?fit=inside",
+      "description": "S.E.M. (Stable Exotic Matter) Capsules are the most important resource in the BloodLoop narrative universe. They represent the only remaining source of Exotic Energy in the universe and are the main reason for the struggle between the Four Factions. Owning a Capsules is equivalent to possessing a source of infinite wealth, and infinite opportunities.\n\n$BLS Token Airdrop: Discover the history of BloodLoop, unlock mysteries, and uncover secrets to earn points and help your faction.\n\nAccumulated points will give you access to a 1,000,000 BLS airdrop pool."
+    },
+    {
+      "contract_address": "0x07e741cf962ef140cba9b15b7e6af7f31f3ed04d",
+      "name": "Love Monster",
+      "symbol": "LM",
+      "contract_type": "ERC721",
+      "synced_at": "2022-12-03T06:16:12.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/9385969e63eb4c43b81d1986b5879878/d5516c71ed78cde3b5505ed0261ed8/2cd5516c71ed78cde3b5505ed0261ed8.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/9385969e63eb4c43b81d1986b5879878/6b59170d64f1d6b4d9dcf6cd0f5a5c/6c6b59170d64f1d6b4d9dcf6cd0f5a5c.png?fit=inside"
+    },
+    {
+      "contract_address": "0x0cd741f007b417088ca7f4392e8d6b49b4f7a975",
+      "name": "KINGSHIT",
+      "symbol": "KINGSHIT",
+      "contract_type": "ERC721",
+      "synced_at": "2024-02-16T20:32:06.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/0x0cd741f007b417088ca7f4392e8d6b49b4f7a975/25f6e20ccd02d930297651e0389533/6625f6e20ccd02d930297651e0389533.jpeg",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/85c4e4928014414e80b5156fdaa4872e/c2880e3f2e69c2a33e57b6a28365b5/36c2880e3f2e69c2a33e57b6a28365b5.jpeg?fit=inside"
+    },
+    {
+      "contract_address": "0x0e1ce5cd26d67fd416dc6a22eb97d60131d0901b",
+      "name": "Tadpole",
+      "symbol": "TADP",
+      "contract_type": "ERC721",
+      "synced_at": "2022-03-11T06:57:59.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/0006118282714bf4a82cb7142854aded/4d9e7afc2995a1a480d939a800d603/414d9e7afc2995a1a480d939a800d603.png"
+    },
+    {
+      "contract_address": "0x13f242cd2bc1d825c76d0bfe7cc4a01f4dbc5bea",
+      "name": "Innermost by Brian Morris",
+      "symbol": "Innermost",
+      "contract_type": "ERC721",
+      "synced_at": "2022-10-26T13:30:28.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/1ec054c0afe54cd2bdb144326ddbd8a1/7e81495baf15d02d8b937c106450e9/127e81495baf15d02d8b937c106450e9.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/1ec054c0afe54cd2bdb144326ddbd8a1/e53913ca546fb799cb2e027bd1e2f3/7ce53913ca546fb799cb2e027bd1e2f3.png?fit=inside",
+      "description": "Innermost by Brian Morris is a visual exploration of ideas, feelings and experiences that bring people together. Each piece captures a feeling difficult to put into words, visualizing the intangible sensations inside all of us. Feelings which are amplified when felt with another person.The Innermost collection evolved from Brian’s ongoing study of glass profiles filled with a myriad of ideas. What began as a single glass silhouette become a playground for experimenting without the goal to ever be “complete”. Free of limitations or expectations, Brian found new looks within his signature See-Thru Surrealism. The glass forms of Innermost expand on the key themes he found within this ongoing pursuit. Much like the study that lead to this work, the collection centers around consistent forms within different looks, and consistent looks in different forms.",
+      "project_url": "http://brianmorris.art",
+      "twitter_username": "ooo000ooo"
+    },
+    {
+      "contract_address": "0x15e6c37cdb635acc1ff82a8e6f1d25a757949bec",
+      "name": "Police & Thief Game",
+      "symbol": "POLICE",
+      "contract_type": "ERC721",
+      "synced_at": "2021-12-29T21:41:03.000Z",
+      "collection_logo": "https://raw2.seadn.io/avalanche/aca0bc3028ec48a19ff20e84d272a08b/13b2b70ccb422ae567bdc736839490/8613b2b70ccb422ae567bdc736839490.svg",
+      "collection_banner_image": "https://raw2.seadn.io/avalanche/aca0bc3028ec48a19ff20e84d272a08b/13b2b70ccb422ae567bdc736839490/8613b2b70ccb422ae567bdc736839490.svg"
+    },
+    {
+      "contract_address": "0x1a25f726720aa11bdcbdb21b9bd9c9a17c027829",
+      "name": "Assetha",
+      "symbol": "AST",
+      "contract_type": "ERC721",
+      "synced_at": "2022-11-02T08:30:35.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/af9377df714d445e93cbaa327036b394/c70dcc964c79c6cdb56c9f6f76289c/69c70dcc964c79c6cdb56c9f6f76289c.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/af9377df714d445e93cbaa327036b394/c57caff398247a56becbe5900089d5/20c57caff398247a56becbe5900089d5.jpeg?fit=inside",
+      "description": "Assetha world is a gruesome one, ruled by tech firms. Its characters exist on a cyberpunk world, lawless subculture of an oppressive society. Are you prepared to discover your own hero, create their own story and become one with them?",
+      "project_url": "http://assetha.com",
+      "twitter_username": "Assethas"
+    },
+    {
+      "contract_address": "0x1b1801c970820ec2b8e083056d0818ce9b5bac83",
+      "name": "DCG Legend",
+      "symbol": "DCGL",
+      "contract_type": "ERC721",
+      "synced_at": "2024-09-04T15:13:49.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/0x1b1801c970820ec2b8e083056d0818ce9b5bac83/cc19d30980a42c3c8ee84a31545347/0fcc19d30980a42c3c8ee84a31545347.png"
+    },
+    {
+      "contract_address": "0x204b3ee3f9bdcde258ba3f74de76ea8eedf0a36a",
+      "name": "nochillio",
+      "symbol": "nochillio",
+      "contract_type": "ERC721",
+      "synced_at": "2024-07-08T05:19:44.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/0x204b3ee3f9bdcde258ba3f74de76ea8eedf0a36a/9ba8cd547f7eef2451f8683ee17e1a/0f9ba8cd547f7eef2451f8683ee17e1a.png",
+      "collection_banner_image": "https://i2c.seadn.io/collection/nochillio/banner/8bc9519572a2d06565e5bd666a7244/f58bc9519572a2d06565e5bd666a7244.jpeg?fit=inside",
+      "description": "nochillio is a remilia inspired collection of 1337 pfpNFTs that brings autistic joy and nostalgia to the red chain. we are #NOCHILLIONAIREs.",
+      "twitter_username": "NOCHILLIONAIRE"
+    },
+    {
+      "contract_address": "0x26c1c5686a71751ba1b9654f8eb260b409e4ed4b",
+      "name": "The Doms",
+      "symbol": "DOMS",
+      "contract_type": "ERC721",
+      "synced_at": "2024-01-29T17:35:52.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/da4baee58dfa415d9044ad8341d5e26c/4b06360acaf4833056075686aa7479/9d4b06360acaf4833056075686aa7479.png",
+      "description": "For the culture"
+    },
+    {
+      "contract_address": "0x26fae8d317f411a5814a87cbc6d173700cba01a1",
+      "name": "Cuddle Fish ",
+      "symbol": "CUDLZ",
+      "contract_type": "ERC721",
+      "synced_at": "2022-05-12T00:45:29.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/dee3b4fbc9344379a47346d88046ac96/e55f4080769e5c5f0419e0e20e6f24/c6e55f4080769e5c5f0419e0e20e6f24.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/dee3b4fbc9344379a47346d88046ac96/e19dab75f4e390a375043d5a490be0/fae19dab75f4e390a375043d5a490be0.jpeg?fit=inside",
+      "description": "Cuddle Fish is a Non-Generative 1:1 Collection of 1000 \"Cuddle Fish\". Each Cuddle Fish represents Artist and Co-Founder of Campfire, Josh Hughes' interest in the anthropomorphic figure as representation of projected self through the use as online profile pictures (PfP). This collection explores the human condition of adoption of symbol, brand, and personal identity of online culture and decentralized networks. Josh Hughes takes personal interest in the idea of PfPs as Kayfabe, or the extension of personality where as the adoption of image has echoed as a recurring theme thought out human history.",
+      "project_url": "https://campfire.exchange/collections/0x26fae8d317f411a5814a87cbc6d173700cba01a1"
+    },
+    {
+      "contract_address": "0x2a84808279ff8316fbd559b781a1397622257376",
+      "name": "BabySkullz",
+      "symbol": "BABYSKULLZ",
+      "contract_type": "ERC721",
+      "synced_at": "2022-02-21T16:42:21.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/f044c6cd7e9c4813a95ef478ab0a4e32/d09f9ff2b150d214a5a0127a6e9a79/fcd09f9ff2b150d214a5a0127a6e9a79.gif",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/f044c6cd7e9c4813a95ef478ab0a4e32/3bb9e10967c936ea73b682c3e9a8b3/b33bb9e10967c936ea73b682c3e9a8b3.jpeg?fit=inside",
+      "description": "Owning a BabySkullz NFT grants you access to [Skullz.City](https://www.skullz.city), The Original Verse, a place where we **experiment** and **innovate** in Web3. \n\nThe utility of our BabySkullz is constantly evolving as they are the very first inhabitants of Skullz City. They play one of the most important role in the city as we call their holderz, the Believerz. They define what comes next in our world and are rewarded for their hard work building the city.\n\nLearn more about our project and utility through [Our Whitepaper](https://docs.madskullz.io)\n\nDiscover our other collections and learn more on [MadSkullz.io](https://www.madskullz.io)",
+      "project_url": "http://madskullz.io",
+      "twitter_username": "MadSkullz_NFT",
+      "discord_url": "https://discord.gg/madskullz"
+    },
+    {
+      "contract_address": "0x2cd4dbcbfc005f8096c22579585fb91097d8d259",
+      "name": "Smol Creeps",
+      "symbol": "CREEPS",
+      "contract_type": "ERC721",
+      "synced_at": "2022-08-01T21:04:51.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/76c14bb847cc48a5954ade4434a51004/1ef800170b9509fd11bf035b37ce53/0e1ef800170b9509fd11bf035b37ce53.jpeg",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/76c14bb847cc48a5954ade4434a51004/ffb5e03cdbcb2630a4b0a05a42a370/04ffb5e03cdbcb2630a4b0a05a42a370.jpeg?fit=inside",
+      "description": "The Kingdom of We-Smol will be consumed. The Creep absorbs all. The Creep is inevitable. No roadmap, only Creeping. Part of the Smol Joe’s ecosystem."
+    },
+    {
+      "contract_address": "0x2ee475a5cdc31c040ba1af3b0c4d66ca5c31c49a",
+      "name": "Mambonauts",
+      "symbol": "MAMBO",
+      "contract_type": "ERC721",
+      "synced_at": "2022-07-01T20:42:46.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/32cb69956c554aac928d6b596b102a79/4de0c56677c27ba4d6d11f71cfa797/904de0c56677c27ba4d6d11f71cfa797.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/32cb69956c554aac928d6b596b102a79/9bdb06c7b088b13a61209fec75cdf5/e19bdb06c7b088b13a61209fec75cdf5.png?fit=inside",
+      "description": "Mambonauts are the space-bound entry to the MamboMakers ecosystem. Holding one will give you access to whitelists and free mints (both from the MamboMakers team as well as collaborations) and constant giveaways from the treasury wallet."
+    },
+    {
+      "contract_address": "0x3025c5c2aa6eb7364555aac0074292195701bbd6",
+      "name": "MadSkullz",
+      "symbol": "MADSKULLZ",
+      "contract_type": "ERC721",
+      "synced_at": "2022-06-06T01:23:42.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/788911e859564481b923de7cffeaa961/3def260ed8f4fc27c4b765fac7e95d/6c3def260ed8f4fc27c4b765fac7e95d.gif",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/788911e859564481b923de7cffeaa961/a5a450117e2dd4b4b0f1c3c7d9e803/7ea5a450117e2dd4b4b0f1c3c7d9e803.jpeg?fit=inside",
+      "description": "Owning an NFT from MadSkullz grants you access to [Skullz.City](https://www.skullz.city), The Original Verse, a place where we **experiment** and **innovate** in Web3. \n\nThe utility of our Skullz is constantly evolving through constant iterations and evolutions such as **Play2Earn, mini-games, interoperability, & Web3 tech.**\n\nLearn more about our project and utility through [Our Whitepaper](https://docs.madskullz.io)\n\nMadSkullz live in their own world, Skullz City. A reality where life was peaceful and where neighbors are friendly until the Humanz came and started a war...\n\nDiscover our other collections and learn more on [MadSkullz.io](https://www.madskullz.io)",
+      "project_url": "https://skullz.city",
+      "twitter_username": "SkullzHQ",
+      "discord_url": "https://discord.gg/Abr24eHhVj"
+    },
+    {
+      "contract_address": "0x33b7ee54f1a1fce84639528c409c3f3b7187084e",
+      "name": "Koroshi",
+      "symbol": "KOROSHI",
+      "contract_type": "ERC721",
+      "synced_at": "2025-03-30T10:31:59.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/972bc1fbe7ab498d80b2d699dfb59e77/a05ac82c16478a22b36169499bc01e/54a05ac82c16478a22b36169499bc01e.gif",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/972bc1fbe7ab498d80b2d699dfb59e77/ed2c9bdb503ca735078474c926c914/01ed2c9bdb503ca735078474c926c914.jpeg?fit=inside",
+      "description": "Koroshi NFT offers a unique adventure blending art, blockchain, and gamified mechanics. The project rewards engagement and strategy, providing an unprecedented experience for NFT enthusiasts and community-driven competitors.",
+      "project_url": "https://www.thekoroshi.com"
+    },
+    {
+      "contract_address": "0x357928b721890ed007142e45502a323827caf812",
+      "name": "CHAD DOGE",
+      "symbol": "CHAD",
+      "contract_type": "ERC721",
+      "synced_at": "2022-07-06T16:49:32.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/b4a9033219d64adf8171f62af54378bd/fce9dd726587f3d3144c5aeca615ef/64fce9dd726587f3d3144c5aeca615ef.jpeg",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/b4a9033219d64adf8171f62af54378bd/cbff8640dd67eae627e71e16cb2374/69cbff8640dd67eae627e71e16cb2374.jpeg?fit=inside",
+      "description": "Chad Doge roams the Avax C-Chain, or as we call it, Chad-Chain. Chad vibes only.",
+      "twitter_username": "_ChadDoge_",
+      "discord_url": "https://discord.gg/FhQJKKvYCe"
+    },
+    {
+      "contract_address": "0x388a5d40d53fc84186ec680a43b906b9f8f010f1",
+      "name": "Cozy Penguin Explorers",
+      "symbol": "CPE",
+      "contract_type": "ERC721",
+      "synced_at": "2023-10-13T06:55:03.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/8414b32476f3405fae5a70f51ba5c684/d3f472fe166609f5acd7a5cc59c23c/85d3f472fe166609f5acd7a5cc59c23c.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/8414b32476f3405fae5a70f51ba5c684/be005aa3508e88bff8f6072e2a909a/08be005aa3508e88bff8f6072e2a909a.png?fit=inside",
+      "description": "Cozy Penguins journeyed to the snowy regions in Avalanche for their next Adventure! Wearing new gear for the trip, the Cozy Penguin Explorers came to rescue the Woofys, and aid them in their quest to rebuild their home.\n\n- View the original collection: https://opensea.io/collection/cozy-penguin\n- Play our games: https://cozyverse.xyz/\n- Join the Community: https://discord.gg/cozyverse\n- Follow our Twitter: https://twitter.com/cozypenguinsnft"
+    },
+    {
+      "contract_address": "0x39dafc4c728839f326cb56108a65d71ea8100dcd",
+      "name": "Asgardian",
+      "symbol": "ASG",
+      "contract_type": "ERC721",
+      "synced_at": "2022-05-01T19:48:00.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/4c934183d09743599f90927bbd9ca545/f956ec809899a05c648cf725a3dd5c/7ef956ec809899a05c648cf725a3dd5c.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/4c934183d09743599f90927bbd9ca545/76f71321bff502d25f13f5c32ab1b6/6576f71321bff502d25f13f5c32ab1b6.jpeg?fit=inside"
+    },
+    {
+      "contract_address": "0x3ebd249f12e6ccb33bbd232595a2af338d725730",
+      "name": "OGERZ KLAN",
+      "symbol": "OGERZKLAN",
+      "contract_type": "ERC721",
+      "synced_at": "2022-10-27T15:44:13.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/d2881d9534b54ce58c6e10f7665a294d/a7d7ef2ef069caa208b704b7b61500/50a7d7ef2ef069caa208b704b7b61500.jpeg",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/d2881d9534b54ce58c6e10f7665a294d/0fe387ae487e85e01650cebe4722af/c60fe387ae487e85e01650cebe4722af.jpeg?fit=inside"
+    },
+    {
+      "contract_address": "0x3f4be5a356e66cae7e4944b12cd5a63b969a9540",
+      "name": "The Face 1966",
+      "symbol": "PPBB",
+      "contract_type": "ERC721",
+      "synced_at": "2025-01-28T13:34:30.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/0x3f4be5a356e66cae7e4944b12cd5a63b969a9540/dd69f818fdaf7975dfd22d525e9588/d6dd69f818fdaf7975dfd22d525e9588.jpeg"
+    },
+    {
+      "contract_address": "0x3fc48ddecc79b377fa070df701d6ae4b809c4a5e",
+      "name": "Smart Finance OG-NFT",
+      "symbol": "OGNFT",
+      "contract_type": "ERC721",
+      "synced_at": "2022-08-20T21:49:17.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/d0cedf7fcfca45a68a8ebf7e02b20c78/e23017828390d5a97455e0ce9848d5/c9e23017828390d5a97455e0ce9848d5.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/d0cedf7fcfca45a68a8ebf7e02b20c78/368d090088cfc6776c925a437fc399/1a368d090088cfc6776c925a437fc399.png?fit=inside",
+      "description": "Smart Finance - OG NFTs",
+      "project_url": "https://smartfinance.exchange"
+    },
+    {
+      "contract_address": "0x40801889321743cd0dcb6e4c15eaa584b36564dc",
+      "name": "PePe Portraits",
+      "symbol": "PePe Portraits",
+      "contract_type": "ERC721",
+      "synced_at": "2023-10-29T21:29:12.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/0x40801889321743cd0dcb6e4c15eaa584b36564dc/a95c5fff29f66225a48456be6a10b9/e5a95c5fff29f66225a48456be6a10b9.png",
+      "description": "Hmmm. This is kinda suspect.",
+      "discord_url": "https://discord.gg/pepeportraits"
+    },
+    {
+      "contract_address": "0x4160c72898bb4ebafe2612d76777008e78880478",
+      "name": "Lucid RED",
+      "symbol": "LRED",
+      "contract_type": "ERC721",
+      "synced_at": "2025-02-10T20:24:52.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/0x4160c72898bb4ebafe2612d76777008e78880478/7488454444fcb7b0b15cc069e18135/d77488454444fcb7b0b15cc069e18135.jpeg"
+    },
+    {
+      "contract_address": "0x418d541b05d932371ec148852448f7445b2b73df",
+      "name": "illuminati Owls",
+      "symbol": "ILL",
+      "contract_type": "ERC721",
+      "synced_at": "2022-01-09T07:44:17.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/ae716eb2956b4e1fa9b18fd445c179f3/396e65dae1dc6289eed281801136a8/7c396e65dae1dc6289eed281801136a8.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/ae716eb2956b4e1fa9b18fd445c179f3/876cda86fbe5e3a12fa2eb5e657982/4f876cda86fbe5e3a12fa2eb5e657982.png?fit=inside",
+      "description": "3,333 original avatar NFTs on Avalanche blockchain\r\n\r\nStake your Owl, Earn $HOOT, Level Up",
+      "project_url": "https://illuminatiowls.com/",
+      "twitter_username": "illowlsNFT"
+    },
+    {
+      "contract_address": "0x4245a1bd84eb5f3ebc115c2edf57e50667f98b0b",
+      "name": "Hopper",
+      "symbol": "HOP",
+      "contract_type": "ERC721",
+      "synced_at": "2022-03-11T06:57:48.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/d10f1985c90544f8a31dc11d2226dc8c/879e69c07fab49d080f63aa391f1d8/29879e69c07fab49d080f63aa391f1d8.jpeg",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/d10f1985c90544f8a31dc11d2226dc8c/b09463d6f7e1ef155549a00db225f4/d3b09463d6f7e1ef155549a00db225f4.jpeg?fit=inside"
+    },
+    {
+      "contract_address": "0x45a3b93955ecff23bea82d3a6e500a5e4030ca06",
+      "name": "Akudo",
+      "symbol": "AKU",
+      "contract_type": "ERC721",
+      "synced_at": "2024-02-06T14:03:42.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/d48c9dc27dfd4c06b746a815ff0ac673/7aab26ef2029bc0564d00df00f2911/317aab26ef2029bc0564d00df00f2911.png",
+      "description": "Embody the spirit of Akudo."
+    },
+    {
+      "contract_address": "0x45cc240d114e421d727ba0bf9dae4155c9b9d2eb",
+      "name": "Pixel Pops",
+      "symbol": "POP",
+      "contract_type": "ERC721",
+      "synced_at": "2022-07-24T21:40:47.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/51bb3e58c2d34b92801129743ecfd8ec/a28f359358af7c9c3aec077a9f6a21/4ca28f359358af7c9c3aec077a9f6a21.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/51bb3e58c2d34b92801129743ecfd8ec/ebe3113f678f024c921cfc8eaebdab/3bebe3113f678f024c921cfc8eaebdab.png?fit=inside",
+      "description": "Pixel Pops is a collection based on good vibes and crypto love. They embody our passions and dreams and serve as a way of gathering art and crypto lovers."
+    },
+    {
+      "contract_address": "0x4b3903952a25961b9e66216186efd9b21903aed3",
+      "name": "WyndBlast NFT",
+      "symbol": "WBNFT",
+      "contract_type": "ERC721",
+      "synced_at": "2022-02-25T03:36:15.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/040a8a2e36284f05a7d86f736d25eb40/d2f931cebf3171e1a4f78330ba83c5/85d2f931cebf3171e1a4f78330ba83c5.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/040a8a2e36284f05a7d86f736d25eb40/c2b9d6c357180b7486ac8e9a42c94d/61c2b9d6c357180b7486ac8e9a42c94d.jpeg?fit=inside",
+      "description": "One of a Kind Multiplayer Strategy Auto-Battler Play and Earn on #Avalanche Blockchain ⚔️🐉🔥\r\n\r\nThere are various in-game activities, including breeding, recruiting, forging, PVE & PVP. We introduce three kinds of digital assets (The wynd, The rider, and the equipment). That is Because wyndblast is the first game we will build around Chronica Sola Verse. After WyndBlast has successfully stable and matured, we will introduce another 'verse' or play, and the player can use the same asset used in WyndBlast. That is why we need to ensure that the digital assets available are varied enough to fulfill this goal. The critical difference between WyndBlast and a traditional game is that Blockchain economic design unlocks the ability to have complex player-owned economies and reward players who can reach advanced skill levels. Players can have fun and work towards ambitious goals while simultaneously earning potential resources that",
+      "project_url": "https://wyndblast.com"
+    },
+    {
+      "contract_address": "0x4c5a8b71330d751bf995472f3ab8ceb06a98dd47",
+      "name": "Rich Peon Poor Peon",
+      "symbol": "PEON",
+      "contract_type": "ERC721",
+      "synced_at": "2022-07-27T20:50:04.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/426d271a108d41fb83b7457660bb9434/341a7a4f73d9f27ce758b719f30deb/1b341a7a4f73d9f27ce758b719f30deb.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/426d271a108d41fb83b7457660bb9434/8ec4a99a96082112668e53ac03d5ee/dc8ec4a99a96082112668e53ac03d5ee.png?fit=inside",
+      "description": "Make Peons rich again. From smashing rocks to wearing diamonds."
+    },
+    {
+      "contract_address": "0x4cde6f2e6bdd0c4ee7bd0c9468188367e4e4952d",
+      "name": "Lil Coq",
+      "symbol": "LilCoq",
+      "contract_type": "ERC721",
+      "synced_at": "2024-04-24T14:43:49.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/0x4cde6f2e6bdd0c4ee7bd0c9468188367e4e4952d/18027538cc1a754561e4ef27d5a850/e218027538cc1a754561e4ef27d5a850.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/2c53ffc036df4174a913bfbf25746378/885df51105b45b69696daefd714105/08885df51105b45b69696daefd714105.jpeg?fit=inside",
+      "description": "Lil Coqs are not your average NFTs - they're a revolutionary concept crafted by Avalanche OGs with a proven track record. Coming from the creators of past successful collections like APY Lions NFT on Polygon, which achieved an impressive 54% ROI in just 45 weeks, Lil Coq NFTs are poised to shake up the NFT landscape once again."
+    },
+    {
+      "contract_address": "0x535693b04736a436bf2aa28ac5c4b8f27f623ccb",
+      "name": "morfs",
+      "symbol": "morfs",
+      "contract_type": "ERC721",
+      "synced_at": "2022-08-03T21:52:01.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/28239d14d65a4763a929c0006a3a9b99/bd068737c5396c51e6a5312aec3645/d9bd068737c5396c51e6a5312aec3645.jpeg",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/28239d14d65a4763a929c0006a3a9b99/1b1c29dfde50209c4bd2da2d0dde18/6d1b1c29dfde50209c4bd2da2d0dde18.png?fit=inside",
+      "description": "Creatures of clay come out to play"
+    },
+    {
+      "contract_address": "0x5378d068001d7e53d6c0a7ef539fbe213b5eb075",
+      "name": "FunnelHeads",
+      "symbol": "FUNNELHEADS",
+      "contract_type": "ERC721",
+      "synced_at": "2022-02-24T13:40:07.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/aa4e429253dc4006a500ccc12c465ada/7e130a60f1aacd8641c6dd062b8315/e57e130a60f1aacd8641c6dd062b8315.jpeg",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/aa4e429253dc4006a500ccc12c465ada/b3a5e528aceb2165be4560a90f152b/0db3a5e528aceb2165be4560a90f152b.jpeg?fit=inside",
+      "description": "Who are the Funnelheads? They were born in an unknown place, on an unknown date. We have no clue about how they multiple, what they eat. It's a mystery where they take shelter, how they stay healthy. It's impossible to trace the records of their finger prints or their radiology results. Because they did not partake in any of these activities. Nobody cared about any of this... They just want to live among us, to walk the same streets as us, to talk about the same things as us, to fall in love with the same person as us. They need validation and acceptance just like the rest of us. But they are not the type to be validated or accepted. They are easy to differentiate from the rest of us, but they think otherwise. They are masters of shapeshifting, but you could still recoginize them no matter what shape they are in. They could be turned into weapons in the wrong hands, but to this date, no wrong hand wanted to turn them into weapons.",
+      "twitter_username": "FunnelheadsNft",
+      "discord_url": "https://discord.gg/TWRr4QTrDG"
+    },
+    {
+      "contract_address": "0x54c800d2331e10467143911aabca092d68bf4166",
+      "name": "Dokyo",
+      "symbol": "DKY",
+      "contract_type": "ERC721",
+      "synced_at": "2023-09-20T02:52:33.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/f3c6e6c7a6694bc085ce76c2cb6f0beb/503a4e46543c63c19fc3d216c088c8/dd503a4e46543c63c19fc3d216c088c8.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/f3c6e6c7a6694bc085ce76c2cb6f0beb/9f6e7f361f9f6af49e4106a45a0a38/4a9f6e7f361f9f6af49e4106a45a0a38.jpeg?fit=inside",
+      "description": "A world of courage awaits."
+    },
+    {
+      "contract_address": "0x68f560b5b9a3807e7c6543ec17e185b4ae611bfb",
+      "name": "Satoverse",
+      "symbol": "SATO",
+      "contract_type": "ERC721",
+      "synced_at": "2022-07-04T08:48:33.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/f9edd66e2e2847a28e90ff9f87b57dfd/a52fc8ac5e797ffd88d32d09a3fbab/7aa52fc8ac5e797ffd88d32d09a3fbab.jpeg",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/f9edd66e2e2847a28e90ff9f87b57dfd/4ab75611290f27856190281d4f676f/404ab75611290f27856190281d4f676f.jpeg?fit=inside",
+      "description": "serious art"
+    },
+    {
+      "contract_address": "0x6cc4cc814c7154fb67965c8044cc803b3199ec53",
+      "name": "Pizza Game Chef Tools",
+      "symbol": "PIZZA-GAME-CHEF-TOOL",
+      "contract_type": "ERC721",
+      "synced_at": "2022-02-04T20:07:40.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/6b80246d96904dedb08e4d9d4c7937f1/9f69a5d609593a4e80e53ba9f8f441/f89f69a5d609593a4e80e53ba9f8f441.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/6b80246d96904dedb08e4d9d4c7937f1/3c803a99650fb43cdce79c690b9a02/513c803a99650fb43cdce79c690b9a02.png?fit=inside",
+      "description": "Pizza Game is a decentralized remake of our favorite childhood online game, Cookie Clicker. Robot Assistants are a viable path for every starting Pizza entrepreneur, and Iron Chefs will bring the extra spice to the big Pizza Empires.",
+      "project_url": "https://pizza.game/",
+      "twitter_username": "PizzadotGame",
+      "discord_url": "https://discord.gg/cVgmbRT8NF"
+    },
+    {
+      "contract_address": "0x7098b1918eb2aa13945b8a489975bbbf0d5dd79b",
+      "name": "Long Long Legacy",
+      "symbol": "LLL",
+      "contract_type": "ERC721",
+      "synced_at": "2024-03-26T16:03:55.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/0x7098b1918eb2aa13945b8a489975bbbf0d5dd79b/27235daf01356db27b48e205295d74/6527235daf01356db27b48e205295d74.jpeg",
+      "description": "Embrace the Dragon, Long Live the Legacy."
+    },
+    {
+      "contract_address": "0x75c95c8e779b2fe9dd36c9fbdfa98d7eb06bc44b",
+      "name": "The Underground",
+      "symbol": "UNFT",
+      "contract_type": "ERC721",
+      "synced_at": "2022-02-17T11:48:04.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/46562e629df4429f8fbfb61aca09357e/d9aa39e5157415cd22b020e480c62b/cbd9aa39e5157415cd22b020e480c62b.avif"
+    },
+    {
+      "contract_address": "0x76d4415947b6bba3b37b3a93c3869dcef84e19e6",
+      "name": "Golden Token",
+      "symbol": "GT",
+      "contract_type": "ERC721",
+      "synced_at": "2022-12-18T14:51:12.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/95738e517512404bb3769c033425a551/b581bf5011ac48cc52183a2373f807/d1b581bf5011ac48cc52183a2373f807.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/95738e517512404bb3769c033425a551/0a04c7f03ea7bac56782c5a6e48244/180a04c7f03ea7bac56782c5a6e48244.png?fit=inside",
+      "description": "Collection of six different token types was found by APAs on the beaches of Party Mansion Island in a mysterious bottle. In due time, these tokens will transform them into a new type of party animal known as OOPas."
+    },
+    {
+      "contract_address": "0x76daaaf7711f0dc2a34bca5e13796b7c5d862b53",
+      "name": "HatchyPocket",
+      "symbol": "HATCHIE",
+      "contract_type": "ERC721",
+      "synced_at": "2021-06-09T22:09:50.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/216c2d92698a4ceb88deb98246f7d789/b0a1339ab5b05e9b034b5feb2c6427/56b0a1339ab5b05e9b034b5feb2c6427.png"
+    },
+    {
+      "contract_address": "0x77e0459eb2fefa3c772a7fabe45c746377b1ed10",
+      "name": "Smol Lands",
+      "symbol": "LAND",
+      "contract_type": "ERC721",
+      "synced_at": "2022-07-04T08:48:33.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/1413e5b0dff5499b9c5f5f828f68d3ab/825f78a6db02599a1033e88948f736/ca825f78a6db02599a1033e88948f736.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/1413e5b0dff5499b9c5f5f828f68d3ab/41ade0766de2cc6384e60a06436002/8041ade0766de2cc6384e60a06436002.png?fit=inside",
+      "description": "Launched as a free mint. 200 Smol Land NFTs with 8 rarity tiers, drawn with love by your friendly neighbourhood artist - creator of Smol Joes. Still no roadmap, paper hands are definitely not going to make it. Smol Land to the moon."
+    },
+    {
+      "contract_address": "0x797ac669a1908ca68cd9854994345f570495541a",
+      "name": "Avvy Domains",
+      "symbol": "AVVY",
+      "contract_type": "ERC721",
+      "synced_at": "2022-05-19T18:06:32.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/d1a07004c20643fe86147f620d83d569/f09aaf8b9a8d3d52d86aa9f63e5d9b/28f09aaf8b9a8d3d52d86aa9f63e5d9b.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/d1a07004c20643fe86147f620d83d569/950705edd652b06c2feeae6ac5b77a/c6950705edd652b06c2feeae6ac5b77a.jpeg?fit=inside",
+      "description": "A naming service designed to support the Avalanche ecosystem and its various subnets."
+    },
+    {
+      "contract_address": "0x7a420aeff902aaa2c85a190d7b91ce8beffffe14",
+      "name": "Dracon Crypto Hero",
+      "symbol": "DCGHERO",
+      "contract_type": "ERC721",
+      "synced_at": "2022-02-19T11:16:57.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/43d51be026c0410eb8860627263c47c6/eefe35cc7548c7067d67bdb03d7471/cceefe35cc7548c7067d67bdb03d7471.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/43d51be026c0410eb8860627263c47c6/ab8f99e050a9906d1b47061dd86d89/d7ab8f99e050a9906d1b47061dd86d89.jpeg?fit=inside",
+      "description": "An NFT avatar is required to play The Legend of Aurum Draconis. The higher your rank, the more starting stats you get to spend. This character gains experience and levels through our mini-games and is used throughout every layer coming up. As you level up, you receive new stat points to increase your avatar's value and chances of winning.",
+      "project_url": "https://dragoncrypto.io",
+      "twitter_username": "DCGgamefi"
+    },
+    {
+      "contract_address": "0x7b6121b5b97b9945ce8528f37263bc01ca0b1826",
+      "name": "HatchyPocket Gen2",
+      "symbol": "HATCHY GEN2",
+      "contract_type": "ERC1155",
+      "synced_at": "2022-09-23T14:21:02.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/7b6a14e4580b462db32c045a59b698f6/b0a1339ab5b05e9b034b5feb2c6427/56b0a1339ab5b05e9b034b5feb2c6427.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/7b6a14e4580b462db32c045a59b698f6/297f723ec6b80b3e6fa7940f1af69f/ad297f723ec6b80b3e6fa7940f1af69f.jpeg?fit=inside",
+      "description": "Welcome to the world of decentralized monsters. #HatchyPocket ❤️ #decentralizedIP #Play2Own \r\n@avalancheAvax #GameFi #NFTs #P2E http://discord.gg/Y5gDfBDDfA"
+    },
+    {
+      "contract_address": "0x7f520f21db04bd297e3cf3937711dd3132c9a6d2",
+      "name": "Owloper",
+      "symbol": "OWL",
+      "contract_type": "ERC721",
+      "synced_at": "2022-06-28T20:05:37.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/0ef90632ae8c47dfaad11ee5e46d381e/082c9536131c8cd7632bee6d356df5/2e082c9536131c8cd7632bee6d356df5.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/0ef90632ae8c47dfaad11ee5e46d381e/dbe1cdab8098bd415dd5a1339cd371/06dbe1cdab8098bd415dd5a1339cd371.png?fit=inside",
+      "description": "Owloper is community oriented project that includes a fully on-chain game in it. Let's build together and make the world a better place"
+    },
+    {
+      "contract_address": "0x880fe52c6bc4ffffb92d6c03858c97807a900691",
+      "name": "Party Animals",
+      "symbol": "APA",
+      "contract_type": "ERC721",
+      "synced_at": "2021-11-09T16:35:24.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/12f1413eca2e466aa84ef511cd753612/b1069868bd23364e8dbecd1271d800/cdb1069868bd23364e8dbecd1271d800.jpeg",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/12f1413eca2e466aa84ef511cd753612/fff8b03397cca89450372fcf5ff192/31fff8b03397cca89450372fcf5ff192.jpeg?fit=inside",
+      "description": "Avalanche Party Animals is a collection of 10,000 unique, NFTs, who are breaking the dance floor on the Avalanche Blockchain and can’t wait to finally enter the Party Animals Mansion. APA are based on the unofficial Avalanche mascot, Wolfie. We hope to bring it to its rightful place as the official mascot and by doing so, also bring recognition to the platform. Each Party Animal is hand-drawn by our talented artist anxd is randomly generated from numerous of assets. All of them are unique, but some are simply legendary."
+    },
+    {
+      "contract_address": "0x8927985b358692815e18f2138964679dca5d3b79",
+      "name": "chikn",
+      "symbol": "chikn",
+      "contract_type": "ERC721",
+      "synced_at": "2021-11-10T13:35:04.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/aa6fd9f1d5af424180cd30af3f5be74b/87c05fc39ba30db623ae40aedcfc59/1587c05fc39ba30db623ae40aedcfc59.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/aa6fd9f1d5af424180cd30af3f5be74b/a3a14214622a005192a3ade245bd64/6ca3a14214622a005192a3ade245bd64.png?fit=inside",
+      "description": "#Chikn -   \r\n\r\n\r\n\r\n  **Avalanche's Premier Upgradable NFT Gaming Ecosystem.  **\r\n\r\n\r\n\r\n Home to 10k **Chikn**🐓 that lay **$EGG**🥚",
+      "project_url": "http://chikn.farm",
+      "twitter_username": "chikn_nft",
+      "discord_url": "https://discord.gg/chikn"
+    },
+    {
+      "contract_address": "0x8d57da692ff6112d71a0b3c10247897f21ccb4aa",
+      "name": "Mini Salvors",
+      "symbol": "MINISALVORS",
+      "contract_type": "ERC721",
+      "synced_at": "2023-05-05T20:46:56.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/22f93d5bdedc442f93a87b8d91465537/fb4b8ee28b424dcae2332cd2c66f1c/3efb4b8ee28b424dcae2332cd2c66f1c.avif",
+      "description": "Born through the extraordinary breeding process on the illustrious Reproduction Island, the Mini Salvors possess an undeniable allure. Each one is a distinct masterpiece, bearing a combination of traits inherited from their Salvor predecessors. Once activated, these captivating companions embark on a noble mission — to guide and navigate users through the cryptic seas of Web3, offering invaluable support and unlocking the mysteries of the digital realm"
+    },
+    {
+      "contract_address": "0x8d904c8b6bb673d88cdbcd5798cda439f33cb3a4",
+      "name": "Doggerinos",
+      "symbol": "DOGGERINOS",
+      "contract_type": "ERC721",
+      "synced_at": "2023-04-05T14:20:07.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/16a7f6ede12940f99da87c5c06b16fdd/3a464e861651b0be7ccbc893c3d9a4/2a3a464e861651b0be7ccbc893c3d9a4.webp",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/16a7f6ede12940f99da87c5c06b16fdd/27674f000c2ccd197173628851a978/4827674f000c2ccd197173628851a978.png?fit=inside",
+      "description": "The Doggerinos Adoption Agency"
+    },
+    {
+      "contract_address": "0x8f49ea15ba5180a606091e24665c8d771fd9d02b",
+      "name": "Decay",
+      "symbol": "DECAY",
+      "contract_type": "ERC721",
+      "synced_at": "2025-11-04T04:23:48.000Z",
+      "collection_logo": "https://raw2.seadn.io/avalanche/0x8f49ea15ba5180a606091e24665c8d771fd9d02b/938c9fd7afa3bab23434162093148c/ac938c9fd7afa3bab23434162093148c.svg"
+    },
+    {
+      "contract_address": "0x95558c568f0347d7b1a1d3c0c1fb5348ff798eff",
+      "name": "ferdy fish",
+      "symbol": "fdfh",
+      "contract_type": "ERC721",
+      "synced_at": "2022-11-09T12:16:59.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/879798e95ddb4a6b93c60d5a94acd742/ced94ad553c99b6d265eadc391b927/edced94ad553c99b6d265eadc391b927.png",
+      "description": "300 Ferdy fish are some fish that live in the deep ocean that are ready to face all obstacles, \nferdy fish \"move if you don't want to die\""
+    },
+    {
+      "contract_address": "0x993869979f9f3e8269790c478eb55f1a43827981",
+      "name": "CoqVsHunter",
+      "symbol": "CGAME",
+      "contract_type": "ERC721",
+      "synced_at": "2024-01-15T19:15:50.000Z",
+      "collection_logo": "https://raw2.seadn.io/avalanche/0x993869979f9f3e8269790c478eb55f1a43827981/70fb81ac96f0e09bc62445f4eff37a/0970fb81ac96f0e09bc62445f4eff37a.svg",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/affce13e3471428d9103a20745a04bf9/c5deaaf825ed72f7d7ae78c4d1f2ca/d7c5deaaf825ed72f7d7ae78c4d1f2ca.jpeg?fit=inside"
+    },
+    {
+      "contract_address": "0x99fec0ca5cd461884e2e6e8484c219bbfb91e2df",
+      "name": "The Winery Collection",
+      "symbol": "TWC",
+      "contract_type": "ERC721",
+      "synced_at": "2022-04-06T15:09:50.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/4592eb17c8024f16aa452492862f64ec/4f0400231488798c80412a8c2b7a6a/314f0400231488798c80412a8c2b7a6a.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/4592eb17c8024f16aa452492862f64ec/c0f8846cf783400cbaa734b22f1e5f/71c0f8846cf783400cbaa734b22f1e5f.png?fit=inside",
+      "description": "The Winery is Grape Finance's VIP collection granting exclusive protocol ownership rights & benefits to holders",
+      "project_url": "https://grapefinance.app/",
+      "twitter_username": "grape_finance",
+      "discord_url": "https://discord.gg/grapefinance"
+    },
+    {
+      "contract_address": "0x9a25044945b976cabbac9e7bbf096da526061f2f",
+      "name": "Cayden's Avax Army",
+      "symbol": "CAA",
+      "contract_type": "ERC721",
+      "synced_at": "2024-10-11T14:57:01.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/0x9a25044945b976cabbac9e7bbf096da526061f2f/eeaae01af395455a65970ee6bfb232/84eeaae01af395455a65970ee6bfb232.jpeg"
+    },
+    {
+      "contract_address": "0x9a27660a1b610d3e617ca9fc58a648360e58bb9d",
+      "name": "Beeg Rock Investments",
+      "symbol": "BeegRock",
+      "contract_type": "ERC721",
+      "synced_at": "2022-08-16T11:59:23.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/274fa0a8f2ac492dbd9c16f1e08b4d7e/6553895a65c5acc2d07c9673908a15/566553895a65c5acc2d07c9673908a15.jpeg",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/274fa0a8f2ac492dbd9c16f1e08b4d7e/efc4de672d79805b4e63b461173327/4defc4de672d79805b4e63b461173327.jpeg?fit=inside",
+      "description": "E pluribus, rich Peon"
+    },
+    {
+      "contract_address": "0x9b216c723f77a97abed00780865c070ad6e3dfb6",
+      "name": "DQN",
+      "symbol": "DQN",
+      "contract_type": "ERC721",
+      "synced_at": "2024-04-01T18:51:44.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/a5a62f0517814fd5aeb9422f6bd728d0/62d9839cb58f4b6db89e33a4c0da27/d762d9839cb58f4b6db89e33a4c0da27.gif",
+      "description": "🔺Red Chip Society🩸"
+    },
+    {
+      "contract_address": "0x9f98ccebdb3138c0ebfbdc9b9b94e2683bdaf1fb",
+      "name": "RaptOriginZ",
+      "symbol": "RAPTORIGINZ",
+      "contract_type": "ERC721",
+      "synced_at": "2022-04-02T10:08:06.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/e9e3dd5562174118b0c234ab710a76f8/ecaa604ce328205376e9c59016102a/f0ecaa604ce328205376e9c59016102a.jpeg",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/e9e3dd5562174118b0c234ab710a76f8/c19df7b93232ce93051bb589c2ceb4/53c19df7b93232ce93051bb589c2ceb4.jpeg?fit=inside",
+      "description": "NFTs backed and redeemable for precious metals"
+    },
+    {
+      "contract_address": "0xa09477b44cff7b525436364a0da4e870bc9e052c",
+      "name": "Ripperz",
+      "symbol": "RIPPERZ",
+      "contract_type": "ERC721",
+      "synced_at": "2022-08-11T13:54:22.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/d40a8cc6c49b4dac91c7b26305af8cce/5ac41de0e47eccea0f2a20996eec20/a95ac41de0e47eccea0f2a20996eec20.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/d40a8cc6c49b4dac91c7b26305af8cce/9176741db45d9fbfc8263111ea5d93/da9176741db45d9fbfc8263111ea5d93.png?fit=inside",
+      "description": "The RIPPERZ are neoexpressionist animated glitch art. Discovered by Esoteros within a strange vhs while strolling through radioactive wastes"
+    },
+    {
+      "contract_address": "0xa19871e031d4d76222d0c0c811c5216bcb553507",
+      "name": "xGoatz",
+      "symbol": "XGOATZ",
+      "contract_type": "ERC721",
+      "synced_at": "2021-10-23T16:39:10.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/6219cdcf62f14ec7a9982b89928331e1/a3828320052c675a5f713453d956e0/d8a3828320052c675a5f713453d956e0.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/6219cdcf62f14ec7a9982b89928331e1/34225c20d01855df788499991a814a/6734225c20d01855df788499991a814a.png?fit=inside"
+    },
+    {
+      "contract_address": "0x86211e8a52040ba2080467adfd21731687b87571",
+      "name": "Boogey Birds",
+      "symbol": "BB",
+      "contract_type": "ERC721",
+      "synced_at": "2021-11-19T21:04:56.000Z",
+      "collection_logo": "https://i2.seadn.io/avalanche/5b90e7f45ad04cdba1f379e645a76334/6820951271bff49b2f5a87a91e5464/1b6820951271bff49b2f5a87a91e5464.webp",
+      "collection_banner_image": "https://i2.seadn.io/avalanche/5b90e7f45ad04cdba1f379e645a76334/15b7f0279f342e64c3a147456db6fe/2915b7f0279f342e64c3a147456db6fe.jpeg",
+      "description": "Boogey Birds are a community-driven Stake-able NFT collectibles. In total there will be 5,000 birds minted based on a mysterious combination of hundreds of visual traits and features which will play a role in the future of the birds."
+    },
+    {
+      "contract_address": "0xa79715bcfd83e776628b0b6aa5f2467f8b6d52bd",
+      "name": "Nekopolis",
+      "symbol": "NEK",
+      "contract_type": "ERC721",
+      "synced_at": "2024-02-01T17:40:30.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/ac95c1db450640e8b15a388cbbb987b4/362352b9406ace5c93907a4813da73/d8362352b9406ace5c93907a4813da73.jpeg",
+      "description": "Enter Nekopolis, a memecollection of Cats taking over Avax."
+    },
+    {
+      "contract_address": "0xa7abc3736bc5a4d3d4730eac5a1e487e56c86789",
+      "name": "Firat NFTs Collection",
+      "symbol": "FIRAT_NFT",
+      "contract_type": "ERC721",
+      "synced_at": "2021-12-24T11:53:24.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/baeccdb9f61f41f1809a95ef8c3f494e/dde3c6f6cd4cff75e68f6d0f6f4f31/3fdde3c6f6cd4cff75e68f6d0f6f4f31.jpeg",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/baeccdb9f61f41f1809a95ef8c3f494e/c5977377420bbf3eef6bf662a415bb/9ec5977377420bbf3eef6bf662a415bb.jpeg?fit=inside",
+      "description": "Fırat keeps reigning as the most famous comics hero of Turkey since he came into our lives in 2007. The cartoonish life of this kid, who has a language and a world-view of his own, has glimpses of everybody's childhood one way or the other. Fırat has an answer to every situation he finds himself in. He suffers no traumas whatsoever. He never cries, even if he falls. He finds joy in falling in a cool manner. He can imagine block-buster features with rockets exploding and cars crashing one another with a slipper or a triple socket. His only concern is to grow up fast, when he finally does, he imagines he will be the coolest person on the planet. Fırat has 5 published books up to now, each of them a best seller. He now multiplies in NFT."
+    },
+    {
+      "contract_address": "0xa7f6115909250b3972468bafae640c6ede3b343d",
+      "name": "Dokkaebi",
+      "symbol": "DOK",
+      "contract_type": "ERC721",
+      "synced_at": "2024-01-20T13:30:24.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/86535cb5839f4f6781af786c86fdf0b9/e572db80e4d63b7c6f60105f5ebbc8/cee572db80e4d63b7c6f60105f5ebbc8.png",
+      "collection_banner_image": "https://stream.mux.com/rHiJOj00EbOG7MLjrmoGtu6SfTPoXGNW02i0201E01z10065U/high.mp4",
+      "description": "Welcome to Dokkaebi, a community of enthusiasts of Korean culture, gaming, and more! We're here to foster a welcoming and supportive space for people of all backgrounds to come together and celebrate their shared love of these things. We believe that everyone has something to contribute to our community, and we encourage you to get involved and share your own experiences, perspectives, and creativity!\n\nWebsite - https://dokkaebi.io\nTwitter - https://twitter.com/DokkaebiNetwork\n",
+      "project_url": "https://www.dokkaebi.io",
+      "twitter_username": "DokkaebiNetwork",
+      "discord_url": "https://discord.gg/dokkaebi"
+    },
+    {
+      "contract_address": "0xacc0cf012b4c28e23e9450c9824a88a4e178a64a",
+      "name": "The Person",
+      "symbol": "PERSON",
+      "contract_type": "ERC721",
+      "synced_at": "2022-06-14T17:18:17.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/bb9ad77b61c04ee79e97f0cd156542d6/c4fea6d5324a1ef3d8cb0ee96f13b8/76c4fea6d5324a1ef3d8cb0ee96f13b8.jpeg",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/bb9ad77b61c04ee79e97f0cd156542d6/b88013b3ca9da371f5781a807ac6e3/bdb88013b3ca9da371f5781a807ac6e3.png?fit=inside",
+      "description": "The unique 4000 pieces The Person NFT collection. Every piece in the collection can be “You”. Come join our adventurous journey and discover The Person!"
+    },
+    {
+      "contract_address": "0xacf63e56fd08970b43401492a02f6f38b6635c91",
+      "name": "Kanpai Pandas",
+      "symbol": "YKPS",
+      "contract_type": "ERC721",
+      "synced_at": "2022-04-22T08:39:02.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/d424a9dcdf42463ab6291150fc0c2512/38148e7c1ff24f9a26b99a5eaedc0c/9638148e7c1ff24f9a26b99a5eaedc0c.gif",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/d424a9dcdf42463ab6291150fc0c2512/c49fc1d713ed838cafc72df0d8241f/b7c49fc1d713ed838cafc72df0d8241f.png?fit=inside",
+      "description": "Kanpai Pandas is an omnichain NFT collection that merges exclusive luxurious collaborations and major brand partnerships with on-chain game theory to provide tangible real-world utility to holders. This collection shows Pandas that are currently roaming Avalanche Mainnet.\n\nKanpai Collections: [Infinity Collection](https://opensea.io/collection/kanpai-pandas-infinity-collection) | [Kanpai Pandas](https://opensea.io/collection/kanpai-pandas) | [Kanpai Pandas Arbitrum](https://opensea.io/collection/kanpai-pandas-arbi) | [Kanpai Pandas Optimism](https://opensea.io/collection/kanpai-pandas-opt) | [Kanpai Pandas Polygon](https://opensea.io/collection/kanpai-pandas-polygon)",
+      "project_url": "https://kanpaipandas.io/"
+    },
+    {
+      "contract_address": "0xb42d0f524564cafe2a47ca3331221903eda83b3c",
+      "name": "MONKEEZ",
+      "symbol": "MONKEEZ",
+      "contract_type": "ERC721",
+      "synced_at": "2022-04-27T14:09:13.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/2a2da438419445df9e5ecc4d183ddbae/4b6b3b1bdc67dfdf2ff108e026d24a/fc4b6b3b1bdc67dfdf2ff108e026d24a.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/2a2da438419445df9e5ecc4d183ddbae/ddf8dd6a00f9e7d0bbe96467514dbd/44ddf8dd6a00f9e7d0bbe96467514dbd.jpeg?fit=inside",
+      "description": "Monkeez is a 4k collection of randomly generated NFTs on the Avalanche blockchain.",
+      "project_url": "https://www.monkeez.io",
+      "twitter_username": "MonkeezNFT",
+      "discord_url": "https://discord.gg/monkeez"
+    },
+    {
+      "contract_address": "0xb449701a5ebb1d660cb1d206a94f151f5a544a81",
+      "name": "Smol Joes Season 2",
+      "symbol": "SJ",
+      "contract_type": "ERC721",
+      "synced_at": "2023-05-19T15:21:01.000Z",
+      "collection_logo": "https://raw2.seadn.io/avalanche/0xb449701a5ebb1d660cb1d206a94f151f5a544a81/bc38f89a433531b1180c8c92444950/a6bc38f89a433531b1180c8c92444950.svg"
+    },
+    {
+      "contract_address": "0xb563420b7b8119114968c70093c4966630ad16d3",
+      "name": "Bruskies",
+      "symbol": "Bruskies",
+      "contract_type": "ERC721",
+      "synced_at": "2024-09-16T11:55:37.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/0xb563420b7b8119114968c70093c4966630ad16d3/63a32cb9232f84e3b70d6e230c0110/7563a32cb9232f84e3b70d6e230c0110.png"
+    },
+    {
+      "contract_address": "0xb5d5b4cd4303d985d83c228644b9ed10930a8152",
+      "name": "OOPA",
+      "symbol": "OOPA",
+      "contract_type": "ERC721",
+      "synced_at": "2023-03-16T17:03:55.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/d3e478dd17bb495bac8d6f466a970002/2151a9db37eaf50decbd5ddaff0ae8/5a2151a9db37eaf50decbd5ddaff0ae8.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/d3e478dd17bb495bac8d6f466a970002/6a2382f29ea57c893a91aa574cc636/5b6a2382f29ea57c893a91aa574cc636.png?fit=inside",
+      "description": "Buying an OOPA means also buying the traits they're wearing. Browse through every OOPA, or go through shopping for specific traits in the OOPA Traits collection.\r\nReady to swap a trait? Head over to the OOPA website!",
+      "project_url": "https://oopa.io/",
+      "twitter_username": "oopa_nft"
+    },
+    {
+      "contract_address": "0xb637af6de6ca6bb3384334b73e39f2731167d59e",
+      "name": "Wink Realm Packs",
+      "symbol": "PACKS",
+      "contract_type": "ERC1155",
+      "synced_at": "2025-02-14T18:50:37.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/0xb637af6de6ca6bb3384334b73e39f2731167d59e/a7498d8d2fc606fc5c5eebec196480/40a7498d8d2fc606fc5c5eebec196480.jpeg",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/c8f2953baf734614ad90d574d0548c60/f929ea8fde99799e274899f0df3613/78f929ea8fde99799e274899f0df3613.png?fit=inside"
+    },
+    {
+      "contract_address": "0xb842344669579ecf4cee12f740520376c4cbc6d1",
+      "name": "Conscious Lines by Gabe Weis",
+      "symbol": " Conscious Lines",
+      "contract_type": "ERC721",
+      "synced_at": "2022-08-23T22:12:45.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/cf9ac5b2ce21493986b3c9929fe2c2d2/93a9242ba8dc849f929cc7f15f28eb/3d93a9242ba8dc849f929cc7f15f28eb.jpeg",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/cf9ac5b2ce21493986b3c9929fe2c2d2/2c3e1388ec037a4cca6e9acaf953a7/b22c3e1388ec037a4cca6e9acaf953a7.jpeg?fit=inside",
+      "description": "Conscious Lines represents 16 years of meetings, 16 years of knowing that I had art in me that needed to get out. I have always had a deep connection to these works as they represent my journey from community organizer to one of the top selling NFT artists in the world. For this collection I have used my stream-of-consciousness approach to share my history of creating visual jazz for the Avalanche ecosystem. Most of These are ink drawings on nice archival paper that I carried with me at all times for any meeting I was in. When I draw I aim to make artifacts that are both universal and timeless. Was it found in a cave from 10,000 years ago, or from a human/alien hybrid 10,000 years from now? Maybe somewhere in between…"
+    },
+    {
+      "contract_address": "0xbacd77ac0c456798e05de15999cb212129d90b70",
+      "name": "Woofy",
+      "symbol": "WOOFY",
+      "contract_type": "ERC721",
+      "synced_at": "2023-11-16T07:39:14.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/0xbacd77ac0c456798e05de15999cb212129d90b70/784713b09a6ebe0364d5bb9debf7f2/42784713b09a6ebe0364d5bb9debf7f2.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/a677ab8d9e714d5aa64c7223ab539e00/ebb6efc8e12e0cb3267dcdce0152de/43ebb6efc8e12e0cb3267dcdce0152de.png?fit=inside"
+    },
+    {
+      "contract_address": "0xbc3323468319cf1a2a9ca71a6f4034b7cb5f8126",
+      "name": "Wolfi Land",
+      "symbol": "WOLFI",
+      "contract_type": "ERC721",
+      "synced_at": "2022-10-12T12:18:00.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/7718abc220c542fca68941e8a2b0a296/48cbf6d2d8d516da1feaa9b06114a6/e748cbf6d2d8d516da1feaa9b06114a6.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/7718abc220c542fca68941e8a2b0a296/80eca371bf350f094080acdf48e0a7/3480eca371bf350f094080acdf48e0a7.png?fit=inside",
+      "description": "The first official NFT project of Wolfi, the most popular mascot of #Avalanche, founded by its creator @HermanaRobot!",
+      "project_url": "http://wolfi.land",
+      "twitter_username": "wolfilandnfts"
+    },
+    {
+      "contract_address": "0xc4e7ba5ebf2906f8ad1499d07bb9f0e55c08f2d2",
+      "name": "EL33T",
+      "symbol": "EL33T",
+      "contract_type": "ERC721",
+      "synced_at": "2022-01-05T00:06:38.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/a4ecc7fb9b4a4470872280124a86486f/1577f78450b4a04dbb4d177d9e710f/771577f78450b4a04dbb4d177d9e710f.jpeg",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/a4ecc7fb9b4a4470872280124a86486f/103ddd5dda5c438ed3746a6c2ec3a7/b9103ddd5dda5c438ed3746a6c2ec3a7.jpeg?fit=inside",
+      "description": "The el33t collection consists of 6055 avatars of EGS, paying our tribute to the boss of Avalanche"
+    },
+    {
+      "contract_address": "0xc70df87e1d98f6a531c8e324c9bcec6fc82b5e8d",
+      "name": "Smol Joes",
+      "symbol": "SMOL",
+      "contract_type": "ERC721",
+      "synced_at": "2022-06-25T09:11:13.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/d186e2ab00e34e88b865810e13013879/be863962e5537f011278061ba35494/ccbe863962e5537f011278061ba35494.jpeg",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/d186e2ab00e34e88b865810e13013879/5b5c4cc1b6be7d19f0c979653f5d52/0c5b5c4cc1b6be7d19f0c979653f5d52.png?fit=inside",
+      "description": "Launched as a FREE MINT. 100 Smol Joes, hand-drawn with love and care by a friendly neighbourhood artist. Don’t bother asking for a roadmap. Paperhands not gonna make it - Smol Joes to the moon."
+    },
+    {
+      "contract_address": "0xc732518034c5df52cdddf17486b9409bc7721e2c",
+      "name": "Sausagers",
+      "symbol": "MEAT",
+      "contract_type": "ERC721",
+      "synced_at": "2023-05-04T14:25:20.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/4e6fb17a3852492183f45afc2185a763/671aa74bf580ac51d62097170b6800/b3671aa74bf580ac51d62097170b6800.jpeg",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/4e6fb17a3852492183f45afc2185a763/43423e8a9cfa1e266fc3b72f41a166/cd43423e8a9cfa1e266fc3b72f41a166.jpeg?fit=inside"
+    },
+    {
+      "contract_address": "0xc858ea5359df5e9c831e5a706ed2893c633c9a34",
+      "name": "Koneko",
+      "symbol": "KONEKO",
+      "contract_type": "ERC721",
+      "synced_at": "2025-01-26T22:20:08.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/0xc858ea5359df5e9c831e5a706ed2893c633c9a34/925664282b4cd9f71de1bb58048c1b/2b925664282b4cd9f71de1bb58048c1b.png"
+    },
+    {
+      "contract_address": "0xcc9da8b38acd89ecde0d8bb4a25bf851159203e3",
+      "name": "COMFY KROOX",
+      "symbol": "KROOX",
+      "contract_type": "ERC721",
+      "synced_at": "2024-01-15T21:23:00.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/0xcc9da8b38acd89ecde0d8bb4a25bf851159203e3/0c808c829cdb883938d0cc9bd12fcd/d40c808c829cdb883938d0cc9bd12fcd.png",
+      "description": "null"
+    },
+    {
+      "contract_address": "0xcdab7d987f0198edb440d014ed1e71256a0e3e7a",
+      "name": "Steady",
+      "symbol": "STDY",
+      "contract_type": "ERC721",
+      "synced_at": "2024-01-08T06:31:20.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/eb737fc9ce9946beada4c5a1c30a373d/199adfb9af1eef755be377806db41f/67199adfb9af1eef755be377806db41f.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/eb737fc9ce9946beada4c5a1c30a373d/0088455fdfb5e5a9650a4ebb8a1f84/4a0088455fdfb5e5a9650a4ebb8a1f84.jpeg?fit=inside",
+      "description": "Tradition and simplicity, embraced on the blockchain. ",
+      "project_url": "https://www.steadyyy.com/",
+      "twitter_username": "SteadyNFT_"
+    },
+    {
+      "contract_address": "0xce0b805a36fc812939203b9875137910291aac43",
+      "name": "Lucid Things",
+      "symbol": "LCDT",
+      "contract_type": "ERC721",
+      "synced_at": "2024-06-24T11:54:05.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/0xce0b805a36fc812939203b9875137910291aac43/9f3adba6ce1e7a4e0729815fa8550f/b69f3adba6ce1e7a4e0729815fa8550f.png"
+    },
+    {
+      "contract_address": "0xce4fee23ab35d0d9a4b6b644881ddd8adebeb300",
+      "name": "The Salvors",
+      "symbol": "SALVOR",
+      "contract_type": "ERC721",
+      "synced_at": "2023-04-17T14:58:02.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/9346a76d9e884d2891616459fea75552/2a5f22db26c172adc43a8aaba6367a/722a5f22db26c172adc43a8aaba6367a.avif",
+      "description": "The Salvors were a revolution, and they set sail for the open ocean, determined to achieve their objective despite the obstacles and perils ahead."
+    },
+    {
+      "contract_address": "0xcf91b99548b1c17dd1095c0680e20de380635e20",
+      "name": "Roostr",
+      "symbol": "Roostr",
+      "contract_type": "ERC721",
+      "synced_at": "2022-04-14T16:11:25.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/d23714a35f554b0c8cbd568ed5536664/1a328b4dec69a1e0260b437d6fe92b/e31a328b4dec69a1e0260b437d6fe92b.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/d23714a35f554b0c8cbd568ed5536664/a3a14214622a005192a3ade245bd64/6ca3a14214622a005192a3ade245bd64.png?fit=inside",
+      "description": "#Chikn -   \n\n\n  **Avalanche's Premier Upgradable NFT Gaming Ecosystem  **\n\n\n\n Home to 12k **Roostr**🐔 that drop **$FERT** on your dirt!",
+      "project_url": "http://chikn.farm",
+      "twitter_username": "chikn_nft",
+      "discord_url": "https://discord.gg/9znHkBYjra"
+    },
+    {
+      "contract_address": "0xd5a33ba6ed5431a7dc0d07663f9cded7e2dc358b",
+      "name": "Chikn Party Hat",
+      "symbol": "PartyHat",
+      "contract_type": "ERC721",
+      "synced_at": "2022-11-19T22:29:07.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/451b789b731c4593bbc44c647808a3f1/6fb24145ce994b1fd4c818e16a9249/646fb24145ce994b1fd4c818e16a9249.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/451b789b731c4593bbc44c647808a3f1/f72d2956fbe7d26120b442d62ea188/4ef72d2956fbe7d26120b442d62ea188.png?fit=inside"
+    },
+    {
+      "contract_address": "0xd8dc8ef20ef8e2aaf5f6ef43dec26c2cbf8a695f",
+      "name": "Smol Estates",
+      "symbol": "ESTATE",
+      "contract_type": "ERC721",
+      "synced_at": "2022-10-27T14:27:47.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/139d61e593d04e4c85c68a106d4d3a9d/09090d9043bfc15bd05ce6ad27d57e/ca09090d9043bfc15bd05ce6ad27d57e.jpeg",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/139d61e593d04e4c85c68a106d4d3a9d/30b068b07b4ad1ffda94bd24f59594/0c30b068b07b4ad1ffda94bd24f59594.jpeg?fit=inside",
+      "description": "Smol Estate NFTs are part of a pixelated miniverse with crafting, trading, and adventuring elements. Smol Estate owners will be able to produce raw materials and offer their land’s services for refining and manufacturing which will be used by smol characters in adventures. Smol Estates will have 200 unique tiles, each can be one of 9 different landscapes."
+    },
+    {
+      "contract_address": "0xd94957fc2da12b63afd7424c06aafe4a0a18eb19",
+      "name": "AvaxHomes",
+      "symbol": "AXHOME",
+      "contract_type": "ERC721",
+      "synced_at": "2021-11-25T14:41:53.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/2455147e95ad4b09a900f871a30a7e6a/58e3e862300aea20ff519124ca5d0c/7c58e3e862300aea20ff519124ca5d0c.png"
+    },
+    {
+      "contract_address": "0xdbc025824743aec2d44e4f1044329f4594998215",
+      "name": "Tokyo Punks | Bad Bunnies by Sabet",
+      "symbol": "TKPBB",
+      "contract_type": "ERC721",
+      "synced_at": "2024-11-11T13:10:17.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/0xdbc025824743aec2d44e4f1044329f4594998215/72aa7359b82a8b9a8ac456e0dcf42a/ac72aa7359b82a8b9a8ac456e0dcf42a.png"
+    },
+    {
+      "contract_address": "0xdcd0711505f7fb3daa3eb8b358e18020a87d58cc",
+      "name": "NavySealGame",
+      "symbol": "NVG",
+      "contract_type": "ERC721",
+      "synced_at": "2022-04-08T07:07:53.000Z",
+      "collection_logo": "https://raw2.seadn.io/avalanche/0xdcd0711505f7fb3daa3eb8b358e18020a87d58cc/49616b7efef784c27bd0dc8ed83ac6/3349616b7efef784c27bd0dc8ed83ac6.svg"
+    },
+    {
+      "contract_address": "0xdd811213c7d94d5243815884ed273c934e7db009",
+      "name": "ZeBruh",
+      "symbol": "ZBR",
+      "contract_type": "ERC721",
+      "synced_at": "2022-08-28T18:21:55.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/018d8ef322a54897893bd432579ebda8/f4754e585f45a35eef3468d06bcd14/73f4754e585f45a35eef3468d06bcd14.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/018d8ef322a54897893bd432579ebda8/f4754e585f45a35eef3468d06bcd14/73f4754e585f45a35eef3468d06bcd14.png?fit=inside",
+      "description": "Bruh!"
+    },
+    {
+      "contract_address": "0xe6cc79ca731a5e406024015bb2de5346b52eca2f",
+      "name": "Peons V2",
+      "symbol": "Peons V2",
+      "contract_type": "ERC721",
+      "synced_at": "2023-06-28T17:38:22.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/e87baa16aeb04bc89e1c0f3a422b01b1/3285e0fbd976102862eff6788889fa/2f3285e0fbd976102862eff6788889fa.png",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/e87baa16aeb04bc89e1c0f3a422b01b1/c111bbde2b779756430f18ddfc1975/68c111bbde2b779756430f18ddfc1975.png?fit=inside",
+      "description": "A new era of Peons."
+    },
+    {
+      "contract_address": "0xeab33f781ada4ee7e91fd63ad87c5bb47ffb8a83",
+      "name": "Yield Hunt",
+      "symbol": "HGAME",
+      "contract_type": "ERC721",
+      "synced_at": "2022-01-21T15:14:30.000Z",
+      "collection_logo": "https://raw2.seadn.io/avalanche/7e70f6ef28274f99afe1725e8bb1ce49/52869446c15d184eba832820fccfa5/b652869446c15d184eba832820fccfa5.svg"
+    },
+    {
+      "contract_address": "0xec18aa29d678f5e5767076e9b5a293e21af8450c",
+      "name": "Ket Orbs",
+      "symbol": "ORB",
+      "contract_type": "ERC1155",
+      "synced_at": "2025-02-18T21:53:13.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/39f3ddc704a142c48a8d3d1820cb9cf2/744bddcd870ed9a96103cdb63c846e/ef744bddcd870ed9a96103cdb63c846e.jpeg",
+      "description": "Mystical vessels of feline energy, Ket Orbs are ancient artifacts that pulse with otherworldly power. From humble copper to transcendent celestial spheres, each orb contains unique cat spirits waiting to bond with their destined keeper. Will you unlock their secrets?",
+      "project_url": "https://www.ketboard.xyz/"
+    },
+    {
+      "contract_address": "0xec675b7c5471c67e9b203c6d1c604df28a89fb7f",
+      "name": "Snail Trail",
+      "symbol": "SNAIL",
+      "contract_type": "ERC721",
+      "synced_at": "2022-04-19T12:59:56.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/842b0a134fbe4611a8c3f6eac61b1167/65a08daa2711ad05f57f6f005ead9d/2d65a08daa2711ad05f57f6f005ead9d.gif",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/842b0a134fbe4611a8c3f6eac61b1167/f4e0fd95b29669b5a903d23865b669/d0f4e0fd95b29669b5a903d23865b669.jpeg?fit=inside",
+      "description": "Snail Trail is an NFT based auto racing game where players place their Snails in competitive races and win rewards. Players can own, optimize, reproduce, and race with their Snails.\n \nEvery Snail belongs to one of five families. Based on their genetics, they have unique traits and racing preferences that players can get to know better to develop tactics and strategies that will improve their performance—and maximize reward earnings. A Snail’s performance also depends on the racing track environment. The game’s reproduction systems allow players to mint more Snails and compete in more races.\n",
+      "project_url": "https://www.snailtrail.art/",
+      "twitter_username": "SnailTrailGame",
+      "discord_url": "https://discord.gg/snailtrail"
+    },
+    {
+      "contract_address": "0xf0ad42e8d11dd0a3f06f76ddb39279c797568cb0",
+      "name": "ferdy fish",
+      "symbol": "fdfh",
+      "contract_type": "ERC721",
+      "synced_at": "2023-12-10T18:33:07.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/78806aea9a86458e97e1f2b4bcf2d670/76b3f5617b2a023c0237507b7fd914/e976b3f5617b2a023c0237507b7fd914.png",
+      "description": "300 Ferdy fish are some fish that live in the deep ocean that are ready to face all obstacles, \r\nferdy fish \"move if you don't want to die\""
+    },
+    {
+      "contract_address": "0xf675a87397a6239eaf95ad948670a5b19d076c59",
+      "name": "Particle_Love_Is_In_The_Air",
+      "symbol": "LIITA",
+      "contract_type": "ERC721",
+      "synced_at": "2022-01-21T15:36:01.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/0e3846e6bf8d4d78816830837e24c240/994732781f3c9bacb88be56f62d613/41994732781f3c9bacb88be56f62d613.jpeg",
+      "collection_banner_image": "https://i2c.seadn.io/avalanche/0e3846e6bf8d4d78816830837e24c240/5b8efd8ebcdb06c551751261bfb6e5/995b8efd8ebcdb06c551751261bfb6e5.png?fit=inside",
+      "description": "Love is in the Air is a masterpiece that epitomizes the unparalleled creative insurgency of Banksy’s oeuvre. Characterised by its recognisable subject, graphic force and visual directness, this iconic work has helped cement Banksy’s place as an a decisive political gadfly for our time. Particle acquired the piece at auction on 5/13/2021 and the work was subsequently donated to the non-profit Particle Foundation where the piece will remain in perpetuity. Love is in the Air is the first piece offered by Particle representing a peaceful revolution, changing the narrative of ownership, and enabling anyone to collect, experience, and enjoy the masterpiece."
+    },
+    {
+      "contract_address": "0xf70576a5255fccfe6551f3ec8de74c9e002e1a82",
+      "name": "AVAX PUNKS",
+      "symbol": "PUNK",
+      "contract_type": "ERC721",
+      "synced_at": "2021-08-18T10:19:32.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/f6bfbd87c4674b8096b6c1737abaf938/e74c6f7273e0ff4e1727983eb9bdfc/1ee74c6f7273e0ff4e1727983eb9bdfc.png"
+    },
+    {
+      "contract_address": "0xfda908b1a5b150979506ee9192d3cb2071b117c7",
+      "name": "BONE THUGZ",
+      "symbol": "BONETHUGZ",
+      "contract_type": "ERC721",
+      "synced_at": "2024-10-30T15:47:59.000Z",
+      "collection_logo": "https://i2c.seadn.io/avalanche/0xfda908b1a5b150979506ee9192d3cb2071b117c7/6e8976afeb146253038a633941f501/676e8976afeb146253038a633941f501.png"
+    }
+  ],
+  "updated_at": "2025-11-23T09:52:28.300Z"
+}

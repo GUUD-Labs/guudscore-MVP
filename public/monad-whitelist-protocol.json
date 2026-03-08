@@ -1,0 +1,1231 @@
+{
+  "chain": "monad",
+  "chain_id": 143,
+  "totalProtocols": 152,
+  "categories": {
+    "DEX": 66,
+    "YIELD": 50,
+    "LENDING": 27,
+    "STAKING": 5,
+    "PERP": 4
+  },
+  "fetched_at": "2026-01-08T15:57:22.522778+00:00",
+  "protocols": [
+    {
+      "name": "Upshift Contract 1",
+      "address": "0xc573100a879f480c9ae5290f865a1e354f4ba67f",
+      "category": "YIELD",
+      "ecosystem": "Upshift",
+      "logo": "https://icons.llamao.fi/icons/protocols/upshift?w=48&h=48",
+      "twitter": "https://x.com/upaborad"
+    },
+    {
+      "name": "Upshift Contract 2",
+      "address": "0xcea701f0ff0a2e8a51a5c5c1d2b6b69bfa849989",
+      "category": "YIELD",
+      "ecosystem": "Upshift",
+      "logo": "https://icons.llamao.fi/icons/protocols/upshift?w=48&h=48",
+      "twitter": "https://x.com/upaborad"
+    },
+    {
+      "name": "Upshift Contract 3",
+      "address": "0x36edbf0c834591bfdfcac0ef9605528c75c406aa",
+      "category": "YIELD",
+      "ecosystem": "Upshift",
+      "logo": "https://icons.llamao.fi/icons/protocols/upshift?w=48&h=48",
+      "twitter": "https://x.com/upaborad"
+    },
+    {
+      "name": "Upshift Contract 4",
+      "address": "0x04ae5a71ea943f9fc4ecb3bd4118e381cd04067d",
+      "category": "YIELD",
+      "ecosystem": "Upshift",
+      "logo": "https://icons.llamao.fi/icons/protocols/upshift?w=48&h=48",
+      "twitter": "https://x.com/upaborad"
+    },
+    {
+      "name": "Upshift Contract 5",
+      "address": "0x95f3458cb7fe0fd8d22da406f688aa6ac74aea84",
+      "category": "YIELD",
+      "ecosystem": "Upshift",
+      "logo": "https://icons.llamao.fi/icons/protocols/upshift?w=48&h=48",
+      "twitter": "https://x.com/upaborad"
+    },
+    {
+      "name": "Upshift Contract 6",
+      "address": "0x103222f020e98bba0ad9809a011fdf8e6f067496",
+      "category": "YIELD",
+      "ecosystem": "Upshift",
+      "logo": "https://icons.llamao.fi/icons/protocols/upshift?w=48&h=48",
+      "twitter": "https://x.com/upaborad"
+    },
+    {
+      "name": "Upshift Contract 7",
+      "address": "0x942147e26b4f320b1f1d34895497ab59a56dceec",
+      "category": "YIELD",
+      "ecosystem": "Upshift",
+      "logo": "https://icons.llamao.fi/icons/protocols/upshift?w=48&h=48",
+      "twitter": "https://x.com/upaborad"
+    },
+    {
+      "name": "Morpho Contract 1",
+      "address": "0x8b2f922162fbb60a6a072cc784a2e4168fb0bb0c",
+      "category": "LENDING",
+      "ecosystem": "Morpho",
+      "logo": "https://icons.llamao.fi/icons/protocols/morpho?w=48&h=48",
+      "twitter": "https://x.com/MorphoLabs"
+    },
+    {
+      "name": "Morpho Contract 2",
+      "address": "0x9f3c0999425656fd189c69a8ad68cb64986d644a",
+      "category": "LENDING",
+      "ecosystem": "Morpho",
+      "logo": "https://icons.llamao.fi/icons/protocols/morpho?w=48&h=48",
+      "twitter": "https://x.com/MorphoLabs"
+    },
+    {
+      "name": "Morpho Contract 3",
+      "address": "0xa00666e86c7e2fa8d2c78d9481e687e098340180",
+      "category": "LENDING",
+      "ecosystem": "Morpho",
+      "logo": "https://icons.llamao.fi/icons/protocols/morpho?w=48&h=48",
+      "twitter": "https://x.com/MorphoLabs"
+    },
+    {
+      "name": "Morpho Contract 4",
+      "address": "0x6a42f8b46224baa4dbbbc2f860f4675eea7bd52b",
+      "category": "LENDING",
+      "ecosystem": "Morpho",
+      "logo": "https://icons.llamao.fi/icons/protocols/morpho?w=48&h=48",
+      "twitter": "https://x.com/MorphoLabs"
+    },
+    {
+      "name": "Morpho Contract 5",
+      "address": "0xd5d960e8c380b724a48ac59e2dff1b2cb4a1eaee",
+      "category": "LENDING",
+      "ecosystem": "Morpho",
+      "logo": "https://icons.llamao.fi/icons/protocols/morpho?w=48&h=48",
+      "twitter": "https://x.com/MorphoLabs"
+    },
+    {
+      "name": "Morpho Contract 6",
+      "address": "0x09475a3d6ea8c314c592b1a3799bde044e2f400f",
+      "category": "LENDING",
+      "ecosystem": "Morpho",
+      "logo": "https://icons.llamao.fi/icons/protocols/morpho?w=48&h=48",
+      "twitter": "https://x.com/MorphoLabs"
+    },
+    {
+      "name": "Morpho Contract 7",
+      "address": "0xc8659bcd5279db664be973aefd752a5326653739",
+      "category": "LENDING",
+      "ecosystem": "Morpho",
+      "logo": "https://icons.llamao.fi/icons/protocols/morpho?w=48&h=48",
+      "twitter": "https://x.com/MorphoLabs"
+    },
+    {
+      "name": "Morpho Contract 8",
+      "address": "0x33f20973275b2f574488b18929cd7dcbf1abf275",
+      "category": "LENDING",
+      "ecosystem": "Morpho",
+      "logo": "https://icons.llamao.fi/icons/protocols/morpho?w=48&h=48",
+      "twitter": "https://x.com/MorphoLabs"
+    },
+    {
+      "name": "Morpho Contract 9",
+      "address": "0xfd70575b732f9482f4197fe1075492e114e97302",
+      "category": "LENDING",
+      "ecosystem": "Morpho",
+      "logo": "https://icons.llamao.fi/icons/protocols/morpho?w=48&h=48",
+      "twitter": "https://x.com/MorphoLabs"
+    },
+    {
+      "name": "Morpho Contract 10",
+      "address": "0xb5b3e541abd19799e0c65905a5a42bd37d6c94c0",
+      "category": "LENDING",
+      "ecosystem": "Morpho",
+      "logo": "https://icons.llamao.fi/icons/protocols/morpho?w=48&h=48",
+      "twitter": "https://x.com/MorphoLabs"
+    },
+    {
+      "name": "Morpho Contract 11",
+      "address": "0x82b684483e844422fd339df0b67b3b111f02c66e",
+      "category": "LENDING",
+      "ecosystem": "Morpho",
+      "logo": "https://icons.llamao.fi/icons/protocols/morpho?w=48&h=48",
+      "twitter": "https://x.com/MorphoLabs"
+    },
+    {
+      "name": "Morpho Contract 12",
+      "address": "0x725ab8cad931bcb80fdbf10955a806765cce00e5",
+      "category": "LENDING",
+      "ecosystem": "Morpho",
+      "logo": "https://icons.llamao.fi/icons/protocols/morpho?w=48&h=48",
+      "twitter": "https://x.com/MorphoLabs"
+    },
+    {
+      "name": "Uniswap Contract 1",
+      "address": "0x204faca1764b154221e35c0d20abb3c525710498",
+      "category": "DEX",
+      "ecosystem": "Uniswap",
+      "logo": "https://icons.llamao.fi/icons/protocols/uniswap?w=48&h=48",
+      "twitter": "https://x.com/Uniswap"
+    },
+    {
+      "name": "Uniswap Contract 2",
+      "address": "0xd1b797d92d87b688193a2b976efc8d577d204343",
+      "category": "DEX",
+      "ecosystem": "Uniswap",
+      "logo": "https://icons.llamao.fi/icons/protocols/uniswap?w=48&h=48",
+      "twitter": "https://x.com/Uniswap"
+    },
+    {
+      "name": "Uniswap Contract 3",
+      "address": "0xf025e0fe9e331a0ef05c2ad3c4e9c64b625cda6f",
+      "category": "DEX",
+      "ecosystem": "Uniswap",
+      "logo": "https://icons.llamao.fi/icons/protocols/uniswap?w=48&h=48",
+      "twitter": "https://x.com/Uniswap"
+    },
+    {
+      "name": "Uniswap Contract 4",
+      "address": "0x2e9d45bb7b30549f5216813ada9a6b7982c5b3ed",
+      "category": "DEX",
+      "ecosystem": "Uniswap",
+      "logo": "https://icons.llamao.fi/icons/protocols/uniswap?w=48&h=48",
+      "twitter": "https://x.com/Uniswap"
+    },
+    {
+      "name": "Uniswap Contract 5",
+      "address": "0x315e413a11ab0df498ef83873012430ca36638ae",
+      "category": "DEX",
+      "ecosystem": "Uniswap",
+      "logo": "https://icons.llamao.fi/icons/protocols/uniswap?w=48&h=48",
+      "twitter": "https://x.com/Uniswap"
+    },
+    {
+      "name": "Uniswap Contract 6",
+      "address": "0x63023c02f457a24594ad8fd411f56092179655e2",
+      "category": "DEX",
+      "ecosystem": "Uniswap",
+      "logo": "https://icons.llamao.fi/icons/protocols/uniswap?w=48&h=48",
+      "twitter": "https://x.com/Uniswap"
+    },
+    {
+      "name": "Uniswap Contract 7",
+      "address": "0x7197e214c0b767cfb76fb734ab638e2c192f4e53",
+      "category": "DEX",
+      "ecosystem": "Uniswap",
+      "logo": "https://icons.llamao.fi/icons/protocols/uniswap?w=48&h=48",
+      "twitter": "https://x.com/Uniswap"
+    },
+    {
+      "name": "Uniswap Contract 8",
+      "address": "0x7078c4537c04c2b2e52ddba06074dbdacf23ca15",
+      "category": "DEX",
+      "ecosystem": "Uniswap",
+      "logo": "https://icons.llamao.fi/icons/protocols/uniswap?w=48&h=48",
+      "twitter": "https://x.com/Uniswap"
+    },
+    {
+      "name": "Uniswap Contract 9",
+      "address": "0x661e93cca42afacb172121ef892830ca3b70f08d",
+      "category": "DEX",
+      "ecosystem": "Uniswap",
+      "logo": "https://icons.llamao.fi/icons/protocols/uniswap?w=48&h=48",
+      "twitter": "https://x.com/Uniswap"
+    },
+    {
+      "name": "Uniswap Contract 10",
+      "address": "0xfe31f71c1b106eac32f1a19239c9a9a72ddfb900",
+      "category": "DEX",
+      "ecosystem": "Uniswap",
+      "logo": "https://icons.llamao.fi/icons/protocols/uniswap?w=48&h=48",
+      "twitter": "https://x.com/Uniswap"
+    },
+    {
+      "name": "Uniswap Contract 11",
+      "address": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+      "category": "DEX",
+      "ecosystem": "Uniswap",
+      "logo": "https://icons.llamao.fi/icons/protocols/uniswap?w=48&h=48",
+      "twitter": "https://x.com/Uniswap"
+    },
+    {
+      "name": "Uniswap Contract 12",
+      "address": "0x0d97dc33264bfc1c226207428a79b26757fb9dc3",
+      "category": "DEX",
+      "ecosystem": "Uniswap",
+      "logo": "https://icons.llamao.fi/icons/protocols/uniswap?w=48&h=48",
+      "twitter": "https://x.com/Uniswap"
+    },
+    {
+      "name": "Curvance Contract 1",
+      "address": "0x1310f352f1389969ece6741671c4b919523912ff",
+      "category": "YIELD",
+      "ecosystem": "Curvance",
+      "logo": "https://icons.llamao.fi/icons/protocols/curvance?w=48&h=48",
+      "twitter": "https://x.com/Curvance"
+    },
+    {
+      "name": "Curvance Contract 2",
+      "address": "0x2677738657f27e1a3591e00ad7e5a78807688c08",
+      "category": "YIELD",
+      "ecosystem": "Curvance",
+      "logo": "https://icons.llamao.fi/icons/protocols/curvance?w=48&h=48",
+      "twitter": "https://x.com/Curvance"
+    },
+    {
+      "name": "Curvance Contract 3",
+      "address": "0x5ea0a1cf3501c954b64902c5e92100b8a2cab1ac",
+      "category": "YIELD",
+      "ecosystem": "Curvance",
+      "logo": "https://icons.llamao.fi/icons/protocols/curvance?w=48&h=48",
+      "twitter": "https://x.com/Curvance"
+    },
+    {
+      "name": "Curvance Contract 4",
+      "address": "0xe1c24b2e93230fbe33d32ba38eca3218284143e2",
+      "category": "YIELD",
+      "ecosystem": "Curvance",
+      "logo": "https://icons.llamao.fi/icons/protocols/curvance?w=48&h=48",
+      "twitter": "https://x.com/Curvance"
+    },
+    {
+      "name": "Curvance Contract 5",
+      "address": "0xe5970cdb1916b2ccf6185c86c174eee2d330d05b",
+      "category": "YIELD",
+      "ecosystem": "Curvance",
+      "logo": "https://icons.llamao.fi/icons/protocols/curvance?w=48&h=48",
+      "twitter": "https://x.com/Curvance"
+    },
+    {
+      "name": "Curvance Contract 6",
+      "address": "0xb00aff53a4df2b4e2f97a3d9ffadb55564c8e42f",
+      "category": "YIELD",
+      "ecosystem": "Curvance",
+      "logo": "https://icons.llamao.fi/icons/protocols/curvance?w=48&h=48",
+      "twitter": "https://x.com/Curvance"
+    },
+    {
+      "name": "Curvance Contract 7",
+      "address": "0x830d40cdfdc494bc1a2729a7381bfce44326c944",
+      "category": "YIELD",
+      "ecosystem": "Curvance",
+      "logo": "https://icons.llamao.fi/icons/protocols/curvance?w=48&h=48",
+      "twitter": "https://x.com/Curvance"
+    },
+    {
+      "name": "Curvance Contract 8",
+      "address": "0x7c822b093a116654f824ec2a35cd23a3749e4f90",
+      "category": "YIELD",
+      "ecosystem": "Curvance",
+      "logo": "https://icons.llamao.fi/icons/protocols/curvance?w=48&h=48",
+      "twitter": "https://x.com/Curvance"
+    },
+    {
+      "name": "Curvance Contract 9",
+      "address": "0x83840d837e7a3e00bbb0b8501e60e989a8987c37",
+      "category": "YIELD",
+      "ecosystem": "Curvance",
+      "logo": "https://icons.llamao.fi/icons/protocols/curvance?w=48&h=48",
+      "twitter": "https://x.com/Curvance"
+    },
+    {
+      "name": "Curvance Contract 10",
+      "address": "0xbbe7a3c45adbb16f6490767b663428c34aa341eb",
+      "category": "YIELD",
+      "ecosystem": "Curvance",
+      "logo": "https://icons.llamao.fi/icons/protocols/curvance?w=48&h=48",
+      "twitter": "https://x.com/Curvance"
+    },
+    {
+      "name": "Curvance Contract 11",
+      "address": "0xd6365555f6a697c7c295ba741100aa644ce28545",
+      "category": "YIELD",
+      "ecosystem": "Curvance",
+      "logo": "https://icons.llamao.fi/icons/protocols/curvance?w=48&h=48",
+      "twitter": "https://x.com/Curvance"
+    },
+    {
+      "name": "Curvance Contract 12",
+      "address": "0xa6a2a92f126b79ee0804845ee6b52899b4491093",
+      "category": "YIELD",
+      "ecosystem": "Curvance",
+      "logo": "https://icons.llamao.fi/icons/protocols/curvance?w=48&h=48",
+      "twitter": "https://x.com/Curvance"
+    },
+    {
+      "name": "Curvance Contract 13",
+      "address": "0x01c4a0d396efe982b1b103be9910321d34e1aea9",
+      "category": "YIELD",
+      "ecosystem": "Curvance",
+      "logo": "https://icons.llamao.fi/icons/protocols/curvance?w=48&h=48",
+      "twitter": "https://x.com/Curvance"
+    },
+    {
+      "name": "Curvance Contract 14",
+      "address": "0xb3e9e0134354cc91b7fb9f9d6c3ab0de7854bb49",
+      "category": "YIELD",
+      "ecosystem": "Curvance",
+      "logo": "https://icons.llamao.fi/icons/protocols/curvance?w=48&h=48",
+      "twitter": "https://x.com/Curvance"
+    },
+    {
+      "name": "Curvance Contract 15",
+      "address": "0x32fad39e79fac67f80d1c86cbd1598043e52cdb6",
+      "category": "YIELD",
+      "ecosystem": "Curvance",
+      "logo": "https://icons.llamao.fi/icons/protocols/curvance?w=48&h=48",
+      "twitter": "https://x.com/Curvance"
+    },
+    {
+      "name": "Curvance Contract 16",
+      "address": "0xacfe3fccae79445836e03c5359bb96bd352b9c00",
+      "category": "YIELD",
+      "ecosystem": "Curvance",
+      "logo": "https://icons.llamao.fi/icons/protocols/curvance?w=48&h=48",
+      "twitter": "https://x.com/Curvance"
+    },
+    {
+      "name": "Curvance Contract 17",
+      "address": "0x0fa602b3e748438a3f1599206ed6dc497ab3331e",
+      "category": "YIELD",
+      "ecosystem": "Curvance",
+      "logo": "https://icons.llamao.fi/icons/protocols/curvance?w=48&h=48",
+      "twitter": "https://x.com/Curvance"
+    },
+    {
+      "name": "Curvance Contract 18",
+      "address": "0x1779e22c746b3ca505ffa636f96c4e0916d616d8",
+      "category": "YIELD",
+      "ecosystem": "Curvance",
+      "logo": "https://icons.llamao.fi/icons/protocols/curvance?w=48&h=48",
+      "twitter": "https://x.com/Curvance"
+    },
+    {
+      "name": "Curvance Contract 19",
+      "address": "0x91da3583924263ee0da81a06d01946e95fffb22e",
+      "category": "YIELD",
+      "ecosystem": "Curvance",
+      "logo": "https://icons.llamao.fi/icons/protocols/curvance?w=48&h=48",
+      "twitter": "https://x.com/Curvance"
+    },
+    {
+      "name": "Curvance Contract 20",
+      "address": "0x9cb6cc5029c23140662636a50c4e8dc618cc13f1",
+      "category": "YIELD",
+      "ecosystem": "Curvance",
+      "logo": "https://icons.llamao.fi/icons/protocols/curvance?w=48&h=48",
+      "twitter": "https://x.com/Curvance"
+    },
+    {
+      "name": "Curvance Contract 21",
+      "address": "0xbfe3612d3db96dc58f2210e2e7fdfe9f4b8c5ec0",
+      "category": "YIELD",
+      "ecosystem": "Curvance",
+      "logo": "https://icons.llamao.fi/icons/protocols/curvance?w=48&h=48",
+      "twitter": "https://x.com/Curvance"
+    },
+    {
+      "name": "Curvance Contract 22",
+      "address": "0x878cdfc2f3d96a49a5cbd805faf4f3080768a6d2",
+      "category": "YIELD",
+      "ecosystem": "Curvance",
+      "logo": "https://icons.llamao.fi/icons/protocols/curvance?w=48&h=48",
+      "twitter": "https://x.com/Curvance"
+    },
+    {
+      "name": "Gearbox Contract 1",
+      "address": "0x4115708fc8fe6bb392de2e0c21c2c81da2222394",
+      "category": "LENDING",
+      "ecosystem": "Gearbox",
+      "logo": "https://icons.llamao.fi/icons/protocols/gearbox?w=48&h=48",
+      "twitter": "https://x.com/GearboxProtocol"
+    },
+    {
+      "name": "Gearbox Contract 2",
+      "address": "0xf7f0a609bfab9a0a98786951ef10e5fe26cc1e38",
+      "category": "LENDING",
+      "ecosystem": "Gearbox",
+      "logo": "https://icons.llamao.fi/icons/protocols/gearbox?w=48&h=48",
+      "twitter": "https://x.com/GearboxProtocol"
+    },
+    {
+      "name": "Gearbox Contract 3",
+      "address": "0x59b2fd348e4ade84ffefdaf5fcdda7276c8c5041",
+      "category": "LENDING",
+      "ecosystem": "Gearbox",
+      "logo": "https://icons.llamao.fi/icons/protocols/gearbox?w=48&h=48",
+      "twitter": "https://x.com/GearboxProtocol"
+    },
+    {
+      "name": "Gearbox Contract 4",
+      "address": "0x0bc03983da93021a374c964a22b73865220ce962",
+      "category": "LENDING",
+      "ecosystem": "Gearbox",
+      "logo": "https://icons.llamao.fi/icons/protocols/gearbox?w=48&h=48",
+      "twitter": "https://x.com/GearboxProtocol"
+    },
+    {
+      "name": "Gearbox Contract 5",
+      "address": "0x1ce2b1be96a082b1b1539f80d5d8f82ec06a0f9a",
+      "category": "LENDING",
+      "ecosystem": "Gearbox",
+      "logo": "https://icons.llamao.fi/icons/protocols/gearbox?w=48&h=48",
+      "twitter": "https://x.com/GearboxProtocol"
+    },
+    {
+      "name": "Gearbox Contract 6",
+      "address": "0x81cda0ab38d8bd0732123eb0e36c0c566d35dadd",
+      "category": "LENDING",
+      "ecosystem": "Gearbox",
+      "logo": "https://icons.llamao.fi/icons/protocols/gearbox?w=48&h=48",
+      "twitter": "https://x.com/GearboxProtocol"
+    },
+    {
+      "name": "Gearbox Contract 7",
+      "address": "0x93cba8445b13a05287bff90d882cbcb514d617b7",
+      "category": "LENDING",
+      "ecosystem": "Gearbox",
+      "logo": "https://icons.llamao.fi/icons/protocols/gearbox?w=48&h=48",
+      "twitter": "https://x.com/GearboxProtocol"
+    },
+    {
+      "name": "Gearbox Contract 8",
+      "address": "0xcccccccc42b7da9fdec1761698fb55fdd41cdf55",
+      "category": "LENDING",
+      "ecosystem": "Gearbox",
+      "logo": "https://icons.llamao.fi/icons/protocols/gearbox?w=48&h=48",
+      "twitter": "https://x.com/GearboxProtocol"
+    },
+    {
+      "name": "Gearbox Contract 9",
+      "address": "0x81cb9ea2d59414ab13ec0567efb09767ddbe897a",
+      "category": "LENDING",
+      "ecosystem": "Gearbox",
+      "logo": "https://icons.llamao.fi/icons/protocols/gearbox?w=48&h=48",
+      "twitter": "https://x.com/GearboxProtocol"
+    },
+    {
+      "name": "Gearbox Contract 10",
+      "address": "0x12c8faedd62cf0c5d4d742e57b98737a9a3f5e0f",
+      "category": "LENDING",
+      "ecosystem": "Gearbox",
+      "logo": "https://icons.llamao.fi/icons/protocols/gearbox?w=48&h=48",
+      "twitter": "https://x.com/GearboxProtocol"
+    },
+    {
+      "name": "Gearbox Contract 11",
+      "address": "0x2fcbd02d5b1d52fc78d4c02890d7f4f47a459c33",
+      "category": "LENDING",
+      "ecosystem": "Gearbox",
+      "logo": "https://icons.llamao.fi/icons/protocols/gearbox?w=48&h=48",
+      "twitter": "https://x.com/GearboxProtocol"
+    },
+    {
+      "name": "Gearbox Contract 12",
+      "address": "0xbcd875f0d62b9aa22481c81975f9ae1753fc559a",
+      "category": "LENDING",
+      "ecosystem": "Gearbox",
+      "logo": "https://icons.llamao.fi/icons/protocols/gearbox?w=48&h=48",
+      "twitter": "https://x.com/GearboxProtocol"
+    },
+    {
+      "name": "Gearbox Contract 13",
+      "address": "0xa7de2e941c8818e51d1fd84111d8f71dcafa6c3b",
+      "category": "LENDING",
+      "ecosystem": "Gearbox",
+      "logo": "https://icons.llamao.fi/icons/protocols/gearbox?w=48&h=48",
+      "twitter": "https://x.com/GearboxProtocol"
+    },
+    {
+      "name": "Gearbox Contract 14",
+      "address": "0x0e535b7d073a93646512cea18fa7e650cc2b17c4",
+      "category": "LENDING",
+      "ecosystem": "Gearbox",
+      "logo": "https://icons.llamao.fi/icons/protocols/gearbox?w=48&h=48",
+      "twitter": "https://x.com/GearboxProtocol"
+    },
+    {
+      "name": "Gearbox Contract 15",
+      "address": "0x70f1753a765c4df582ffa3b8d96ab492714e8992",
+      "category": "LENDING",
+      "ecosystem": "Gearbox",
+      "logo": "https://icons.llamao.fi/icons/protocols/gearbox?w=48&h=48",
+      "twitter": "https://x.com/GearboxProtocol"
+    },
+    {
+      "name": "Curve Contract 1",
+      "address": "0x4574921eb950d3fd5b01562162ec566cb8bc3648",
+      "category": "DEX",
+      "ecosystem": "Curve",
+      "logo": "https://icons.llamao.fi/icons/protocols/curve-finance?w=48&h=48",
+      "twitter": "https://x.com/CurveFinance"
+    },
+    {
+      "name": "Curve Contract 2",
+      "address": "0x41d2c5128a7241ec1f7ce346b162c347c19548b7",
+      "category": "DEX",
+      "ecosystem": "Curve",
+      "logo": "https://icons.llamao.fi/icons/protocols/curve-finance?w=48&h=48",
+      "twitter": "https://x.com/CurveFinance"
+    },
+    {
+      "name": "Curve Contract 3",
+      "address": "0xb2be7692b07b640c9f2ee1187cee2faec741f872",
+      "category": "DEX",
+      "ecosystem": "Curve",
+      "logo": "https://icons.llamao.fi/icons/protocols/curve-finance?w=48&h=48",
+      "twitter": "https://x.com/CurveFinance"
+    },
+    {
+      "name": "Curve Contract 4",
+      "address": "0x193110ce1542d7371e1515bd6a2e470fdefc310d",
+      "category": "DEX",
+      "ecosystem": "Curve",
+      "logo": "https://icons.llamao.fi/icons/protocols/curve-finance?w=48&h=48",
+      "twitter": "https://x.com/CurveFinance"
+    },
+    {
+      "name": "Curve Contract 5",
+      "address": "0xbb8a5e91295131ce07b6bfe301c49bcd925a2902",
+      "category": "DEX",
+      "ecosystem": "Curve",
+      "logo": "https://icons.llamao.fi/icons/protocols/curve-finance?w=48&h=48",
+      "twitter": "https://x.com/CurveFinance"
+    },
+    {
+      "name": "Curve Contract 6",
+      "address": "0x2af43209b366a4491cce0a97c5a7b6059fd21295",
+      "category": "DEX",
+      "ecosystem": "Curve",
+      "logo": "https://icons.llamao.fi/icons/protocols/curve-finance?w=48&h=48",
+      "twitter": "https://x.com/CurveFinance"
+    },
+    {
+      "name": "Curve Contract 7",
+      "address": "0xe6da14500f0b5783e2325f9c5a7ee5d99da0fb42",
+      "category": "DEX",
+      "ecosystem": "Curve",
+      "logo": "https://icons.llamao.fi/icons/protocols/curve-finance?w=48&h=48",
+      "twitter": "https://x.com/CurveFinance"
+    },
+    {
+      "name": "Curve Contract 8",
+      "address": "0x129578f94c253b8bc903bf2b73d07bf2583cc11d",
+      "category": "DEX",
+      "ecosystem": "Curve",
+      "logo": "https://icons.llamao.fi/icons/protocols/curve-finance?w=48&h=48",
+      "twitter": "https://x.com/CurveFinance"
+    },
+    {
+      "name": "Curve Contract 9",
+      "address": "0xff5cb29241f002ffed2eaa224e3e996d24a6e8d1",
+      "category": "DEX",
+      "ecosystem": "Curve",
+      "logo": "https://icons.llamao.fi/icons/protocols/curve-finance?w=48&h=48",
+      "twitter": "https://x.com/CurveFinance"
+    },
+    {
+      "name": "Curve Contract 10",
+      "address": "0x8271e06e5887fe5ba05234f5315c19f3ec90e8ad",
+      "category": "DEX",
+      "ecosystem": "Curve",
+      "logo": "https://icons.llamao.fi/icons/protocols/curve-finance?w=48&h=48",
+      "twitter": "https://x.com/CurveFinance"
+    },
+    {
+      "name": "Curve Contract 11",
+      "address": "0x46feffb8ed015250cd48f9bf7f4a4584049ca4ae",
+      "category": "DEX",
+      "ecosystem": "Curve",
+      "logo": "https://icons.llamao.fi/icons/protocols/curve-finance?w=48&h=48",
+      "twitter": "https://x.com/CurveFinance"
+    },
+    {
+      "name": "Curve Contract 12",
+      "address": "0xe460dec242bc0a1a364c250a9d2f731d8d923650",
+      "category": "DEX",
+      "ecosystem": "Curve",
+      "logo": "https://icons.llamao.fi/icons/protocols/curve-finance?w=48&h=48",
+      "twitter": "https://x.com/CurveFinance"
+    },
+    {
+      "name": "Curve Contract 13",
+      "address": "0x845b942deef9bc20a39a8b34b23e8c33ac2921bf",
+      "category": "DEX",
+      "ecosystem": "Curve",
+      "logo": "https://icons.llamao.fi/icons/protocols/curve-finance?w=48&h=48",
+      "twitter": "https://x.com/CurveFinance"
+    },
+    {
+      "name": "Curve Contract 14",
+      "address": "0xfc687efafed297b765edecf8179c32195597c2df",
+      "category": "DEX",
+      "ecosystem": "Curve",
+      "logo": "https://icons.llamao.fi/icons/protocols/curve-finance?w=48&h=48",
+      "twitter": "https://x.com/CurveFinance"
+    },
+    {
+      "name": "Curve Contract 15",
+      "address": "0xc9459a955a885467f01ccc531c51dbcc957993c0",
+      "category": "DEX",
+      "ecosystem": "Curve",
+      "logo": "https://icons.llamao.fi/icons/protocols/curve-finance?w=48&h=48",
+      "twitter": "https://x.com/CurveFinance"
+    },
+    {
+      "name": "Mu Digital Contract 1",
+      "address": "0x4917a5ec9fcb5e10f47cbb197abe6ab63be81fe8",
+      "category": "YIELD",
+      "ecosystem": "Mu Digital",
+      "logo": "https://icons.llamao.fi/icons/protocols/mu-digital?w=48&h=48",
+      "twitter": "https://x.com/MuDigital"
+    },
+    {
+      "name": "Mu Digital Contract 2",
+      "address": "0x9c82eb49b51f7dc61e22ff347931ca32adc6cd90",
+      "category": "YIELD",
+      "ecosystem": "Mu Digital",
+      "logo": "https://icons.llamao.fi/icons/protocols/mu-digital?w=48&h=48",
+      "twitter": "https://x.com/MuDigital"
+    },
+    {
+      "name": "Mu Digital Contract 3",
+      "address": "0x336d414754967c6682b5a665c7daf6f1409e63e8",
+      "category": "YIELD",
+      "ecosystem": "Mu Digital",
+      "logo": "https://icons.llamao.fi/icons/protocols/mu-digital?w=48&h=48",
+      "twitter": "https://x.com/MuDigital"
+    },
+    {
+      "name": "ShMonad",
+      "address": "0x1b68626dca36c7fe922fd2d55e4f631d962de19c",
+      "category": "STAKING",
+      "ecosystem": "ShMonad",
+      "logo": "https://icons.llamao.fi/icons/protocols/shmonad?w=48&h=48",
+      "twitter": "https://x.com/shmonad"
+    },
+    {
+      "name": "Neverland Contract 1",
+      "address": "0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
+      "category": "YIELD",
+      "ecosystem": "Neverland",
+      "logo": "https://icons.llamao.fi/icons/protocols/neverland?w=48&h=48",
+      "twitter": "https://x.com/NeverlandFi"
+    },
+    {
+      "name": "Neverland Contract 2",
+      "address": "0xbb4738d05ad1b3da57a4881bae62ce9bb1eeed6c",
+      "category": "YIELD",
+      "ecosystem": "Neverland",
+      "logo": "https://icons.llamao.fi/icons/protocols/neverland?w=48&h=48",
+      "twitter": "https://x.com/NeverlandFi"
+    },
+    {
+      "name": "Neverland Contract 3",
+      "address": "0x3bd359c1119da7da1d913d1c4d2b7c461115433a",
+      "category": "YIELD",
+      "ecosystem": "Neverland",
+      "logo": "https://icons.llamao.fi/icons/protocols/neverland?w=48&h=48",
+      "twitter": "https://x.com/NeverlandFi"
+    },
+    {
+      "name": "Neverland Contract 4",
+      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "category": "YIELD",
+      "ecosystem": "Neverland",
+      "logo": "https://icons.llamao.fi/icons/protocols/neverland?w=48&h=48",
+      "twitter": "https://x.com/NeverlandFi"
+    },
+    {
+      "name": "Neverland Contract 5",
+      "address": "0xee8c0e9f1bffb4eb878d8f15f368a02a35481242",
+      "category": "YIELD",
+      "ecosystem": "Neverland",
+      "logo": "https://icons.llamao.fi/icons/protocols/neverland?w=48&h=48",
+      "twitter": "https://x.com/NeverlandFi"
+    },
+    {
+      "name": "Neverland Contract 6",
+      "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "category": "YIELD",
+      "ecosystem": "Neverland",
+      "logo": "https://icons.llamao.fi/icons/protocols/neverland?w=48&h=48",
+      "twitter": "https://x.com/NeverlandFi"
+    },
+    {
+      "name": "Neverland Contract 7",
+      "address": "0x754704bc059f8c67012fed69bc8a327a5aafb603",
+      "category": "YIELD",
+      "ecosystem": "Neverland",
+      "logo": "https://icons.llamao.fi/icons/protocols/neverland?w=48&h=48",
+      "twitter": "https://x.com/NeverlandFi"
+    },
+    {
+      "name": "Neverland Contract 8",
+      "address": "0xe7cd86e13ac4309349f30b3435a9d337750fc82d",
+      "category": "YIELD",
+      "ecosystem": "Neverland",
+      "logo": "https://icons.llamao.fi/icons/protocols/neverland?w=48&h=48",
+      "twitter": "https://x.com/NeverlandFi"
+    },
+    {
+      "name": "Neverland Contract 9",
+      "address": "0xa3227c5969757783154c60bf0bc1944180ed81b9",
+      "category": "YIELD",
+      "ecosystem": "Neverland",
+      "logo": "https://icons.llamao.fi/icons/protocols/neverland?w=48&h=48",
+      "twitter": "https://x.com/NeverlandFi"
+    },
+    {
+      "name": "Neverland Contract 10",
+      "address": "0x8498312a6b3cbd158bf0c93abdcf29e6e4f55081",
+      "category": "YIELD",
+      "ecosystem": "Neverland",
+      "logo": "https://icons.llamao.fi/icons/protocols/neverland?w=48&h=48",
+      "twitter": "https://x.com/NeverlandFi"
+    },
+    {
+      "name": "Neverland Contract 11",
+      "address": "0x1b68626dca36c7fe922fd2d55e4f631d962de19c",
+      "category": "YIELD",
+      "ecosystem": "Neverland",
+      "logo": "https://icons.llamao.fi/icons/protocols/neverland?w=48&h=48",
+      "twitter": "https://x.com/NeverlandFi"
+    },
+    {
+      "name": "Neverland Contract 12",
+      "address": "0x103222f020e98bba0ad9809a011fdf8e6f067496",
+      "category": "YIELD",
+      "ecosystem": "Neverland",
+      "logo": "https://icons.llamao.fi/icons/protocols/neverland?w=48&h=48",
+      "twitter": "https://x.com/NeverlandFi"
+    },
+    {
+      "name": "Neverland Contract 13",
+      "address": "0x9c82eb49b51f7dc61e22ff347931ca32adc6cd90",
+      "category": "YIELD",
+      "ecosystem": "Neverland",
+      "logo": "https://icons.llamao.fi/icons/protocols/neverland?w=48&h=48",
+      "twitter": "https://x.com/NeverlandFi"
+    },
+    {
+      "name": "Midas Contract 1",
+      "address": "0x1c8ee940b654bfced403f2a44c1603d5be0f50fa",
+      "category": "YIELD",
+      "ecosystem": "Midas",
+      "logo": "https://icons.llamao.fi/icons/protocols/midas-rwa?w=48&h=48",
+      "twitter": "https://x.com/MidasRWA"
+    },
+    {
+      "name": "Midas Contract 2",
+      "address": "0x33f3cd52c55416ca2eac184b62fa7481af88271d",
+      "category": "YIELD",
+      "ecosystem": "Midas",
+      "logo": "https://icons.llamao.fi/icons/protocols/midas-rwa?w=48&h=48",
+      "twitter": "https://x.com/MidasRWA"
+    },
+    {
+      "name": "Midas Contract 3",
+      "address": "0xdf7deb47635af76da5e455c6b0f4e26222326fd9",
+      "category": "YIELD",
+      "ecosystem": "Midas",
+      "logo": "https://icons.llamao.fi/icons/protocols/midas-rwa?w=48&h=48",
+      "twitter": "https://x.com/MidasRWA"
+    },
+    {
+      "name": "Midas Contract 4",
+      "address": "0x2ce347decfc8dab433c4eb6ca171747e5a82c332",
+      "category": "YIELD",
+      "ecosystem": "Midas",
+      "logo": "https://icons.llamao.fi/icons/protocols/midas-rwa?w=48&h=48",
+      "twitter": "https://x.com/MidasRWA"
+    },
+    {
+      "name": "Kintsu",
+      "address": "0xa3227c5969757783154c60bf0bc1944180ed81b9",
+      "category": "STAKING",
+      "ecosystem": "Kintsu",
+      "logo": "https://icons.llamao.fi/icons/protocols/kintsu?w=48&h=48",
+      "twitter": "https://x.com/KintsuProtocol"
+    },
+    {
+      "name": "PancakeSwap Contract 1",
+      "address": "0x0bfbcf9fa4f9c56b0f40a671ad40e0805a091865",
+      "category": "DEX",
+      "ecosystem": "PancakeSwap",
+      "logo": "https://icons.llamao.fi/icons/protocols/pancakeswap?w=48&h=48",
+      "twitter": "https://x.com/PancakeSwap"
+    },
+    {
+      "name": "PancakeSwap Contract 2",
+      "address": "0x41ff9aa7e16b8b1a8a8dc4f0efacd93d02d071c9",
+      "category": "DEX",
+      "ecosystem": "PancakeSwap",
+      "logo": "https://icons.llamao.fi/icons/protocols/pancakeswap?w=48&h=48",
+      "twitter": "https://x.com/PancakeSwap"
+    },
+    {
+      "name": "PancakeSwap Contract 3",
+      "address": "0x1b81d678ffb9c0263b24a97847620c99d213eb14",
+      "category": "DEX",
+      "ecosystem": "PancakeSwap",
+      "logo": "https://icons.llamao.fi/icons/protocols/pancakeswap?w=48&h=48",
+      "twitter": "https://x.com/PancakeSwap"
+    },
+    {
+      "name": "PancakeSwap Contract 4",
+      "address": "0xbc203d7f83677c7ed3f7acec959963e7f4ecc5c2",
+      "category": "DEX",
+      "ecosystem": "PancakeSwap",
+      "logo": "https://icons.llamao.fi/icons/protocols/pancakeswap?w=48&h=48",
+      "twitter": "https://x.com/PancakeSwap"
+    },
+    {
+      "name": "PancakeSwap Contract 5",
+      "address": "0x46a15b0b27311cedf172ab29e4f4766fbe7f4364",
+      "category": "DEX",
+      "ecosystem": "PancakeSwap",
+      "logo": "https://icons.llamao.fi/icons/protocols/pancakeswap?w=48&h=48",
+      "twitter": "https://x.com/PancakeSwap"
+    },
+    {
+      "name": "PancakeSwap Contract 6",
+      "address": "0xb048bbc1ee6b733fffcfb9e9cef7375518e25997",
+      "category": "DEX",
+      "ecosystem": "PancakeSwap",
+      "logo": "https://icons.llamao.fi/icons/protocols/pancakeswap?w=48&h=48",
+      "twitter": "https://x.com/PancakeSwap"
+    },
+    {
+      "name": "PancakeSwap Contract 7",
+      "address": "0x9a489505a00ce272eaa5e07dba6491314cae3796",
+      "category": "DEX",
+      "ecosystem": "PancakeSwap",
+      "logo": "https://icons.llamao.fi/icons/protocols/pancakeswap?w=48&h=48",
+      "twitter": "https://x.com/PancakeSwap"
+    },
+    {
+      "name": "PancakeSwap Contract 8",
+      "address": "0xac1ce734566f390a94b00eb9bf561c2625bf44ea",
+      "category": "DEX",
+      "ecosystem": "PancakeSwap",
+      "logo": "https://icons.llamao.fi/icons/protocols/pancakeswap?w=48&h=48",
+      "twitter": "https://x.com/PancakeSwap"
+    },
+    {
+      "name": "PancakeSwap Contract 9",
+      "address": "0x77b482d9a4e391d682c857c630b8d869fdee5c44",
+      "category": "DEX",
+      "ecosystem": "PancakeSwap",
+      "logo": "https://icons.llamao.fi/icons/protocols/pancakeswap?w=48&h=48",
+      "twitter": "https://x.com/PancakeSwap"
+    },
+    {
+      "name": "PancakeSwap Contract 10",
+      "address": "0xfcb76dfdf9c79ae5d334c0e1901449c8a893df22",
+      "category": "DEX",
+      "ecosystem": "PancakeSwap",
+      "logo": "https://icons.llamao.fi/icons/protocols/pancakeswap?w=48&h=48",
+      "twitter": "https://x.com/PancakeSwap"
+    },
+    {
+      "name": "PancakeSwap Contract 11",
+      "address": "0x21114915ac6d5a2e156931e20b20b038ded0be7c",
+      "category": "DEX",
+      "ecosystem": "PancakeSwap",
+      "logo": "https://icons.llamao.fi/icons/protocols/pancakeswap?w=48&h=48",
+      "twitter": "https://x.com/PancakeSwap"
+    },
+    {
+      "name": "Townsquare Contract 1",
+      "address": "0xc2df24203ab3a4f3857d649757a99e18de059a16",
+      "category": "DEX",
+      "ecosystem": "Townsquare",
+      "logo": "https://icons.llamao.fi/icons/protocols/townsquare?w=48&h=48",
+      "twitter": "https://x.com/TownsquareXYZ"
+    },
+    {
+      "name": "Townsquare Contract 2",
+      "address": "0x2dfdb4bf6c910b5bbbb0d07ec5f088e294628189",
+      "category": "DEX",
+      "ecosystem": "Townsquare",
+      "logo": "https://icons.llamao.fi/icons/protocols/townsquare?w=48&h=48",
+      "twitter": "https://x.com/TownsquareXYZ"
+    },
+    {
+      "name": "Townsquare Contract 3",
+      "address": "0xed84c02a0787d56d0b53efe64dd60a1ae20e4e31",
+      "category": "DEX",
+      "ecosystem": "Townsquare",
+      "logo": "https://icons.llamao.fi/icons/protocols/townsquare?w=48&h=48",
+      "twitter": "https://x.com/TownsquareXYZ"
+    },
+    {
+      "name": "Townsquare Contract 4",
+      "address": "0x2970fde6064178d51d961689cb5b64226ab11fc2",
+      "category": "DEX",
+      "ecosystem": "Townsquare",
+      "logo": "https://icons.llamao.fi/icons/protocols/townsquare?w=48&h=48",
+      "twitter": "https://x.com/TownsquareXYZ"
+    },
+    {
+      "name": "Townsquare Contract 5",
+      "address": "0xc4c20efbefa4bde14091a3040d112cf981d8b2db",
+      "category": "DEX",
+      "ecosystem": "Townsquare",
+      "logo": "https://icons.llamao.fi/icons/protocols/townsquare?w=48&h=48",
+      "twitter": "https://x.com/TownsquareXYZ"
+    },
+    {
+      "name": "Townsquare Contract 6",
+      "address": "0x106d0e2bff74b39d09636bdcd5d4189f24d91433",
+      "category": "DEX",
+      "ecosystem": "Townsquare",
+      "logo": "https://icons.llamao.fi/icons/protocols/townsquare?w=48&h=48",
+      "twitter": "https://x.com/TownsquareXYZ"
+    },
+    {
+      "name": "Townsquare Contract 7",
+      "address": "0x428cfa65310c70bc9e65bddb26c65fe4ca490376",
+      "category": "DEX",
+      "ecosystem": "Townsquare",
+      "logo": "https://icons.llamao.fi/icons/protocols/townsquare?w=48&h=48",
+      "twitter": "https://x.com/TownsquareXYZ"
+    },
+    {
+      "name": "Townsquare Contract 8",
+      "address": "0x8f8a0ed366439576b7db220678ed1259743239e3",
+      "category": "DEX",
+      "ecosystem": "Townsquare",
+      "logo": "https://icons.llamao.fi/icons/protocols/townsquare?w=48&h=48",
+      "twitter": "https://x.com/TownsquareXYZ"
+    },
+    {
+      "name": "Townsquare Contract 9",
+      "address": "0xb4a545a183bd072548ddfe9ddadc2c6f962ac14f",
+      "category": "DEX",
+      "ecosystem": "Townsquare",
+      "logo": "https://icons.llamao.fi/icons/protocols/townsquare?w=48&h=48",
+      "twitter": "https://x.com/TownsquareXYZ"
+    },
+    {
+      "name": "Townsquare Contract 10",
+      "address": "0x0392354326960f891926835eedab127766b21668",
+      "category": "DEX",
+      "ecosystem": "Townsquare",
+      "logo": "https://icons.llamao.fi/icons/protocols/townsquare?w=48&h=48",
+      "twitter": "https://x.com/TownsquareXYZ"
+    },
+    {
+      "name": "Townsquare Contract 11",
+      "address": "0x63cb1cf5accbcc57e0cca047be9673ea5022b8db",
+      "category": "DEX",
+      "ecosystem": "Townsquare",
+      "logo": "https://icons.llamao.fi/icons/protocols/townsquare?w=48&h=48",
+      "twitter": "https://x.com/TownsquareXYZ"
+    },
+    {
+      "name": "Townsquare Contract 12",
+      "address": "0xdb4e67f878289a820046f46f6304fd6ee1449281",
+      "category": "DEX",
+      "ecosystem": "Townsquare",
+      "logo": "https://icons.llamao.fi/icons/protocols/townsquare?w=48&h=48",
+      "twitter": "https://x.com/TownsquareXYZ"
+    },
+    {
+      "name": "Townsquare Contract 13",
+      "address": "0xa457235b68606a7921b7c525d92e9592e793b4c0",
+      "category": "DEX",
+      "ecosystem": "Townsquare",
+      "logo": "https://icons.llamao.fi/icons/protocols/townsquare?w=48&h=48",
+      "twitter": "https://x.com/TownsquareXYZ"
+    },
+    {
+      "name": "Townsquare Contract 14",
+      "address": "0xf358f9e4ba7d210fde8c9a30522bb0063e15c4bb",
+      "category": "DEX",
+      "ecosystem": "Townsquare",
+      "logo": "https://icons.llamao.fi/icons/protocols/townsquare?w=48&h=48",
+      "twitter": "https://x.com/TownsquareXYZ"
+    },
+    {
+      "name": "Townsquare Contract 15",
+      "address": "0xa2b1ac2bb0a6ad5e74d74f8809a2f935813d273a",
+      "category": "DEX",
+      "ecosystem": "Townsquare",
+      "logo": "https://icons.llamao.fi/icons/protocols/townsquare?w=48&h=48",
+      "twitter": "https://x.com/TownsquareXYZ"
+    },
+    {
+      "name": "Lagoon",
+      "address": "0xccdc4d06ca12a29c47d5d105fed59a6d07e9cf70",
+      "category": "YIELD",
+      "ecosystem": "Lagoon",
+      "logo": "https://icons.llamao.fi/icons/protocols/lagoon?w=48&h=48",
+      "twitter": "https://x.com/LagoonFi"
+    },
+    {
+      "name": "Monday Trade Contract 1",
+      "address": "0x15bc3c13cbf5903e78b97208ba1021e5dc1b4470",
+      "category": "PERP",
+      "ecosystem": "Monday Trade",
+      "logo": "https://icons.llamao.fi/icons/protocols/monday-trade?w=48&h=48",
+      "twitter": "https://x.com/MondayTrade"
+    },
+    {
+      "name": "Monday Trade Contract 2",
+      "address": "0x2e32345bf0592bff19313831b99900c530d37d90",
+      "category": "PERP",
+      "ecosystem": "Monday Trade",
+      "logo": "https://icons.llamao.fi/icons/protocols/monday-trade?w=48&h=48",
+      "twitter": "https://x.com/MondayTrade"
+    },
+    {
+      "name": "Monday Trade Contract 3",
+      "address": "0xdfba572929de47838bde12336dfe8842b06d9628",
+      "category": "PERP",
+      "ecosystem": "Monday Trade",
+      "logo": "https://icons.llamao.fi/icons/protocols/monday-trade?w=48&h=48",
+      "twitter": "https://x.com/MondayTrade"
+    },
+    {
+      "name": "Monday Trade Contract 4",
+      "address": "0x5fe49fb8770a8009335b1d76496c3e07ca04fc9f",
+      "category": "PERP",
+      "ecosystem": "Monday Trade",
+      "logo": "https://icons.llamao.fi/icons/protocols/monday-trade?w=48&h=48",
+      "twitter": "https://x.com/MondayTrade"
+    },
+    {
+      "name": "LFJ Contract 1",
+      "address": "0xb43120c4745967fa9b93e79c149e66b0f2d6fe0c",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://icons.llamao.fi/icons/protocols/lfj?w=48&h=48",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "LFJ Contract 2",
+      "address": "0x18556da13313f3532c54711497a8fedac273220e",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://icons.llamao.fi/icons/protocols/lfj?w=48&h=48",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "LFJ Contract 3",
+      "address": "0xe32d45c2b1c17a0fe0de76f1ebfa7c44b7810034",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://icons.llamao.fi/icons/protocols/lfj?w=48&h=48",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "LFJ Contract 4",
+      "address": "0x5d566979ca1a1d4e15ad99ab068656170048cd7b",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://icons.llamao.fi/icons/protocols/lfj?w=48&h=48",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "LFJ Contract 5",
+      "address": "0x4face5b0ef2757ceb9151d14c036a1135931c70e",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://icons.llamao.fi/icons/protocols/lfj?w=48&h=48",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "LFJ Contract 6",
+      "address": "0xf57b8a91f775b01d53450d7cb4d2a99ba989fd19",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://icons.llamao.fi/icons/protocols/lfj?w=48&h=48",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "LFJ Contract 7",
+      "address": "0xe70d21ad211db6dcd3f54b9804a1b64bb21b17b1",
+      "category": "DEX",
+      "ecosystem": "LFJ",
+      "logo": "https://icons.llamao.fi/icons/protocols/lfj?w=48&h=48",
+      "twitter": "https://x.com/LFJ_gg"
+    },
+    {
+      "name": "Magma Contract 1",
+      "address": "0x8498312a6b3cbd158bf0c93abdcf29e6e4f55081",
+      "category": "STAKING",
+      "ecosystem": "Magma",
+      "logo": "https://icons.llamao.fi/icons/protocols/magma-staking?w=48&h=48",
+      "twitter": "https://x.com/MagmaStaking"
+    },
+    {
+      "name": "Magma Contract 2",
+      "address": "0xb1d57de83d80a2abac91714744dfe97e71b73dc0",
+      "category": "STAKING",
+      "ecosystem": "Magma",
+      "logo": "https://icons.llamao.fi/icons/protocols/magma-staking?w=48&h=48",
+      "twitter": "https://x.com/MagmaStaking"
+    },
+    {
+      "name": "Magma Contract 3",
+      "address": "0xe5c63b5b043ebdd7c2735143a3d7aeb2cb0d9677",
+      "category": "STAKING",
+      "ecosystem": "Magma",
+      "logo": "https://icons.llamao.fi/icons/protocols/magma-staking?w=48&h=48",
+      "twitter": "https://x.com/MagmaStaking"
+    },
+    {
+      "name": "Nad.fun Contract 1",
+      "address": "0x6b5f564339dbad6b780249827f2198a841feb7f3",
+      "category": "DEX",
+      "ecosystem": "Nad.fun",
+      "logo": "https://icons.llamao.fi/icons/protocols/nad.fun?w=48&h=48",
+      "twitter": "https://x.com/nadfun_"
+    },
+    {
+      "name": "Nad.fun Contract 2",
+      "address": "0x3bd359c1119da7da1d913d1c4d2b7c461115433a",
+      "category": "DEX",
+      "ecosystem": "Nad.fun",
+      "logo": "https://icons.llamao.fi/icons/protocols/nad.fun?w=48&h=48",
+      "twitter": "https://x.com/nadfun_"
+    },
+    {
+      "name": "Nad.fun Contract 3",
+      "address": "0x6f6b8f1a20703309951a5127c45b49b1cd981a22",
+      "category": "DEX",
+      "ecosystem": "Nad.fun",
+      "logo": "https://icons.llamao.fi/icons/protocols/nad.fun?w=48&h=48",
+      "twitter": "https://x.com/nadfun_"
+    },
+    {
+      "name": "Nad.fun Contract 4",
+      "address": "0xa7283d07812a02afb7c09b60f8896bcea3f90ace",
+      "category": "DEX",
+      "ecosystem": "Nad.fun",
+      "logo": "https://icons.llamao.fi/icons/protocols/nad.fun?w=48&h=48",
+      "twitter": "https://x.com/nadfun_"
+    },
+    {
+      "name": "Nad.fun Contract 5",
+      "address": "0x0b79d71ae99528d1db24a4148b5f4f865cc2b137",
+      "category": "DEX",
+      "ecosystem": "Nad.fun",
+      "logo": "https://icons.llamao.fi/icons/protocols/nad.fun?w=48&h=48",
+      "twitter": "https://x.com/nadfun_"
+    },
+    {
+      "name": "Nad.fun Contract 6",
+      "address": "0x7e78a8de94f21804f7a17f4e8bf9ec2c872187ea",
+      "category": "DEX",
+      "ecosystem": "Nad.fun",
+      "logo": "https://icons.llamao.fi/icons/protocols/nad.fun?w=48&h=48",
+      "twitter": "https://x.com/nadfun_"
+    }
+  ]
+}

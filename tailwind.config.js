@@ -1,0 +1,111 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
+  safelist: [
+    // Fonts
+    'font-dm-sans',
+    'font-inter',
+    'font-roboto',
+    'font-open-sans',
+    'font-montserrat',
+    'font-poppins',
+    'font-google-sans',
+    'font-grobold',
+    // Theme backgrounds
+    'bg-gray-900',
+    'bg-gradient-to-br',
+    'bg-gray-900/80',
+    'bg-white/10',
+    'backdrop-blur-sm',
+    // Gradient colors
+    'from-white/20',
+    'to-gray-300/30',
+    'from-orange-400',
+    'to-pink-400',
+    'from-blue-200',
+    'to-pink-200',
+    'from-amber-700',
+    'to-stone-600',
+    'from-orange-500',
+    'to-rose-500',
+    // Borders
+    'border-gray-800',
+    'border-white/30',
+    'border-orange-300/20',
+    'border-blue-300/20',
+    'border-amber-800/20',
+    'border-orange-600/20',
+    'border-gray-900',
+    'border-white/20',
+    // Text colors
+    'text-gray-900',
+    'text-gray-800',
+    'text-gray-700',
+    'text-gray-300',
+    'text-gray-200',
+    'text-white',
+    // Hovers
+    'hover:text-gray-700',
+    'hover:text-white',
+    'hover:text-primary/80',
+    // Rings & effects
+    'ring-2',
+    'ring-gray-900/30',
+    'ring-white/20',
+    'shadow-lg',
+    'transition-colors',
+  ],
+  theme: {
+    extend: {
+      screens: {
+        '3xl': '1920px',
+      },
+      fontFamily: {
+        sans: [
+          'OpenSauceSans',
+          'system-ui',
+          '-apple-system',
+          'BlinkMacSystemFont',
+          'Segoe UI',
+          'Roboto',
+          'Helvetica Neue',
+          'Arial',
+          'sans-serif',
+        ],
+        pixel: ['Arame', 'Courier New', 'monospace'],
+        serif: [
+          'TheSilverEditorial',
+          'Georgia',
+          'Times New Roman',
+          'Times',
+          'serif',
+        ],
+        'dm-sans': ['DM Sans', 'system-ui', 'sans-serif'],
+        inter: ['Inter', 'system-ui', 'sans-serif'],
+        roboto: ['Roboto', 'system-ui', 'sans-serif'],
+        'open-sans': ['Open Sans', 'system-ui', 'sans-serif'],
+        montserrat: ['Montserrat', 'system-ui', 'sans-serif'],
+        poppins: ['Poppins', 'system-ui', 'sans-serif'],
+        'google-sans': [
+          'Google Sans',
+          'Product Sans',
+          'system-ui',
+          'sans-serif',
+        ],
+        grobold: ['Grobold', 'system-ui', 'sans-serif'],
+      },
+      boxShadow: {
+        glass:
+          '0 4px 4px rgba(0, 0, 0, 0.2), inset 0 6px 10px rgba(0, 0, 0, 0.05)',
+      },
+      colors: {
+        'glass-background': 'var(--color-glass-background)',
+        'glass-border': 'var(--color-glass-border)',
+        'glass-drop-shadow': 'var(--color-glass-drop-shadow)',
+        'glass-inner-shadow': 'var(--color-glass-inner-shadow)',
+        quaternary: 'var(--quaternary)',
+      },
+    },
+  },
+  plugins: [],
+};

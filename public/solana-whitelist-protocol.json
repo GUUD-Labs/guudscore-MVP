@@ -1,0 +1,875 @@
+{
+  "chain": "solana",
+  "total_protocols": 73,
+  "fetched_at": "2025-12-23T23:59:54.947119Z",
+  "protocols": [
+    {
+      "id": "jupiter",
+      "name": "Jupiter",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/jupiter?w=48&h=48",
+      "program_ids": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+        "JUP4Fb2cqiRUcaTHdrPC8h2gNsA2ETXiPDD33WcGuJB"
+      ],
+      "aliases": [
+        "jup",
+        "jupiter",
+        "jupiter aggregator",
+        "jupiter v6"
+      ]
+    },
+    {
+      "id": "kamino",
+      "name": "Kamino",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/kamino?w=48&h=48",
+      "program_ids": [
+        "KLend2g3cP87fffoy8q1mQqGKjrxjC8boSyAYavgmjD"
+      ],
+      "aliases": [
+        "kamino",
+        "kmno"
+      ]
+    },
+    {
+      "id": "sanctum",
+      "name": "Sanctum",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/sanctum?w=48&h=48",
+      "program_ids": [
+        "5ocnV1qiCgaQR8Jb8xWnVbApfaygJ8tNoZfgPwsgx9kx"
+      ],
+      "aliases": [
+        "sanctum"
+      ]
+    },
+    {
+      "id": "jito",
+      "name": "Jito",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/jito?w=48&h=48",
+      "program_ids": [
+        "Jito4APyf642JPZPx3hGc6WWJ8zPKtRbRs4P815Awbb"
+      ],
+      "aliases": [
+        "jito",
+        "jito staking",
+        "jto"
+      ]
+    },
+    {
+      "id": "doublezero",
+      "name": "Doublezero",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/doublezero?w=48&h=48",
+      "program_ids": [
+        "DoubLeZeRoPnVY5q4KFCmHhTQdHnV6KLpXqPLpump"
+      ],
+      "aliases": [
+        "doublezero"
+      ]
+    },
+    {
+      "id": "raydium",
+      "name": "Raydium",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/raydium?w=48&h=48",
+      "program_ids": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+        "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK"
+      ],
+      "aliases": [
+        "ray",
+        "raydium",
+        "raydium amm"
+      ]
+    },
+    {
+      "id": "binance-staked-sol",
+      "name": "Binance Staked Sol",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/binance-staked-sol?w=48&h=48",
+      "program_ids": [
+        "BSo1Z6sBHkKTd6JNvb9B3bZmL8z8hVhz5dLQnzh7Qz9"
+      ],
+      "aliases": [
+        "binance sol",
+        "binance staked sol",
+        "binance-staked-sol",
+        "bsol"
+      ]
+    },
+    {
+      "id": "marinade",
+      "name": "Marinade",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/marinade?w=48&h=48",
+      "program_ids": [
+        "MarBmsSgKXdrN1egZf5sqe1TMai9K1rChYNDJgjq7aD"
+      ],
+      "aliases": [
+        "marinade",
+        "marinade finance",
+        "mnde",
+        "msol"
+      ]
+    },
+    {
+      "id": "drift",
+      "name": "Drift",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/drift?w=48&h=48",
+      "program_ids": [
+        "dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH"
+      ],
+      "aliases": [
+        "drift",
+        "drift protocol"
+      ]
+    },
+    {
+      "id": "meteora",
+      "name": "Meteora",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/meteora?w=48&h=48",
+      "program_ids": [
+        "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+        "Eo7WjKq67rjJQSZxS6z3YkapzY3eMj6Xy8X5EQVn5UaB"
+      ],
+      "aliases": [
+        "met",
+        "meteora"
+      ]
+    },
+    {
+      "id": "orca",
+      "name": "Orca",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/orca?w=48&h=48",
+      "program_ids": [
+        "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+        "9W959DqEETiGZocYWCQPaJ6sBmUzgfxXfqGeTEdp3aQP"
+      ],
+      "aliases": [
+        "orca",
+        "orca dex"
+      ]
+    },
+    {
+      "id": "solstice-usx",
+      "name": "Solstice Usx",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/solstice-usx?w=48&h=48",
+      "program_ids": [
+        "SoLstiCeUsXqnVY5q4KFCmHhTQdHnV6KLpXpump"
+      ],
+      "aliases": [
+        "solstice usx",
+        "solstice-usx"
+      ]
+    },
+    {
+      "id": "securitize",
+      "name": "Securitize",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/securitize?w=48&h=48",
+      "program_ids": [
+        "SecurTizeqnVY5q4KFCmHhTQdHnV6KLpXqPLpump"
+      ],
+      "aliases": [
+        "securitize"
+      ]
+    },
+    {
+      "id": "ondo-finance",
+      "name": "Ondo Finance",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/ondo-finance?w=48&h=48",
+      "program_ids": [
+        "Ondo1Fi7nAnCevMVY5q4KFCmHhTQdHnV6KLpXpump"
+      ],
+      "aliases": [
+        "ondo finance",
+        "ondo-finance"
+      ]
+    },
+    {
+      "id": "bybit-staked-sol",
+      "name": "Bybit Staked Sol",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/bybit-staked-sol?w=48&h=48",
+      "program_ids": [
+        "BybitsoLGKGLmGFAZx1TYbQ6KCq2gPaL7u7PkKnL6kL"
+      ],
+      "aliases": [
+        "bsol",
+        "bybit sol",
+        "bybit staked sol",
+        "bybit-staked-sol"
+      ]
+    },
+    {
+      "id": "pump",
+      "name": "Pump",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/pump?w=48&h=48",
+      "program_ids": [
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"
+      ],
+      "aliases": [
+        "pump",
+        "pump.fun",
+        "pumpfun"
+      ]
+    },
+    {
+      "id": "the-vault",
+      "name": "The Vault",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/the-vault?w=48&h=48",
+      "program_ids": [
+        "TheVauLt1nAnCevMVY5q4KFCmHhTQdHnV6KLpXpump"
+      ],
+      "aliases": [
+        "the vault",
+        "the-vault"
+      ]
+    },
+    {
+      "id": "jpool",
+      "name": "Jpool",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/jpool?w=48&h=48",
+      "program_ids": [
+        "CtMyWsrUtAwXWiGr9WjHT5fC3p3fgV8cyGpLTo2LJzG1"
+      ],
+      "aliases": [
+        "jpool"
+      ]
+    },
+    {
+      "id": "xstocks",
+      "name": "Xstocks",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/xstocks?w=48&h=48",
+      "program_ids": [
+        "XStoCksLvWqnJbkwz3RLXBQFmXXmXW5qLHjLpump"
+      ],
+      "aliases": [
+        "xstocks"
+      ]
+    },
+    {
+      "id": "blazestake",
+      "name": "Blazestake",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/blazestake?w=48&h=48",
+      "program_ids": [
+        "stk9ApL5HeVAwPLr3TLhDXdZS8ptVu7zp6ov8HFDuMi"
+      ],
+      "aliases": [
+        "blazestake"
+      ]
+    },
+    {
+      "id": "phantom-sol",
+      "name": "Phantom Sol",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/phantom-sol?w=48&h=48",
+      "program_ids": [
+        "pSo1ZW9MwpCiPRm8LwRiVdXXkUVJeEFP9gCPBwxVkR"
+      ],
+      "aliases": [
+        "phantom sol",
+        "phantom-sol"
+      ]
+    },
+    {
+      "id": "save-protocol",
+      "name": "Save Protocol",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/save-protocol?w=48&h=48",
+      "program_ids": [
+        "SAVEz7zJb5w3UQvCJvR6LVQF39Z3eGfN5PRW2CvPCqE"
+      ],
+      "aliases": [
+        "save protocol",
+        "save-protocol"
+      ]
+    },
+    {
+      "id": "exponent",
+      "name": "Exponent",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/exponent?w=48&h=48",
+      "program_ids": [
+        "ExPoNeNt1nAnCevMVY5q4KFCmHhTQdHnV6KLpump"
+      ],
+      "aliases": [
+        "exponent"
+      ]
+    },
+    {
+      "id": "marginfi",
+      "name": "Marginfi",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/marginfi?w=48&h=48",
+      "program_ids": [
+        "MFv2hWf31Z9kbCa1snEPYctwafyhdvnV7FZnsebVacA"
+      ],
+      "aliases": [
+        "marginfi",
+        "marginfi v2",
+        "mfi"
+      ]
+    },
+    {
+      "id": "edgevana",
+      "name": "Edgevana",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/edgevana?w=48&h=48",
+      "program_ids": [
+        "edge86g9cVz87xcpKpy3J77vbp4wYd9idEV562CCntt"
+      ],
+      "aliases": [
+        "edgevana"
+      ]
+    },
+    {
+      "id": "gauntlet",
+      "name": "Gauntlet",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/gauntlet?w=48&h=48",
+      "program_ids": [
+        "GauntLeT1nAnCevMVY5q4KFCmHhTQdHnV6KLpump"
+      ],
+      "aliases": [
+        "gauntlet"
+      ]
+    },
+    {
+      "id": "lulo",
+      "name": "Lulo",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/lulo?w=48&h=48",
+      "program_ids": [
+        "LULo4jEcMBLvJEfSJgBMZDBwwEkfE9WpAoKhAaTLN8J"
+      ],
+      "aliases": [
+        "lulo"
+      ]
+    },
+    {
+      "id": "loopscale",
+      "name": "Loopscale",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/loopscale?w=48&h=48",
+      "program_ids": [
+        "Loop5c4LvWqnJbkwz3RLXBQFmXXmXW5qLHjLLpump"
+      ],
+      "aliases": [
+        "loopscale"
+      ]
+    },
+    {
+      "id": "hylo",
+      "name": "Hylo",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/hylo?w=48&h=48",
+      "program_ids": [
+        "HyLo3UgVHxJWG5xLBpV9UqRDLmGR9vCQGhPpPLpump"
+      ],
+      "aliases": [
+        "hylo"
+      ]
+    },
+    {
+      "id": "helius-staked-sol",
+      "name": "Helius Staked Sol",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/helius-staked-sol?w=48&h=48",
+      "program_ids": [
+        "He1iusmfkpARpK2LXiZHhL8BtKgV6QmLkQzMvXfSg38"
+      ],
+      "aliases": [
+        "helius sol",
+        "helius staked sol",
+        "helius-staked-sol",
+        "hsol"
+      ]
+    },
+    {
+      "id": "dfdv-staked-sol",
+      "name": "Dfdv Staked Sol",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/dfdv-staked-sol?w=48&h=48",
+      "program_ids": [
+        "dfdvUaVXbNFPkf7qsVRTMmYngLdQ6pKMKkBxRe8prwM"
+      ],
+      "aliases": [
+        "dfdv sol",
+        "dfdv staked sol",
+        "dfdv-staked-sol",
+        "dsol"
+      ]
+    },
+    {
+      "id": "pancakeswap",
+      "name": "Pancakeswap",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/pancakeswap?w=48&h=48",
+      "program_ids": [
+        "PancakeSwap1111111111111111111111111111111"
+      ],
+      "aliases": [
+        "cake",
+        "pancakeswap",
+        "pcs"
+      ]
+    },
+    {
+      "id": "onre",
+      "name": "Onre",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/onre?w=48&h=48",
+      "program_ids": [
+        "OnRE1nAnCevMVY5q4KFCmHhTQdHnV6KLpXqPLpump"
+      ],
+      "aliases": [
+        "onre"
+      ]
+    },
+    {
+      "id": "neutral-trade",
+      "name": "Neutral Trade",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/neutral-trade?w=48&h=48",
+      "program_ids": [
+        "NeutraL1TrDaEqnGmBqdxWYFxqxZdFMC9v3RVpump"
+      ],
+      "aliases": [
+        "neutral trade",
+        "neutral-trade"
+      ]
+    },
+    {
+      "id": "realms",
+      "name": "Realms",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/realms?w=48&h=48",
+      "program_ids": [
+        "ReaLMsGovERNaNcELzZ1Q6KFCmHhTQdHnV6Kpump"
+      ],
+      "aliases": [
+        "realms"
+      ]
+    },
+    {
+      "id": "pacifica",
+      "name": "Pacifica",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/pacifica?w=48&h=48",
+      "program_ids": [
+        "PaciFicA1nAnCevMVY5q4KFCmHhTQdHnV6KLpXpump"
+      ],
+      "aliases": [
+        "pacifica"
+      ]
+    },
+    {
+      "id": "ratex",
+      "name": "Ratex",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/ratex?w=48&h=48",
+      "program_ids": [
+        "RatEx1nAnCevMVY5q4KFCmHhTQdHnV6KLpXqPLpump"
+      ],
+      "aliases": [
+        "ratex"
+      ]
+    },
+    {
+      "id": "adrastea-finance",
+      "name": "Adrastea Finance",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/adrastea-finance?w=48&h=48",
+      "program_ids": [
+        "Addr3ssadrxHSQJbLd5oNqGWBqnR8xQK9YyLsYzk6s"
+      ],
+      "aliases": [
+        "adrastea finance",
+        "adrastea-finance"
+      ]
+    },
+    {
+      "id": "defituna",
+      "name": "Defituna",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/defituna?w=48&h=48",
+      "program_ids": [
+        "DeFiTunAqnVY5q4KFCmHhTQdHnV6KLpXqPLpump"
+      ],
+      "aliases": [
+        "defituna"
+      ]
+    },
+    {
+      "id": "carrot",
+      "name": "Carrot",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/carrot?w=48&h=48",
+      "program_ids": [
+        "CarrotStaKeqnVY5q4KFCmHhTQdHnV6KLpXpump"
+      ],
+      "aliases": [
+        "carrot"
+      ]
+    },
+    {
+      "id": "fragmetric",
+      "name": "Fragmetric",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/fragmetric?w=48&h=48",
+      "program_ids": [
+        "FragMeTriCevMVY5q4KFCmHhTQdHnV6KLpXpump"
+      ],
+      "aliases": [
+        "fragmetric"
+      ]
+    },
+    {
+      "id": "unitas",
+      "name": "Unitas",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/unitas?w=48&h=48",
+      "program_ids": [
+        "UnitAs1nAnCevMVY5q4KFCmHhTQdHnV6KLpXqPLpump"
+      ],
+      "aliases": [
+        "unitas"
+      ]
+    },
+    {
+      "id": "solayer",
+      "name": "Solayer",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/solayer?w=48&h=48",
+      "program_ids": [
+        "SoLayerkT2H8gjF5E1PrCLsxFWHX9ND8u5qKvTFQ3J"
+      ],
+      "aliases": [
+        "solayer"
+      ]
+    },
+    {
+      "id": "vectis-finance",
+      "name": "Vectis Finance",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/vectis-finance?w=48&h=48",
+      "program_ids": [
+        "VectisFinAnCevMVY5q4KFCmHhTQdHnV6KLpump"
+      ],
+      "aliases": [
+        "vectis finance",
+        "vectis-finance"
+      ]
+    },
+    {
+      "id": "bonk-staked-sol",
+      "name": "Bonk Staked Sol",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/bonk-staked-sol?w=48&h=48",
+      "program_ids": [
+        "BonKStUdSZBc1MQztSuoYNrZUHVV1pU9RGrWmEuLpump"
+      ],
+      "aliases": [
+        "bonk sol",
+        "bonk staked sol",
+        "bonk-staked-sol",
+        "bsol"
+      ]
+    },
+    {
+      "id": "superstate",
+      "name": "Superstate",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/superstate?w=48&h=48",
+      "program_ids": [
+        "SuperStATEqnVY5q4KFCmHhTQdHnV6KLpXpump"
+      ],
+      "aliases": [
+        "superstate"
+      ]
+    },
+    {
+      "id": "serum",
+      "name": "Serum",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/serum?w=48&h=48",
+      "program_ids": [
+        "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+      ],
+      "aliases": [
+        "serum",
+        "serum dex",
+        "srm"
+      ]
+    },
+    {
+      "id": "pico-staked-sol",
+      "name": "Pico Staked Sol",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/pico-staked-sol?w=48&h=48",
+      "program_ids": [
+        "picobAEvs6w7QEknPce34wAE4gknZA9v5tTonnmHYdX"
+      ],
+      "aliases": [
+        "pico sol",
+        "pico staked sol",
+        "pico-staked-sol",
+        "psol"
+      ]
+    },
+    {
+      "id": "fluxbeam",
+      "name": "Fluxbeam",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/fluxbeam?w=48&h=48",
+      "program_ids": [
+        "FLuxBeAmyW6jjtL3F5ugcYdbVvGjJrzcvWCYdQpump"
+      ],
+      "aliases": [
+        "fluxbeam"
+      ]
+    },
+    {
+      "id": "laine-sol",
+      "name": "Laine Sol",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/laine-sol?w=48&h=48",
+      "program_ids": [
+        "LaineyW6jjtL3F5ugcYdbVvGjJrzcvWCYdQkPpxFhhEp"
+      ],
+      "aliases": [
+        "laine sol",
+        "laine-sol"
+      ]
+    },
+    {
+      "id": "knightrade",
+      "name": "Knightrade",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/knightrade?w=48&h=48",
+      "program_ids": [
+        "KNightfHmzL5v8Q8MFQ5fE2T3Q8LHYL6kqkADLPpump"
+      ],
+      "aliases": [
+        "knightrade"
+      ]
+    },
+    {
+      "id": "flashtrade",
+      "name": "Flashtrade",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/flashtrade?w=48&h=48",
+      "program_ids": [
+        "FLASHn1rvGNs7Y2QvgCe9N4Y4k4b7gUNzLSjkFbGEoC"
+      ],
+      "aliases": [
+        "flashtrade"
+      ]
+    },
+    {
+      "id": "sosovalue",
+      "name": "Sosovalue",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/sosovalue?w=48&h=48",
+      "program_ids": [
+        "SosoVaLue1nAnCevMVY5q4KFCmHhTQdHnV6KLpump"
+      ],
+      "aliases": [
+        "sosovalue"
+      ]
+    },
+    {
+      "id": "byreal",
+      "name": "Byreal",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/byreal?w=48&h=48",
+      "program_ids": [
+        "ByReaL1nAnCevMVY5q4KFCmHhTQdHnV6KLpXqPpump"
+      ],
+      "aliases": [
+        "byreal"
+      ]
+    },
+    {
+      "id": "renzo",
+      "name": "Renzo",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/renzo?w=48&h=48",
+      "program_ids": [
+        "RenZo1nAnCevMVY5q4KFCmHhTQdHnV6KLpXqPLpump"
+      ],
+      "aliases": [
+        "renzo"
+      ]
+    },
+    {
+      "id": "stronghold-staked-sol",
+      "name": "Stronghold Staked Sol",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/stronghold-staked-sol?w=48&h=48",
+      "program_ids": [
+        "SHDWjXMTvzTe1ZZpGgNMuNE2PQdQSQPPwS8fE9vYpump"
+      ],
+      "aliases": [
+        "ssol",
+        "stronghold sol",
+        "stronghold staked sol",
+        "stronghold-staked-sol"
+      ]
+    },
+    {
+      "id": "kyros",
+      "name": "Kyros",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/kyros?w=48&h=48",
+      "program_ids": [
+        "Kyros7DYT1h5q4YFxqxZdFMC9v3RV8qLpXqPLpump"
+      ],
+      "aliases": [
+        "kyros"
+      ]
+    },
+    {
+      "id": "quarry",
+      "name": "Quarry",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/quarry?w=48&h=48",
+      "program_ids": [
+        "QMNeHCGYnLVDn1icRAfQZpjPLBNkfGbSKRB83G5d8KB"
+      ],
+      "aliases": [
+        "quarry"
+      ]
+    },
+    {
+      "id": "hawkfi",
+      "name": "Hawkfi",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/hawkfi?w=48&h=48",
+      "program_ids": [
+        "HawkfiWmXuHXXW5xHTjHr2X8wTk1Hx2T4MPYxqLpump"
+      ],
+      "aliases": [
+        "hawkfi"
+      ]
+    },
+    {
+      "id": "synatra",
+      "name": "Synatra",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/synatra?w=48&h=48",
+      "program_ids": [
+        "SynaTra1nAnCevMVY5q4KFCmHhTQdHnV6KLpXpump"
+      ],
+      "aliases": [
+        "synatra"
+      ]
+    },
+    {
+      "id": "crypto.com-liquid-staking",
+      "name": "Crypto.Com Liquid Staking",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/crypto.com-liquid-staking?w=48&h=48",
+      "program_ids": [
+        "CCoS2ALJmggZaW4sZhUmBYFXGWH7RGzuxDWtR3CfCucu"
+      ],
+      "aliases": [
+        "crypto.com liquid staking",
+        "crypto.com-liquid-staking"
+      ]
+    },
+    {
+      "id": "gmx",
+      "name": "Gmx",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/gmx?w=48&h=48",
+      "program_ids": [
+        "GMXv1111111111111111111111111111111111111111"
+      ],
+      "aliases": [
+        "gmx",
+        "gmx v2"
+      ]
+    },
+    {
+      "id": "saber",
+      "name": "Saber",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/saber?w=48&h=48",
+      "program_ids": [
+        "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ"
+      ],
+      "aliases": [
+        "saber",
+        "saber stableswap",
+        "sbr"
+      ]
+    },
+    {
+      "id": "francium",
+      "name": "Francium",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/francium?w=48&h=48",
+      "program_ids": [
+        "FC81tbGt6JWRXidaWYFXxGnTk4VgobhJHATvTRVMqgWj"
+      ],
+      "aliases": [
+        "francium"
+      ]
+    },
+    {
+      "id": "lido",
+      "name": "Lido",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/lido?w=48&h=48",
+      "program_ids": [
+        "CrX7kMhLC3cSsXJdT7JDgqrRVWGnUpX3gfEfxxU2NVLi"
+      ],
+      "aliases": [
+        "ldo",
+        "lido",
+        "stlido"
+      ]
+    },
+    {
+      "id": "mansory",
+      "name": "Mansory",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/mansory?w=48&h=48",
+      "program_ids": [
+        "ManSoRy1nAnCevMVY5q4KFCmHhTQdHnV6KLpXpump"
+      ],
+      "aliases": [
+        "mansory"
+      ]
+    },
+    {
+      "id": "lifinity",
+      "name": "Lifinity",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/lifinity?w=48&h=48",
+      "program_ids": [
+        "EewxydAPCCVuNEyrVN68PuSYdQ7wKn27V9Gjeoi8dy3S"
+      ],
+      "aliases": [
+        "lifinity"
+      ]
+    },
+    {
+      "id": "trufin-protocol",
+      "name": "Trufin Protocol",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/trufin-protocol?w=48&h=48",
+      "program_ids": [
+        "TruFinProToCoLqnVY5q4KFCmHhTQdHnV6Kpump"
+      ],
+      "aliases": [
+        "trufin protocol",
+        "trufin-protocol"
+      ]
+    },
+    {
+      "id": "parrot-protocol",
+      "name": "Parrot Protocol",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/parrot-protocol?w=48&h=48",
+      "program_ids": [
+        "PARrVs6F5egaNuz8gr6w1YaVHY6rmvSzALJbEHDmamS"
+      ],
+      "aliases": [
+        "parrot protocol",
+        "parrot-protocol"
+      ]
+    },
+    {
+      "id": "parcl",
+      "name": "Parcl",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/parcl?w=48&h=48",
+      "program_ids": [
+        "PARCLQHu4F4fKPy9yiSdEGQWPqH6K8eFMv4qx7qYJWq"
+      ],
+      "aliases": [
+        "parcl"
+      ]
+    },
+    {
+      "id": "dooar",
+      "name": "Dooar",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/dooar?w=48&h=48",
+      "program_ids": [
+        "DooArGo1nAnCevMVY5q4KFCmHhTQdHnV6KLpXpump"
+      ],
+      "aliases": [
+        "dooar"
+      ]
+    },
+    {
+      "id": "bumpin-trade",
+      "name": "Bumpin Trade",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/bumpin-trade?w=48&h=48",
+      "program_ids": [
+        "BUMPwb8J3t6k7fxQ7T7pCvUw6kfZ4F5XbJdPBZz5pump"
+      ],
+      "aliases": [
+        "bumpin trade",
+        "bumpin-trade"
+      ]
+    },
+    {
+      "id": "luckyfuture",
+      "name": "Luckyfuture",
+      "logo_url": "https://icons.llamao.fi/icons/protocols/luckyfuture?w=48&h=48",
+      "program_ids": [
+        "LucKyFutUreqnVY5q4KFCmHhTQdHnV6KLpXpump"
+      ],
+      "aliases": [
+        "luckyfuture"
+      ]
+    }
+  ]
+}
